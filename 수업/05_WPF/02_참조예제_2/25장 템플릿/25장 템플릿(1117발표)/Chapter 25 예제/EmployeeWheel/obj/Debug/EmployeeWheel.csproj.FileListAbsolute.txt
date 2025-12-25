@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\EmployeeWheel\bin\Debug\EmployeeWheel.exe
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\EmployeeWheel\bin\Debug\EmployeeWheel.pdb
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheelWindow.g.cs
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheelApp.g.cs
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheel_MarkupCompile.cache
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheel_MarkupCompile.lref
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheelWindow.baml
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheel.g.resources
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheel.exe
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheel.pdb

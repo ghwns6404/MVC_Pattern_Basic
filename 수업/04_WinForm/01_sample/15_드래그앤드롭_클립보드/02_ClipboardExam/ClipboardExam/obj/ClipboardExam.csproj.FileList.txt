@@ -1,0 +1,8 @@
+bin\Debug\ClipboardExam.exe
+bin\Debug\ClipboardExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ClipboardExam.Form1.resources
+obj\Debug\ClipboardExam.Properties.Resources.resources
+obj\Debug\ClipboardExam.csproj.GenerateResource.Cache
+obj\Debug\ClipboardExam.exe
+obj\Debug\ClipboardExam.pdb

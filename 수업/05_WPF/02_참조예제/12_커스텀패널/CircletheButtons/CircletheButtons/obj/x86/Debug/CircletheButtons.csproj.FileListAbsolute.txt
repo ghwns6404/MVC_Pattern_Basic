@@ -1,0 +1,27 @@
+C:\Documents and Settings\woosong bit\바탕 화면\12chapter\CircletheButtons\CircletheButtons\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\12chapter\CircletheButtons\CircletheButtons\bin\Debug\CircletheButtons.exe
+C:\Documents and Settings\woosong bit\바탕 화면\12chapter\CircletheButtons\CircletheButtons\bin\Debug\CircletheButtons.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\12chapter\CircletheButtons\CircletheButtons\obj\x86\Debug\CircletheButtons.exe
+C:\Documents and Settings\woosong bit\바탕 화면\12chapter\CircletheButtons\CircletheButtons\obj\x86\Debug\CircletheButtons.pdb
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12chapter\CircletheButtons\CircletheButtons\obj\x86\Debug\CircletheButtons.exe
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12chapter\CircletheButtons\CircletheButtons\obj\x86\Debug\CircletheButtons.pdb
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12chapter\CircletheButtons\CircletheButtons\bin\Debug\CircletheButtons.exe
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12chapter\CircletheButtons\CircletheButtons\bin\Debug\CircletheButtons.pdb
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12chapter\CircletheButtons\CircletheButtons\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12_커스텀패널\CircletheButtons\CircletheButtons\obj\x86\Debug\CircletheButtons.exe
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12_커스텀패널\CircletheButtons\CircletheButtons\obj\x86\Debug\CircletheButtons.pdb
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12_커스텀패널\CircletheButtons\CircletheButtons\bin\Debug\CircletheButtons.exe
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12_커스텀패널\CircletheButtons\CircletheButtons\bin\Debug\CircletheButtons.pdb
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12_커스텀패널\CircletheButtons\CircletheButtons\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12커스텀패널\CircletheButtons\CircletheButtons\obj\x86\Debug\CircletheButtons.exe
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12커스텀패널\CircletheButtons\CircletheButtons\obj\x86\Debug\CircletheButtons.pdb
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12커스텀패널\CircletheButtons\CircletheButtons\bin\Debug\CircletheButtons.exe
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12커스텀패널\CircletheButtons\CircletheButtons\bin\Debug\CircletheButtons.pdb
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12커스텀패널\CircletheButtons\CircletheButtons\obj\x86\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\12_커스텀패널\CircletheButtons\CircletheButtons\obj\x86\Debug\CircletheButtons.exe
+\\61.81.99.99\c#\11_WPF 발표자료\12_커스텀패널\CircletheButtons\CircletheButtons\obj\x86\Debug\CircletheButtons.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\12_커스텀패널\CircletheButtons\CircletheButtons\bin\Debug\CircletheButtons.exe
+\\61.81.99.99\c#\11_WPF 발표자료\12_커스텀패널\CircletheButtons\CircletheButtons\bin\Debug\CircletheButtons.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\12_커스텀패널\CircletheButtons\CircletheButtons\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\12_커스텀패널\CircletheButtons\CircletheButtons\obj\x86\Debug\CircletheButtons.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\12_커스텀패널\CircletheButtons\CircletheButtons\obj\x86\Debug\CircletheButtons.pdb

@@ -1,0 +1,25 @@
+﻿DB날리기
+
+ALTER TABLE picture NOCHECK CONSTRAINT ALL;
+DELETE FROM picture;
+DBCC CHECKIDENT ('picture', RESEED, 0);
+ALTER TABLE picture CHECK CONSTRAINT ALL;
+
+-----------------------------------------------
+
+
+
+-- 외래키 제약 끄고 초기화
+ALTER TABLE s_sale NOCHECK CONSTRAINT ALL;
+
+DELETE FROM s_sale;
+DELETE FROM s_product;
+DELETE FROM s_custom;
+
+DBCC CHECKIDENT ('s_product', RESEED, 0);
+DBCC CHECKIDENT ('s_custom', RESEED, 0);
+DBCC CHECKIDENT ('s_sale', RESEED, 0);
+
+-- 제약 다시 켜기
+ALTER TABLE s_sale CHECK CONSTRAINT ALL;
+------------------------------------------------------------0,0,0으로 날리기

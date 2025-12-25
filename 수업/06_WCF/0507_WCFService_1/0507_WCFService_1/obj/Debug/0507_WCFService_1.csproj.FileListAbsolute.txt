@@ -1,0 +1,7 @@
+C:\Users\bit1\Desktop\0507_WCFService_1\0507_WCFService_1\obj\Debug\0507_WCFService_1.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\0507_WCFService_1\0507_WCFService_1\obj\Debug\0507_WCFService_1.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\0507_WCFService_1\0507_WCFService_1\bin\Debug\0507_WCFService_1.exe.config
+C:\Users\bit1\Desktop\0507_WCFService_1\0507_WCFService_1\bin\Debug\0507_WCFService_1.exe
+C:\Users\bit1\Desktop\0507_WCFService_1\0507_WCFService_1\bin\Debug\0507_WCFService_1.pdb
+C:\Users\bit1\Desktop\0507_WCFService_1\0507_WCFService_1\obj\Debug\0507_WCFService_1.exe
+C:\Users\bit1\Desktop\0507_WCFService_1\0507_WCFService_1\obj\Debug\0507_WCFService_1.pdb

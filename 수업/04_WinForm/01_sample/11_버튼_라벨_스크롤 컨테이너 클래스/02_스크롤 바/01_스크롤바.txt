@@ -1,0 +1,160 @@
+[ 스크롤바 예제 ]
+
+System.Windows.Forms.ScrollBar
+
+ - ScrollBar 클래스는 추상화 클래스이므로 이를 직접 사용하지 않고 파생된
+    HScrollBar 나 VScrollBar로 스크롤 기능을 구현함 
+
+
+*)ScrollBar 클래스 속성
+
+속성	자료형	설명
+---------------------------------------------------------
+Minimum	       int	스크롤 값의 하한 값을 가져오거나 설정
+Maximum	       int	스크롤 값의 상한 값을 가져오거나 설정
+SmallChange   int	스크롤 상자를 조금 움직였을때 value에 추가하거나 뺄값
+		을 가져오거나 설정
+LargeChange   int	스크롤 상자를 많이 움직일 때 Value에 추가하거나 뺄
+		값을 가져오거나 설정
+Value	       int    스크롤바에 있는 스크롤 상자의 현재 위치를 나타내는 숫
+                             자를 가져오거나 설정
+
+
+*) ScrollBar 클래스 이벤트 
+
+이벤트		메서드		설명
+-----------------------------------------------------------------------------
+ValueChanged	OnValueChanged	프로그램에서 value속성이 변경될 때 발생
+				스크롤바를 조작할때 발생하지 않음
+
+Scroll		OnScroll		마우스 또는 키보드 동작으로 스크롤
+				상자가 움직일 때 발생
+				Value값이 변할때는 발생하지 않음 
+
+*) ScrollEventArgs 클래스 속성
+
+속성	자료형 		설명
+----------------------------------------------------------------
+NetValue	int		스크롤 막대의 새 Value값을 가져오거나 설정
+OldValue	int		변경 전 Value속성에 포함된 숫자 값(닷넷2.0에서 새롭게 추가)
+Type	ScrollEventType	스크롤 이벤트를 발생시키는데 사용된 동작의 종류 반환
+ScrollOrientation ScrollOrientation 	Scroll이벤트를 발생시킨 스크롤바의 막대 방향 반환
+				(닷넷 2.0에서 새롭게 추가)
+
+ScrollEventType열거형 : EndScroll(스크롤 상자가 이동을 중지)
+		       First(스크롤 상자가 Minimum 위치로 이동)
+		       ThumbPosition(스크롤 상자 이동)
+
+ScrolllOrientation열거형 : HorizontalScroll(가로 막대 스크롤)
+		        VerticalScroll(세로 막대 스크롤)
+
+		       			
+using System;
+using System.Drawing;
+using System.Windows.Forms;
+
+public class ScrollExam : Form
+{
+    Panel top_panel = null;
+    Panel panel = null;
+    Label[] lbl = new Label[6];
+    VScrollBar[] vscroll = new VScrollBar[3];
+    HScrollBar hscroll = null;
+    string[] strcolor = { "빨강", "초록", "파랑" };
+    int r, g, b;
+
+    public ScrollExam()
+    {
+        r = g = b = 0;
+        int cx = this.ClientSize.Width;
+        int cy = this.ClientSize.Height;
+
+        top_panel = new Panel();
+        top_panel.Parent = this;
+        top_panel.Location = new Point(cx / 2, 0);
+        top_panel.Size = new Size(cx / 2, 100);
+        top_panel.BackColor = Color.Blue;
+
+        hscroll = new HScrollBar();
+        hscroll.Parent = top_panel;
+        hscroll.Minimum = 0;
+        hscroll.Maximum = 255;
+        hscroll.TabStop = true;
+        hscroll.ValueChanged += new EventHandler(ScrollExam_ValueChanged);
+        hscroll.Scroll += new ScrollEventHandler(ScrollExam_Scroll);
+        hscroll.Location = new Point(20, 30);
+        hscroll.Size = new Size(cx / 2 - 30, 20);
+
+        panel = new Panel();
+        panel.Parent = this;
+        panel.Location = new Point(0, 0);
+        panel.Size = new Size(cx / 2, cy);
+        panel.BackColor = Color.Yellow;
+
+        for (int i = 0; i < 3; i++)
+        {
+            lbl[i * 2] = new Label();
+            lbl[i * 2].Parent = panel;
+            lbl[i * 2].TextAlign = ContentAlignment.MiddleCenter;
+            lbl[i * 2].Text = strcolor[i];
+            lbl[i * 2].Location = new Point(i * cx / 6, 5);
+            lbl[i * 2].Size = new Size(cx / 6, 15);
+
+            vscroll[i] = new VScrollBar();
+            vscroll[i].Parent = panel;
+            vscroll[i].SmallChange = 1;
+            vscroll[i].LargeChange = 15;
+            vscroll[i].Minimum = 0;
+            vscroll[i].Maximum = 255;
+            vscroll[i].ValueChanged += new EventHandler(ScrollExam_ValueChanged);
+            vscroll[i].TabStop = true;
+            vscroll[i].Location = new Point((4 * i + 1) * cx / 24, 24);
+            vscroll[i].Size = new Size(cx / 12, cy - 4 * 12);
+
+            lbl[2 * i + 1] = new Label();
+            lbl[2 * i + 1].Parent = panel;
+            lbl[2 * i + 1].TextAlign = ContentAlignment.MiddleCenter;
+            lbl[2 * i + 1].Text = "0";
+            lbl[2 * i + 1].Location = new Point(i * cx / 6, cy - 3 * 6);
+            lbl[2 * i + 1].Size = new Size(cx / 6, 15);
+        }
+    }
+
+    private void ScrollExam_ValueChanged(object sender, EventArgs e)
+    {
+        ScrollBar obj = (ScrollBar)sender;
+        if (obj == vscroll[0])	//빨강색을 처리하는 VScrollBar에서 이벤트 발생
+        {
+            r = obj.Value;
+            lbl[1].Text = r.ToString();
+        }
+        else if (obj == vscroll[1])//초록색을 처리하는 VScrollBar에서 이벤트 발생
+        {
+            g = obj.Value;
+            lbl[3].Text = g.ToString();
+        }
+        else if (obj == vscroll[2])//파랑색을 처리하는 VScrollBar에서 이벤트 발생
+        {
+            b = obj.Value;
+            lbl[5].Text = b.ToString();
+        }
+        else if (obj == hscroll)//HScrollBar에서 ValueChanged이벤트가 발생
+        {
+            this.Text = "알파(투명도)값 :" + obj.Value;
+
+        }
+        this.BackColor = Color.FromArgb(r, g, b);//윈도우의 배경색을 설정된 값으로 변경 
+    }
+
+   // HScrollBar에서 Scroll 이벤트가 발생하면 호출되는 메서드 
+    private void ScrollExam_Scroll(object sender, ScrollEventArgs e)
+    {
+        string str = String.Format("NewValue = {0}, OldValue = {1}, ScrollEventType = {2}, ScrollOrientation = {3}", e.NewValue, e.OldValue, e.Type, e.ScrollOrientation);
+        this.Text = str;
+    }
+
+    public static void Main()
+    {
+        Application.Run(new ScrollExam());
+    }
+}

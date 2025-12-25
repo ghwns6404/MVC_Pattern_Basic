@@ -1,0 +1,6 @@
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\ImageTheButton\bin\Debug\ImageTheButton.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\ImageTheButton\bin\Debug\ImageTheButton.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\ImageTheButton\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\ImageTheButton\obj\Debug\ImageTheButton.g.resources
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\ImageTheButton\obj\Debug\ImageTheButton.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\ImageTheButton\obj\Debug\ImageTheButton.pdb

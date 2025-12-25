@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="13f18fe2-952a-4da3-aee4-2ab07337c717" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://220.90.180.108:9000/GetService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AccountService.wsdl" MetadataType="Wsdl" ID="922c74f3-a04c-4a93-971c-803dc9bc3072" SourceId="1" SourceUrl="http://220.90.180.108:9000/GetService?wsdl" />
+    <MetadataFile FileName="GetService.xsd" MetadataType="Schema" ID="4d544dcb-067b-47c8-89a5-bcf302c98bbb" SourceId="1" SourceUrl="http://220.90.180.108:9000/GetService?xsd=xsd2" />
+    <MetadataFile FileName="GetService.disco" MetadataType="Disco" ID="8d0fa8a4-f29c-4e7b-856b-dbedd3be04c1" SourceId="1" SourceUrl="http://220.90.180.108:9000/GetService?disco" />
+    <MetadataFile FileName="GetService1.xsd" MetadataType="Schema" ID="1256ff42-8bd6-414b-b8a8-d89db1ea0114" SourceId="1" SourceUrl="http://220.90.180.108:9000/GetService?xsd=xsd1" />
+    <MetadataFile FileName="GetService2.xsd" MetadataType="Schema" ID="fce49341-6791-4166-9686-e8626665e8c3" SourceId="1" SourceUrl="http://220.90.180.108:9000/GetService?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

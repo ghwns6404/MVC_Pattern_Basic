@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_form\\form4_print.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|solutionrelative:0422_form\\form4_print.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|solutionrelative:0422_form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|c:\\users\\bit1\\desktop\\\uCC9C\uD638\uC900\\04_winform\\0422_form\\0422_form\\form2_color1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|solutionrelative:0422_form\\form2_color1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_form\\form2_color1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|solutionrelative:0422_form\\form2_color1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_form\\form5_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|solutionrelative:0422_form\\form5_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_form\\form5_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|solutionrelative:0422_form\\form5_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_form\\form4_print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|solutionrelative:0422_form\\form4_print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_form\\form4_print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|solutionrelative:0422_form\\form4_print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_form\\form2_color2_sub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|solutionrelative:0422_form\\form2_color2_sub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_form\\form2_color2_sub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|solutionrelative:0422_form\\form2_color2_sub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_form\\form3_color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|solutionrelative:0422_form\\form3_color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_form\\form3_color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|solutionrelative:0422_form\\form3_color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_form\\form3_color.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46FE5-A2B2-4081-A462-B45EB1A72E74}|0422_Form\\0422_Form.csproj|solutionrelative:0422_form\\form3_color.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form5_Image.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form5_Image.cs",
+              "RelativeDocumentMoniker": "0422_Form\\Form5_Image.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0422_Form\\0422_Form\\Form5_Image.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\0422_Form\\0422_Form\\Form5_Image.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:27:58.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4_Print.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form4_Print.Designer.cs",
+              "RelativeDocumentMoniker": "0422_Form\\Form4_Print.Designer.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form4_Print.Designer.cs",
+              "RelativeToolTip": "0422_Form\\Form4_Print.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:22:47.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4_Print.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form4_Print.cs",
+              "RelativeDocumentMoniker": "0422_Form\\Form4_Print.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form4_Print.cs",
+              "RelativeToolTip": "0422_Form\\Form4_Print.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:22:01.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Program.cs",
+              "RelativeDocumentMoniker": "0422_Form\\Program.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Program.cs",
+              "RelativeToolTip": "0422_Form\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:19:25.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4_Print.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form4_Print.cs",
+              "RelativeDocumentMoniker": "0422_Form\\Form4_Print.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0422_Form\\0422_Form\\Form4_Print.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\0422_Form\\0422_Form\\Form4_Print.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:19:24.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2_Color1.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form2_Color1.cs",
+              "RelativeDocumentMoniker": "0422_Form\\Form2_Color1.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form2_Color1.cs",
+              "RelativeToolTip": "0422_Form\\Form2_Color1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:09:38.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2_Color2_Sub.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form2_Color2_Sub.cs",
+              "RelativeDocumentMoniker": "0422_Form\\Form2_Color2_Sub.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form2_Color2_Sub.cs",
+              "RelativeToolTip": "0422_Form\\Form2_Color2_Sub.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:09:16.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2_Color2_Sub.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form2_Color2_Sub.cs",
+              "RelativeDocumentMoniker": "0422_Form\\Form2_Color2_Sub.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\0422_Form\\0422_Form\\Form2_Color2_Sub.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\user\\Desktop\\C#\\0422_Form\\0422_Form\\Form2_Color2_Sub.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:09:10.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2_Color1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form2_Color1.cs",
+              "RelativeDocumentMoniker": "0422_Form\\Form2_Color1.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0422_Form\\0422_Form\\Form2_Color1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\0422_Form\\0422_Form\\Form2_Color1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:09:06.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form5_Image.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form5_Image.cs",
+              "RelativeDocumentMoniker": "0422_Form\\Form5_Image.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form5_Image.cs",
+              "RelativeToolTip": "0422_Form\\Form5_Image.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:28:47.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3_Color.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form3_Color.Designer.cs",
+              "RelativeDocumentMoniker": "0422_Form\\Form3_Color.Designer.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form3_Color.Designer.cs",
+              "RelativeToolTip": "0422_Form\\Form3_Color.Designer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwEEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T02:23:42.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form3_Color.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form3_Color.cs",
+              "RelativeDocumentMoniker": "0422_Form\\Form3_Color.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form3_Color.cs",
+              "RelativeToolTip": "0422_Form\\Form3_Color.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAjwDQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T02:22:22.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form3_Color.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uCC9C\uD638\uC900\\04_WinForm\\0422_Form\\0422_Form\\Form3_Color.cs",
+              "RelativeDocumentMoniker": "0422_Form\\Form3_Color.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\0422_Form\\0422_Form\\Form3_Color.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\user\\Desktop\\C#\\0422_Form\\0422_Form\\Form3_Color.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T02:21:05.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_WCF_\uC77C\uB300\uC77C_\uCC44\uD305\\Chatting_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2AD8A5-29E2-4F74-8394-EDD36E898477}|Chatting_Client\\Chatting_Client.csproj|c:\\users\\bit1\\desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_wcf_\uC77C\uB300\uC77C_\uCC44\uD305\\chatting_client\\chatting_client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2AD8A5-29E2-4F74-8394-EDD36E898477}|Chatting_Client\\Chatting_Client.csproj|solutionrelative:chatting_client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2AD8A5-29E2-4F74-8394-EDD36E898477}|Chatting_Client\\Chatting_Client.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_WCF_\uC77C\uB300\uC77C_\uCC44\uD305\\Chatting_Client\\chatting_client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B2AD8A5-29E2-4F74-8394-EDD36E898477}|Chatting_Client\\Chatting_Client.csproj|solutionrelative:chatting_client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2AD8A5-29E2-4F74-8394-EDD36E898477}|Chatting_Client\\Chatting_Client.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_WCF_\uC77C\uB300\uC77C_\uCC44\uD305\\Chatting_Client\\chatting_client\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2AD8A5-29E2-4F74-8394-EDD36E898477}|Chatting_Client\\Chatting_Client.csproj|solutionrelative:chatting_client\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2AD8A5-29E2-4F74-8394-EDD36E898477}|Chatting_Client\\Chatting_Client.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_WCF_\uC77C\uB300\uC77C_\uCC44\uD305\\Chatting_Client\\chatting_client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0B2AD8A5-29E2-4F74-8394-EDD36E898477}|Chatting_Client\\Chatting_Client.csproj|solutionrelative:chatting_client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2AD8A5-29E2-4F74-8394-EDD36E898477}|Chatting_Client\\Chatting_Client.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_WCF_\uC77C\uB300\uC77C_\uCC44\uD305\\Chatting_Client\\chatting_client\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B2AD8A5-29E2-4F74-8394-EDD36E898477}|Chatting_Client\\Chatting_Client.csproj|solutionrelative:chatting_client\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_WCF_\uC77C\uB300\uC77C_\uCC44\uD305\\Chatting_Client\\Chatting_Client\\App.xaml",
+              "RelativeDocumentMoniker": "Chatting_Client\\App.xaml",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_WCF_\uC77C\uB300\uC77C_\uCC44\uD305\\Chatting_Client\\Chatting_Client\\App.xaml",
+              "RelativeToolTip": "Chatting_Client\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T05:06:39.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_WCF_\uC77C\uB300\uC77C_\uCC44\uD305\\Chatting_Client\\Chatting_Client\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Chatting_Client\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_WCF_\uC77C\uB300\uC77C_\uCC44\uD305\\Chatting_Client\\Chatting_Client\\App.xaml.cs",
+              "RelativeToolTip": "Chatting_Client\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:50:07.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_WCF_\uC77C\uB300\uC77C_\uCC44\uD305\\Chatting_Client\\Chatting_Client\\App.config",
+              "RelativeDocumentMoniker": "Chatting_Client\\App.config",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_WCF_\uC77C\uB300\uC77C_\uCC44\uD305\\Chatting_Client\\Chatting_Client\\App.config",
+              "RelativeToolTip": "Chatting_Client\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-08T04:50:01.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_WCF_\uC77C\uB300\uC77C_\uCC44\uD305\\Chatting_Client\\Chatting_Client\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Chatting_Client\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_WCF_\uC77C\uB300\uC77C_\uCC44\uD305\\Chatting_Client\\Chatting_Client\\MainWindow.xaml",
+              "RelativeToolTip": "Chatting_Client\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T04:48:01.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_WCF_\uC77C\uB300\uC77C_\uCC44\uD305\\Chatting_Client\\Chatting_Client\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Chatting_Client\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_WCF_\uC77C\uB300\uC77C_\uCC44\uD305\\Chatting_Client\\Chatting_Client\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Chatting_Client\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:48:00.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

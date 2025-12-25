@@ -1,0 +1,51 @@
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\obj\x86\Debug\Star.baml
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.g.resources
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.exe
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.pdb
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\obj\x86\Debug\RadialGradientStar.baml
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\obj\x86\Debug\AttachedPropertiesDemo.baml
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\obj\x86\Debug\PropertyInheritance.baml
+C:\Users\Administrator\Desktop\비트\실버라이트\WpfApplication4\WpfApplication4\obj\x86\Debug\SimpleGrid.baml
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.exe
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.pdb
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\obj\x86\Debug\AttachedPropertiesDemo.baml
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\obj\x86\Debug\PropertyInheritance.baml
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\obj\x86\Debug\RadialGradientStar.baml
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\obj\x86\Debug\SimpleGrid.baml
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\obj\x86\Debug\Star.baml
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.g.resources
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\WpfApplication4\WpfApplication4\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\obj\x86\Debug\AttachedPropertiesDemo.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\obj\x86\Debug\PropertyInheritance.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\obj\x86\Debug\RadialGradientStar.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\obj\x86\Debug\SimpleGrid.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\obj\x86\Debug\Star.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.g.resources
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\20_프로퍼티와 속성\20장발표\WpfApplication4\WpfApplication4\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

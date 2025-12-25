@@ -1,0 +1,9 @@
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\05_CollectionViewWithFilter\bin\Debug\CollectionViewWithFilter.exe
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\05_CollectionViewWithFilter\bin\Debug\CollectionViewWithFilter.pdb
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\05_CollectionViewWithFilter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\05_CollectionViewWithFilter\obj\Debug\CollectionViewWithFilter.baml
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\05_CollectionViewWithFilter\obj\Debug\CollectionViewWithFilter.g.cs
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\05_CollectionViewWithFilter\obj\Debug\CollectionViewWithFilter_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\05_CollectionViewWithFilter\obj\Debug\CollectionViewWithFilter.g.resources
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\05_CollectionViewWithFilter\obj\Debug\CollectionViewWithFilter.exe
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\05_CollectionViewWithFilter\obj\Debug\CollectionViewWithFilter.pdb

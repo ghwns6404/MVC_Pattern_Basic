@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BallDrop", "BallDrop.vcproj", "{FAF3BE16-19AD-4AF9-9A0B-D676D7091D3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF3BE16-19AD-4AF9-9A0B-D676D7091D3F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FAF3BE16-19AD-4AF9-9A0B-D676D7091D3F}.Debug|Win32.Build.0 = Debug|Win32
+		{FAF3BE16-19AD-4AF9-9A0B-D676D7091D3F}.Release|Win32.ActiveCfg = Release|Win32
+		{FAF3BE16-19AD-4AF9-9A0B-D676D7091D3F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

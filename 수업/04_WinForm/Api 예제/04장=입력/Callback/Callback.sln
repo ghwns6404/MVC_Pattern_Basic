@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Callback", "Callback.vcproj", "{534CFD95-8F9B-4364-AC57-9D05DC8E9695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{534CFD95-8F9B-4364-AC57-9D05DC8E9695}.Debug|Win32.ActiveCfg = Debug|Win32
+		{534CFD95-8F9B-4364-AC57-9D05DC8E9695}.Debug|Win32.Build.0 = Debug|Win32
+		{534CFD95-8F9B-4364-AC57-9D05DC8E9695}.Release|Win32.ActiveCfg = Release|Win32
+		{534CFD95-8F9B-4364-AC57-9D05DC8E9695}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

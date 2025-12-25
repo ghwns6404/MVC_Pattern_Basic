@@ -1,0 +1,22 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 13\ListColorsEvenElegantlier\bin\Debug\ListColorsEvenElegantlier.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 13\ListColorsEvenElegantlier\bin\Debug\ListColorsEvenElegantlier.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 13\ListColorsEvenElegantlier\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 13\ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 13\ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.exe
+C:\Documents and Settings\woosong bit\바탕 화면\ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\ListColorsEvenElegantlier\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\ListColorsEvenElegantlier\bin\Debug\ListColorsEvenElegantlier.exe
+C:\Documents and Settings\woosong bit\바탕 화면\ListColorsEvenElegantlier\bin\Debug\ListColorsEvenElegantlier.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\올빼미\ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.exe
+C:\Documents and Settings\woosong bit\바탕 화면\올빼미\ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\올빼미\ListColorsEvenElegantlier\bin\Debug\ListColorsEvenElegantlier.exe
+C:\Documents and Settings\woosong bit\바탕 화면\올빼미\ListColorsEvenElegantlier\bin\Debug\ListColorsEvenElegantlier.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\올빼미\ListColorsEvenElegantlier\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\25장 템플릿\ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.exe
+C:\Documents and Settings\woosong bit\바탕 화면\25장 템플릿\ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.pdb
+D:\WOOSONG13\11_WPF\25장 템플릿\ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.exe
+D:\WOOSONG13\11_WPF\25장 템플릿\ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.pdb
+D:\WOOSONG13\11_WPF\25장 템플릿\ListColorsEvenElegantlier\bin\Debug\ListColorsEvenElegantlier.exe
+D:\WOOSONG13\11_WPF\25장 템플릿\ListColorsEvenElegantlier\bin\Debug\ListColorsEvenElegantlier.pdb
+D:\WOOSONG13\11_WPF\25장 템플릿\ListColorsEvenElegantlier\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+bin\Debug\UpDownExam.exe
+bin\Debug\UpDownExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UpDownExam.exe
+obj\Debug\UpDownExam.pdb

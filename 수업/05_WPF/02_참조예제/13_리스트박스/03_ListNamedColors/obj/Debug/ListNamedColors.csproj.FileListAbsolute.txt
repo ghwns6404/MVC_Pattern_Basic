@@ -1,0 +1,20 @@
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListNamedColors\bin\Debug\ListNamedColors.exe
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListNamedColors\bin\Debug\ListNamedColors.pdb
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListNamedColors\obj\Debug\ResolveAssemblyReference.cache
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListNamedColors\obj\Debug\ListNamedColors.exe
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListNamedColors\obj\Debug\ListNamedColors.pdb
+C:\Users\kingup\Desktop\07_리스트박스\03_ListNamedColors\obj\Debug\ListNamedColors.exe
+C:\Users\kingup\Desktop\07_리스트박스\03_ListNamedColors\obj\Debug\ListNamedColors.pdb
+C:\Users\kingup\Desktop\07_리스트박스\03_ListNamedColors\bin\Debug\ListNamedColors.exe
+C:\Users\kingup\Desktop\07_리스트박스\03_ListNamedColors\bin\Debug\ListNamedColors.pdb
+C:\Users\kingup\Desktop\07_리스트박스\03_ListNamedColors\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\03_ListNamedColors\obj\Debug\ListNamedColors.exe
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\03_ListNamedColors\obj\Debug\ListNamedColors.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\03_ListNamedColors\bin\Debug\ListNamedColors.exe
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\03_ListNamedColors\bin\Debug\ListNamedColors.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\03_ListNamedColors\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\11_WPF\13_리스트박스\03_ListNamedColors\obj\Debug\ListNamedColors.exe
+C:\Documents and Settings\woosong bit\바탕 화면\11_WPF\13_리스트박스\03_ListNamedColors\obj\Debug\ListNamedColors.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\11_WPF\13_리스트박스\03_ListNamedColors\bin\Debug\ListNamedColors.exe
+C:\Documents and Settings\woosong bit\바탕 화면\11_WPF\13_리스트박스\03_ListNamedColors\bin\Debug\ListNamedColors.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\11_WPF\13_리스트박스\03_ListNamedColors\obj\Debug\ResolveAssemblyReference.cache

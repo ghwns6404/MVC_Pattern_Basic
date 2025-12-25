@@ -1,0 +1,18 @@
+C:\Users\DELL\Downloads\AppsCodeMarkup\Chapter 28\BezierExperimenter\bin\Debug\BezierExperimenter.exe
+C:\Users\DELL\Downloads\AppsCodeMarkup\Chapter 28\BezierExperimenter\bin\Debug\BezierExperimenter.pdb
+C:\Users\DELL\Downloads\AppsCodeMarkup\Chapter 28\BezierExperimenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\AppsCodeMarkup\Chapter 28\BezierExperimenter\obj\Debug\BezierExperimenter.baml
+C:\Users\DELL\Downloads\AppsCodeMarkup\Chapter 28\BezierExperimenter\obj\Debug\BezierExperimenter.g.cs
+C:\Users\DELL\Downloads\AppsCodeMarkup\Chapter 28\BezierExperimenter\obj\Debug\BezierExperimenter_MarkupCompile.cache
+C:\Users\DELL\Downloads\AppsCodeMarkup\Chapter 28\BezierExperimenter\obj\Debug\BezierExperimenter.g.resources
+C:\Users\DELL\Downloads\AppsCodeMarkup\Chapter 28\BezierExperimenter\obj\Debug\BezierExperimenter.exe
+C:\Users\DELL\Downloads\AppsCodeMarkup\Chapter 28\BezierExperimenter\obj\Debug\BezierExperimenter.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\BezierExperimenter\obj\Debug\BezierExperimenter.exe
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\BezierExperimenter\obj\Debug\BezierExperimenter.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\BezierExperimenter\bin\Debug\BezierExperimenter.exe
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\BezierExperimenter\bin\Debug\BezierExperimenter.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\BezierExperimenter\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\BezierExperimenter\obj\Debug\BezierExperimenter.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\BezierExperimenter\obj\Debug\BezierExperimenter.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\BezierExperimenter\obj\Debug\BezierExperimenter_MarkupCompile.cache
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\BezierExperimenter\obj\Debug\BezierExperimenter.g.resources

@@ -1,0 +1,15 @@
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\bin\Debug\MultiRecordDataEntry.exe
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\bin\Debug\MultiRecordDataEntry.pdb
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\DatePicker.baml
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\DatePicker.g.cs
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry.g.cs
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\PersonPanel.g.cs
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry_MarkupCompile.lref
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry.baml
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\PersonPanel.baml
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry.g.resources
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry.exe
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry.pdb

@@ -1,0 +1,105 @@
+using System;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+
+namespace Petzold.SetFontSizeProperty
+{
+    public class SetFontSizeProperty : Window
+    {
+        [STAThread]
+        public static void Main()
+        {
+            Application app = new Application();
+            app.Run(new SetFontSizeProperty());
+        }
+        public SetFontSizeProperty()
+        {
+            Title = "글자크기 변환!의존프로퍼티 ";
+            SizeToContent = SizeToContent.WidthAndHeight;
+            ResizeMode = ResizeMode.CanMinimize;
+
+            // 폰트 크기를 초기화
+            FontSize = 16;
+            double[] fntsizes = { 8, 16, 32 };
+
+            // 그리드 만들고 셋팅
+            Grid grid = new Grid();
+            Content = grid;
+
+            for (int i = 0; i < 2; i++)
+            {
+                RowDefinition row = new RowDefinition();
+                row.Height = GridLength.Auto;
+                grid.RowDefinitions.Add(row);
+            }
+            for (int i = 0; i < fntsizes.Length; i++)
+            {
+                ColumnDefinition col = new ColumnDefinition();
+                col.Width = GridLength.Auto;
+                grid.ColumnDefinitions.Add(col);
+            }
+
+            // 버튼생성(fntsizes 배열크기만큼.. 3개)
+            for (int i = 0; i < fntsizes.Length; i++)
+            {
+                Button btn = new Button();
+                btn.Content = new TextBlock(new Run("폰트사이즈 :  " + fntsizes[i]));
+                //============윈도우 상속 ===============================
+                // FrameworkElement.Tag :
+                // 사용자 지정 정보를 저장하는데 사용할 수 있는 임의의 개체값 가져옮, 
+                // 여기서는 사이즈를 저장
+                btn.Tag = fntsizes[i];
+                btn.HorizontalAlignment = HorizontalAlignment.Center;
+                btn.VerticalAlignment = VerticalAlignment.Center;
+
+                // 이벤트핸들러--------------------------
+                btn.Click += WindowFontSizeOnClick;
+                //----------------------------------------
+
+                // 위에서 그린 그리드의 자식으로 추가
+                grid.Children.Add(btn);
+                // 그리드의첫번째행
+                Grid.SetRow(btn, 0);
+                Grid.SetColumn(btn, i);
+
+
+                //==============버튼 상속===============================
+                
+                btn = new Button();
+                btn.Content = new TextBlock(new Run("폰트사이즈:  " + fntsizes[i]));
+                btn.Tag = fntsizes[i];
+                btn.HorizontalAlignment = HorizontalAlignment.Center;
+                btn.VerticalAlignment = VerticalAlignment.Center;
+                //----------------------------------------
+                btn.Click += ButtonFontSizeOnClick;
+                //----------------------------------------
+                grid.Children.Add(btn);
+                Grid.SetRow(btn, 1);
+                Grid.SetColumn(btn, i);
+
+            }
+        }
+        // 버튼 클릭했을 때 발생하는이벤트- 위에버튼
+        void WindowFontSizeOnClick(object sender, RoutedEventArgs args)
+        {
+            // 이벤트를 발생시킨 버튼 객체 저장
+            Button btn = args.Source as Button;
+
+            // 폰트사이즈변수에 이벤트 발생 버튼의 태그(폰트사이즈)를 가져옴
+            //윈도우에서 상속한 폰트사이즈 변경 
+            FontSize = (double)btn.Tag;
+        }
+
+        // 버튼 클릭했을 때 발생하는 이벤트- 아래버튼
+        void ButtonFontSizeOnClick(object sender, RoutedEventArgs args)
+        {
+            Button btn = args.Source as Button;
+            //버튼의 폰트사이즈 변경 
+            btn.FontSize = (double)btn.Tag;
+        }
+    }
+}
+//=================================================================================================

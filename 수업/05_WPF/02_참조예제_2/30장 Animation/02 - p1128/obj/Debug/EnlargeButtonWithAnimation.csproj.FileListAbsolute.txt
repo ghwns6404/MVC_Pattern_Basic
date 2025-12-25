@@ -1,0 +1,20 @@
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\EnlargeButtonWithAnimation\bin\Debug\EnlargeButtonWithAnimation.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\EnlargeButtonWithAnimation\bin\Debug\EnlargeButtonWithAnimation.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\EnlargeButtonWithAnimation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\EnlargeButtonWithAnimation\obj\Debug\EnlargeButtonWithAnimation.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\EnlargeButtonWithAnimation\obj\Debug\EnlargeButtonWithAnimation.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\예제2-1128\EnlargeButtonWithAnimation\obj\Debug\EnlargeButtonWithAnimation.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\예제2-1128\EnlargeButtonWithAnimation\obj\Debug\EnlargeButtonWithAnimation.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\예제2-1128\EnlargeButtonWithAnimation\bin\Debug\EnlargeButtonWithAnimation.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\예제2-1128\EnlargeButtonWithAnimation\bin\Debug\EnlargeButtonWithAnimation.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\예제2-1128\EnlargeButtonWithAnimation\obj\Debug\ResolveAssemblyReference.cache
+D:\WOOSONG13\11_WPF\30장 Animation\02 - p1128\obj\Debug\EnlargeButtonWithAnimation.exe
+D:\WOOSONG13\11_WPF\30장 Animation\02 - p1128\obj\Debug\EnlargeButtonWithAnimation.pdb
+D:\WOOSONG13\11_WPF\30장 Animation\02 - p1128\bin\Debug\EnlargeButtonWithAnimation.exe
+D:\WOOSONG13\11_WPF\30장 Animation\02 - p1128\bin\Debug\EnlargeButtonWithAnimation.pdb
+D:\WOOSONG13\11_WPF\30장 Animation\02 - p1128\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\02 - p1128\obj\Debug\EnlargeButtonWithAnimation.exe
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\02 - p1128\obj\Debug\EnlargeButtonWithAnimation.pdb
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\02 - p1128\bin\Debug\EnlargeButtonWithAnimation.exe
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\02 - p1128\bin\Debug\EnlargeButtonWithAnimation.pdb
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\02 - p1128\obj\Debug\ResolveAssemblyReference.cache

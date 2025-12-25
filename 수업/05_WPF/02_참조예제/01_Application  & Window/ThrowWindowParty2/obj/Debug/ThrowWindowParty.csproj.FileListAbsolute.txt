@@ -1,0 +1,22 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 01\ThrowWindowParty\bin\Debug\ThrowWindowParty.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 01\ThrowWindowParty\bin\Debug\ThrowWindowParty.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 01\ThrowWindowParty\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 01\ThrowWindowParty\obj\Debug\ThrowWindowParty.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 01\ThrowWindowParty\obj\Debug\ThrowWindowParty.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 01\ThrowWindowParty\obj\Debug\ThrowWindowParty.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 01\ThrowWindowParty\obj\Debug\ThrowWindowParty.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 01\ThrowWindowParty\bin\Debug\ThrowWindowParty.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 01\ThrowWindowParty\bin\Debug\ThrowWindowParty.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 01\ThrowWindowParty\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\11_WPF 발표자료\01_Chapter\ThrowWindowParty\obj\Debug\ThrowWindowParty.exe
+C:\Users\Administrator\Desktop\11_WPF 발표자료\01_Chapter\ThrowWindowParty\obj\Debug\ThrowWindowParty.pdb
+C:\Users\Administrator\Desktop\11_WPF 발표자료\01_Chapter\ThrowWindowParty\bin\Debug\ThrowWindowParty.exe
+C:\Users\Administrator\Desktop\11_WPF 발표자료\01_Chapter\ThrowWindowParty\bin\Debug\ThrowWindowParty.pdb
+C:\Users\Administrator\Desktop\11_WPF 발표자료\01_Chapter\ThrowWindowParty\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\ThrowWindowParty2\obj\Debug\ThrowWindowParty.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\ThrowWindowParty2\obj\Debug\ThrowWindowParty.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\ThrowWindowParty2\bin\Debug\ThrowWindowParty.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\ThrowWindowParty2\bin\Debug\ThrowWindowParty.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\ThrowWindowParty2\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\01_Chapter\ThrowWindowParty2\obj\Debug\ThrowWindowParty.exe
+\\61.81.99.99\c#\11_WPF 발표자료\01_Chapter\ThrowWindowParty2\obj\Debug\ThrowWindowParty.pdb

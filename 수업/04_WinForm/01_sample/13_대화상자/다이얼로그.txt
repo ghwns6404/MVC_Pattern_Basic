@@ -1,0 +1,57 @@
+[ 대화 상자 ]
+
+모달 / 모달리스 
+
+- 구현 방법
+   모달 : Form 클래스가 제공하는 ShowDialog() 호출
+   모달리스 : Form 클래스가 제공하는 Show() 메서드 호출 
+
+
+*) 공통 대화상자 
+
+OpenFileDialog
+- 속성
+   Default : 기본 확장자를 가져오거나 설정
+   FileName : 파일 대화상자에서 선택한 파일 이름을 포함하는 문자열을 
+		가져오거나 설정
+   FileNames : 대화상자에서 선택한 모든 파일의 이름을 배열로 반환
+   Filter : 파일 선택 옵션
+   InitialDirectiory : 파일 대화상자가 표시하는 초기 디렉토리를 가져오거나 설정
+   Multiselect : 여러개의 파일을 설정 여부 
+   Title : 대화상자 제목 설정
+
+SaveFileDialog
+- 속성
+   CheckFileExists : 존재하지 않는 파일 이름 선택시 대화상자에 경고메시지 표시 여부 
+   CreatePrompt : 존재하지 않는 파일을 지정할 때 파일을 새로 만들것인지 사용자에게 
+		묻는 메시지 표시 여부
+   DefaultExt : 기본 확장자를 가져오가나 설정
+   FileName : 파일 대화상자에서 선택한 파일 이름을 포함하는 문자열을 가져오거나 설정
+   Filter : 선택 옵션 설정
+   InitialDirectiory : 파일 대화상자가 표시하는 초기 디렉토리를 가져오거나 설정
+   OverwritePrompt : 이미 존재하는 파일 이름을 지정할때 Save As 대화상자에 경고가 
+		 표시되는지 여부를 가져오거나 설정 
+   Title : 대화상자 제목 설정
+
+ColorDialog
+- 속성 
+   Color : 선택한 색을 가져오거나 설정
+   CustomClolors : 대화상자에 표시된 사용자 지정 색 집합을 가져오거나 설정
+   FullOpen : 사용자 지정 색 만드는 컨트롤을 볼 수 있느닞 여부를 설정
+   SolidColorOnly : 단색만 선택할 수 있는지 여부를 나타내는 값을 가져오거나 설정
+
+FontDialog
+- 속성
+   Font : 선택한 글꼴을 가져오거나 설정
+   Color ; 선택한 글꼴의 색을 가져오거나 설정
+   ShowApply : 대화상자에 적용 버튼이 있는지 여부를 가져오거나 설정
+   ShowColor : 대화상자에 색 선택을 표시하는 여부를 가져오거나 설정 
+
+FolerBowserDialog : 폴더 선택시 
+- 속성
+   RootFoler : 찾아보기가 시작될 루트 폴더를 가져오거나 설정
+   Description : 대화상자의 TreeView 컨트롤 위에 표시되는 설명문을 가져오거나 설정
+   SelectedPath : 선택한 경로를 가져오거나 설정
+  ShowNewFolerButton : 새 폴더 만들기 버튼을 표시 여부 설정 
+
+-> 도구 상자에서 확인 가능 

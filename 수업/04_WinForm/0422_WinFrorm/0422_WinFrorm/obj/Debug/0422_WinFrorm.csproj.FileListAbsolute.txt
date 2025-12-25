@@ -1,0 +1,7 @@
+C:\Users\bit1\Desktop\0422_WinFrorm\0422_WinFrorm\obj\Debug\0422_WinFrorm.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\0422_WinFrorm\0422_WinFrorm\obj\Debug\0422_WinFrorm.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\0422_WinFrorm\0422_WinFrorm\bin\Debug\0422_WinFrorm.exe.config
+C:\Users\bit1\Desktop\0422_WinFrorm\0422_WinFrorm\bin\Debug\0422_WinFrorm.exe
+C:\Users\bit1\Desktop\0422_WinFrorm\0422_WinFrorm\bin\Debug\0422_WinFrorm.pdb
+C:\Users\bit1\Desktop\0422_WinFrorm\0422_WinFrorm\obj\Debug\0422_WinFrorm.exe
+C:\Users\bit1\Desktop\0422_WinFrorm\0422_WinFrorm\obj\Debug\0422_WinFrorm.pdb

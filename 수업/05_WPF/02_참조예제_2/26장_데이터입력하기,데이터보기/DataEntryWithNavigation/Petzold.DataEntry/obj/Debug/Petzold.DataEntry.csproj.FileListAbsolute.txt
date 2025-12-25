@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\bin\Debug\Petzold.DataEntry.dll
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\bin\Debug\Petzold.DataEntry.pdb
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\NavigationBar.baml
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\NavigationBar.g.cs
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\Petzold.DataEntry_MarkupCompile.cache
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\Petzold.DataEntry.g.resources
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\Petzold.DataEntry.dll
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\Petzold.DataEntry.pdb

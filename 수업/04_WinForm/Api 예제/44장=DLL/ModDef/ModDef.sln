@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ModDef", "ModDef.vcproj", "{09534D60-54D5-4309-858C-5F3190EF1707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09534D60-54D5-4309-858C-5F3190EF1707}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09534D60-54D5-4309-858C-5F3190EF1707}.Debug|Win32.Build.0 = Debug|Win32
+		{09534D60-54D5-4309-858C-5F3190EF1707}.Release|Win32.ActiveCfg = Release|Win32
+		{09534D60-54D5-4309-858C-5F3190EF1707}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

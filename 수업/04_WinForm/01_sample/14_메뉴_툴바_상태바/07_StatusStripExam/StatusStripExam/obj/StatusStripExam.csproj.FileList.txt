@@ -1,0 +1,7 @@
+bin\Debug\StatusStripExam.exe
+bin\Debug\StatusStripExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\StatusStripExam.ColorHS.BMP
+obj\Debug\StatusStripExam.CommentHS.bmp
+obj\Debug\StatusStripExam.exe
+obj\Debug\StatusStripExam.pdb

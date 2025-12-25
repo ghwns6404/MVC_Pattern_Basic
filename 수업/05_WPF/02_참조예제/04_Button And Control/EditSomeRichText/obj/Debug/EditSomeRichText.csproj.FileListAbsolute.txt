@@ -1,0 +1,17 @@
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\EditSomeRichText\bin\Debug\EditSomeRichText.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\EditSomeRichText\bin\Debug\EditSomeRichText.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\EditSomeRichText\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\EditSomeRichText\obj\Debug\EditSomeRichText.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\EditSomeRichText\obj\Debug\EditSomeRichText.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\4과 발표 자료\EditSomeRichText\obj\Debug\EditSomeRichText.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\4과 발표 자료\EditSomeRichText\obj\Debug\EditSomeRichText.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\자료\04_Button And Control\EditSomeRichText\obj\Debug\EditSomeRichText.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\자료\04_Button And Control\EditSomeRichText\obj\Debug\EditSomeRichText.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\자료\04_Button And Control\EditSomeRichText\bin\Debug\EditSomeRichText.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\자료\04_Button And Control\EditSomeRichText\bin\Debug\EditSomeRichText.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\자료\04_Button And Control\EditSomeRichText\obj\Debug\ResolveAssemblyReference.cache
+D:\WOOSONG13\11_WPF\04_Button And Control\EditSomeRichText\obj\Debug\EditSomeRichText.exe
+D:\WOOSONG13\11_WPF\04_Button And Control\EditSomeRichText\obj\Debug\EditSomeRichText.pdb
+D:\WOOSONG13\11_WPF\04_Button And Control\EditSomeRichText\bin\Debug\EditSomeRichText.exe
+D:\WOOSONG13\11_WPF\04_Button And Control\EditSomeRichText\bin\Debug\EditSomeRichText.pdb
+D:\WOOSONG13\11_WPF\04_Button And Control\EditSomeRichText\obj\Debug\ResolveAssemblyReference.cache

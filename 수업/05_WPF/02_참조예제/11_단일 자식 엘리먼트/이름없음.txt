@@ -1,0 +1,519 @@
+ - FrameworkElement나 Control을 상속받는 많은 클래스들은 자식을 갖는다. 그리고 이런 자식들을 수용하기 위해서 통상 1개의 프로퍼티와 4개의 메소드를 오버라이딩한다.
+
+VisualChildrenCount	엘리먼트가 관리하는 자식의 수를 알 수 있게 한다.
+GetVisualChild		엘리먼트가 인덱스에 대응하는 자식을 반환할 수 있다.
+MeasureOverride		엘리먼트의 요구 크기를 계산하고 그 크기를 반환한다.
+ArrangeOverride		엘리먼트에 대한 최종 레이아웃 크기를 가리키는 Size객체를 받는다.
+OnRender		엘리먼트를 그릴 수 있다.
+
+
+ - MeasureOverride, ArrangeOverride, OnRender는 차례로 호출된다.
+
+        // VisualChildrenCount 오버라이딩. Child가 null이 아니면 1을 반환
+        protected override int VisualChildrenCount
+        {
+            get
+            {
+                return Child != null ? 1 : 0;
+            }
+        }
+        // GetVisualChildren 오버라이딩. Child를 반환
+        protected override Visual GetVisualChild(int index)			// 인덱스에 대응하는 자식을 반환할 수 있음.
+        {
+            if (index > 0 || Child == null)					// 이 메소드는 null을 반환해서는 안된다고 나와있음.
+                throw new ArgumentOutOfRangeException("index");			// 그래서 인덱스가 부정확할 경우에는 예외 상황을 던져야 함.
+
+            return Child;
+        }
+        // MeasureOverride 오버라이딩. Child의 Measure 메소드를 호출
+        protected override Size MeasureOverride(Size sizeAvailable)
+        {
+            Size sizeDesired = new Size(0, 0);					// EllipseWithChild에서 이 메소드는 크기가 0인 sizeDesired 객체를 가지고 시작.
+
+            if (Stroke != null)
+            {
+                sizeDesired.Width += 2 * Stroke.Thickness;			// 그 후 타원의 경계에 2를 곱한 값을 sizeDesired에 더한다.
+                sizeDesired.Height += 2 * Stroke.Thickness;			// 적어도 경계선 전체를 출력해야 함을 의미.
+
+                sizeAvailable.Width = Math.Max(0, sizeAvailable.Width - 2 * Stroke.Thickness);		// 0보다 작아지지는 않게 함.
+                sizeAvailable.Height = Math.Max(0, sizeAvailable.Height - 2 * Stroke.Thickness);
+            }
+            if (Child != null)						// Child 프로퍼티가 null이 아니면 MeasureOverride에서는 계속해서 조정된
+            {
+                Child.Measure(sizeAvailable);				// sizeAvailable을 인자로 해서 자식의 Measure 메소드를 호출.
+
+                sizeDesired.Width += Child.DesiredSize.Width;		// Measure 메소드가 DesiredSize 프로퍼티를 업데이트하는 책임을 지님.
+                sizeDesired.Height += Child.DesiredSize.Height;
+            }
+            return sizeDesired;
+        }
+================================================================================================
+ - 자식의 Measure 메소드는 값을 반환하지는 않지만 자식의 DesiredSize 프로퍼티 값을 볼 수 있으며, 부모의 sizeDesired를 결정하는 데에 이 크기를 이용.
+이렇게 결정된 값을 MeasureOverride를 통해 반환.
+================================================================================================
+
+================================================================================================
+ArrangeOverride 메소드를 통해 엘리먼트의 표면에 그 자식 엘리먼트를 배치.
+ArrangeOverride의 인자는 레이아웃의 최종 크기.
+ArrangeOverride 메소드에서 모든 자식에 대해 Arrange 메소드를 호출하게 됨.
+================================================================================================
+        // ArrangeOverride 오버라이딩. Child의 Arrange 메소드를 호출
+        protected override Size ArrangeOverride(Size sizeFinal)
+        {
+            if (Child != null)
+            {
+                Rect rect = new Rect(							// 자식의 위치와 크기를 지정하는 Rect 인자를 넘김.
+                    new Point((sizeFinal.Width - Child.DesiredSize.Width) / 2,
+                              (sizeFinal.Height - Child.DesiredSize.Height) / 2),
+                              Child.DesiredSize);
+                Child.Arrange(rect);
+            }
+            return sizeFinal;
+        }
+
+namespace Petzold.EncloseElementInEllipse
+{
+    public class EncloseElementInEllipse : Window
+    {
+        [STAThread]
+        public static void Main()
+        {
+            Application app = new Application();
+            app.Run(new EncloseElementInEllipse());
+        }
+        public EncloseElementInEllipse()
+        {
+            Title = "Enclose Element in Ellipse";
+
+            EllipseWithChild elips = new EllipseWithChild();		// 새로운 EllipseWithChild 생성
+            elips.Fill = Brushes.ForestGreen;				// ForestGreen색을 BetterEllipse.cs에 있는 Fill 프로퍼티를 이용해 값을 할당
+            elips.Stroke = new Pen(Brushes.Magenta, 48);		// Magenta색에 펜두께가 48인 새로운 객체를 생성
+            Content = elips;						// elips 객체를 Window.Content 프로퍼티에 할당
+
+            TextBlock text = new TextBlock();				// TextBlock의 새로운 객체 생성
+            text.FontFamily = new FontFamily("Times New Roman");	// Times New Roman이라는 폰트 설정
+            text.FontSize = 48;						// 폰트사이즈를 48로 설정
+            text.Text = "Text inside ellipse";				// Text inside ellipse라는 텍스트 설정
+
+            elips.Child = text;						// EllipseWithChild의 Child 프로퍼티에 TextBlock을 할당
+        }
+    }
+}
+
+==================================================================================================================================
+ - 실행 결과
+타원이 너무 작아서 MeasureOverride 논리에 벗어나지 않는 한 TextBlock 엘리먼트는 항상 타원의 경계선에 둘러 쌓여있음.
+전체 텍스트가 출력될 충분한 공간이 없다면 텍스트는 잘림.
+TextBlock 엘리먼트는 텍스트가 엘리먼트의 경계를 넘어서는 것을 막기 위해서 10장에서 논의된 기법 중 하나.
+
+====================================================================================================================================
+
+
+
+
+
+
+
+
+
+====================================================================================================================================
+        // 오버라이딩하는 프로퍼티와 메소드
+        protected override int VisualChildrenCount			// 1을 반환.
+        {
+            get { return 1; }
+        }
+        protected override Visual GetVisualChild(int index)		// RoundedButtonDecorator 객체를 반환
+        {
+            if (index > 0)
+                throw new ArgumentOutOfRangeException("index");
+
+            return decorator;
+        }
+        // OnRender 오버라이딩
+        protected override void OnRender(DrawingContext dc)
+        {
+            RadialGradientBrush brush = new RadialGradientBrush(
+                    IsPressed ? SystemColors.ControlDarkColor :			// IsPressed 로 버튼이 눌렸을때와 안눌렸을때를 구분.
+                                SystemColors.ControlLightLightColor,
+                    SystemColors.ControlColor);
+
+            brush.GradientOrigin = IsPressed ? new Point(0.75, 0.75) :
+                                               new Point(0.25, 0.25);
+            dc.DrawRoundedRectangle(brush,
+                    new Pen(SystemColors.ControlDarkDarkBrush, 1),
+                    new Rect(new Point(0, 0), RenderSize),
+                             RenderSize.Height / 2, RenderSize.Height / 2);
+        }
+===================================================================================================================================
+ - OnRender오버라이딩으로 둥근 버튼을 만듬.
+모서리의 가로와 세로의 반지름을 버튼 높이의 절반으로 설정했으므로, 버튼의 왼쪽과 오른쪽은 원형이 됨.
+===================================================================================================================================
+
+namespace Petzold.CalculateInHex
+{
+    public class CalculateInHex : Window
+    {
+        // Private 필드
+        RoundedButton btnDisplay;
+        ulong numDisplay;
+        ulong numFirst;
+        bool bNewNumber = true;
+        char chOperation = '=';
+
+        [STAThread]
+        public static void Main()
+        {
+            Application app = new Application();
+            app.Run(new CalculateInHex());
+        }
+        // 생성자
+        public CalculateInHex()
+        {
+            Title = "Calculate in Hex";
+            SizeToContent = SizeToContent.WidthAndHeight;       // 콘텐츠 크기를 창의 크기에 맞게 자동으로 조절
+            ResizeMode = ResizeMode.CanMinimize;                // 창 최소화와 복원만 사용 가능
+
+            // Grid를 생성하고 Content로 지정
+            Grid grid = new Grid();
+            grid.Margin = new Thickness(4);                     // grid여백 설정
+            Content = grid;                                     // grid를 Content로 지정
+
+            // 5개의 열을 생성
+            for (int i = 0; i < 5; i++)
+            {
+                ColumnDefinition col = new ColumnDefinition();
+                col.Width = GridLength.Auto;                    // col의 너비 자동 설정
+                grid.ColumnDefinitions.Add(col);                // 5개의 열을 생성
+            }
+
+            // 7개의 행을 생성
+            for (int i = 0; i < 7; i++)
+            {
+                RowDefinition row = new RowDefinition();
+                row.Height = GridLength.Auto;                   // row의 높이 자동 설정
+                grid.RowDefinitions.Add(row);                   // 7개의 행을 생성
+            }
+
+            // 버튼에 보여질 텍스트
+            string[] strButtons = { "0",
+                                    "D", "E", "F", "+", "&",
+                                    "A", "B", "C", "-", "|",
+                                    "7", "8", "9", "*", "^",
+                                    "4", "5", "6", "/", "<<",
+                                    "1", "2", "3", "%", ">>", 
+                                    "0", "Back", "Equals" };
+            int iRow = 0, iCol = 0;
+
+            // 버튼 생성
+            foreach (string str in strButtons)
+            {
+                // RoundedButton 생성
+                RoundedButton btn = new RoundedButton();
+                btn.Focusable = false;
+                btn.Height = 32;                            // 버튼 높이
+                btn.Margin = new Thickness(4);              // 버튼 여백 설정
+                btn.Click += ButtonOnClick;
+
+                // TextBlock을 생성해서 RoundedButton의 자식으로 지정
+                TextBlock txt = new TextBlock();
+                txt.Text = str;
+                btn.Child = txt;
+
+                // RoundedButton을 Grid에 추가
+                grid.Children.Add(btn);
+                Grid.SetRow(btn, iRow);
+                Grid.SetColumn(btn, iCol);
+
+                // 버튼 출력 때 예외 상황 처리
+                if (iRow == 0 && iCol == 0)
+                {
+                    btnDisplay = btn;
+                    btn.Margin = new Thickness(4, 4, 4, 6);
+                    Grid.SetColumnSpan(btn, 5);
+                    iRow = 1;
+                }
+
+                // Back과 Equals 버튼 처리
+                else if (iRow == 6 && iCol > 0)
+                {
+                    Grid.SetColumnSpan(btn, 2);
+                    iCol += 2;
+                }
+
+                // 나머지 버튼의 경우
+                else
+                {
+                    btn.Width = 32;
+                    if (0 == (iCol = (iCol + 1) % 5))
+                        iRow++;
+                }
+            }
+        }
+
+==============================================================================
+ButtonOnClick 메소드에서 모든 버튼의 Click 이벤트를 처리.
+==============================================================================
+        // Click 이벤트 핸들러
+        void ButtonOnClick(object sender, RoutedEventArgs args)
+        {
+            // 클릭된 버튼 구하기
+            RoundedButton btn = args.Source as RoundedButton;
+
+            if (btn == null)
+                return;
+
+            // 버튼 텍스트와 첫 글자 구하기
+            string strButton = (btn.Child as TextBlock).Text;
+            char chButton = strButton[0];
+
+            // 몇 가지 특이한 경우
+            if (strButton == "Equals")
+                chButton = '=';
+
+            if (btn == btnDisplay)
+                numDisplay = 0;
+
+            else if (strButton == "Back")
+                numDisplay /= 16;
+
+            // 16진수 글자
+            else if (Char.IsLetterOrDigit(chButton))
+            {
+                if (bNewNumber)
+                {
+                    numFirst = numDisplay;
+                    numDisplay = 0;
+                    bNewNumber = false;
+                }
+                if (numDisplay <= ulong.MaxValue >> 4)
+                    numDisplay = 16 * numDisplay + (ulong)(chButton - 
+                                    (Char.IsDigit(chButton) ? '0' : 'A' - 10));
+            }
+            // 연산
+            else
+            {
+                if (!bNewNumber)
+                {
+                    switch (chOperation)
+                    {
+                        case '=': break;
+                        case '+': numDisplay = numFirst + numDisplay; break;
+                        case '-': numDisplay = numFirst - numDisplay; break;
+                        case '*': numDisplay = numFirst * numDisplay; break;
+                        case '&': numDisplay = numFirst & numDisplay; break;
+                        case '|': numDisplay = numFirst | numDisplay; break;
+                        case '^': numDisplay = numFirst ^ numDisplay; break;
+                        case '<': numDisplay = numFirst << (int)numDisplay; break;
+                        case '>': numDisplay = numFirst >> (int)numDisplay; break;
+                        case '/':
+                            numDisplay = 
+                                numDisplay != 0 ? numFirst / numDisplay : 
+                                                  ulong.MaxValue;
+                            break;
+                        case '%':
+                            numDisplay = 
+                                numDisplay != 0 ? numFirst % numDisplay : 
+                                                  ulong.MaxValue;
+                            break;
+                        default: numDisplay = 0; break;
+                    }
+                }
+                bNewNumber = true;
+                chOperation = chButton;
+            }
+            // 출력 형식 지정
+            TextBlock text = new TextBlock();
+            text.Text = String.Format("{0:X}", numDisplay);
+            btnDisplay.Child = text;
+        }
+
+====================================================================================================
+키보드로도 버튼을 누를 수 있기 때문에 이를 OnTextInput 메소드를 오버라이딩해서 처리.
+눌린 키에 대응하는 버튼을 알아낸 후 Routed EventArgs 객체의 RaiseEvent 메소드를 호출해서 그 버튼에 Click 이벤트를 발생.
+====================================================================================================
+        protected override void OnTextInput(TextCompositionEventArgs args)
+        {
+            base.OnTextInput(args);
+
+            if (args.Text.Length == 0)
+                return;
+
+            // 문자 입력 구하기
+            char chKey = Char.ToUpper(args.Text[0]);
+
+            // 버튼을 통한 루프
+            foreach (UIElement child in (Content as Grid).Children)
+            {
+                RoundedButton btn = child as RoundedButton;
+                string strButton = (btn.Child as TextBlock).Text;
+
+                // 일치하는 버튼을 확인하기 위한 로직
+                if ((chKey == strButton[0] && btn != btnDisplay &&
+                        strButton != "Equals" && strButton != "Back") ||
+                    (chKey == '=' && strButton == "Equals") ||
+                    (chKey == '\r' && strButton == "Equals") ||
+                    (chKey == '\b' && strButton == "Back") ||
+                    (chKey == '\x1B' && btn == btnDisplay))
+                {
+                    // 키 입력을 처리하기 위해 Click 이벤트를 발생
+                    RoutedEventArgs argsClick = 
+                        new RoutedEventArgs(RoundedButton.ClickEvent, btn);
+                    btn.RaiseEvent(argsClick);
+
+                    // 버튼이 눌린 것처럼 표시
+                    btn.IsPressed = true;
+
+                    // 버튼을 다시 떼어 놓는 상태로 만들기 위한 타이머 설정
+                    DispatcherTimer tmr = new DispatcherTimer();
+                    tmr.Interval = TimeSpan.FromMilliseconds(100);
+                    tmr.Tag = btn;
+                    tmr.Tick += TimerOnTick;
+                    tmr.Start();
+
+                    args.Handled = true;
+                } 
+            }
+        }
+        void TimerOnTick(object sender, EventArgs args)
+        {
+            // 눌린 버튼 복원
+            DispatcherTimer tmr = sender as DispatcherTimer;
+            RoundedButton btn = tmr.Tag as RoundedButton;
+            btn.IsPressed = false;
+
+            // 타이머 종료하고 이벤트 핸들러 제거
+            tmr.Stop();
+            tmr.Tick -= TimerOnTick;
+        }
+    }
+}
+
+==================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================================================================================
+namespace Petzold.BuildButtonFactory
+{
+    public class BuildButtonFactory : Window
+    {
+        [STAThread]
+        public static void Main()
+        {
+            Application app = new Application();
+            app.Run(new BuildButtonFactory());
+        }
+        public BuildButtonFactory()
+        {
+            Title = "Build Button Factory";
+
+            // Button 객체를 위한 ControlTemplate을 생성
+            ControlTemplate template = new ControlTemplate(typeof(Button));
+
+            // Border 클래스에 대해 FrameworkElementFactory를 생성
+            FrameworkElementFactory factoryBorder = new FrameworkElementFactory(typeof(Border));
+
+            // 나중에 참조하기 위해 이름을 정함
+            factoryBorder.Name = "border";
+
+            // 기본 프로퍼티들을 설정
+            factoryBorder.SetValue(Border.BorderBrushProperty, Brushes.Red);
+            factoryBorder.SetValue(Border.BorderThicknessProperty, 
+                                   new Thickness(3));
+            factoryBorder.SetValue(Border.BackgroundProperty, 
+                                   SystemColors.ControlLightBrush);
+
+            // ContentPresenter 클래스에 대해 FrameworkElementFactory를 생성
+            FrameworkElementFactory factoryContent = new FrameworkElementFactory(typeof(ContentPresenter));
+
+            // 나중에 참조하기 위해 이름을 정함
+            factoryContent.Name = "content";
+
+            // 몇 가지 ContentPresenter 프로퍼티를 Button 프로퍼티에 바인딩
+            factoryContent.SetValue(ContentPresenter.ContentProperty, new TemplateBindingExtension(Button.ContentProperty));
+
+            // 버튼의 Padding은 컨텐트의 Margin임!
+            factoryContent.SetValue(ContentPresenter.MarginProperty, new TemplateBindingExtension(Button.PaddingProperty));
+
+            // ContentPresenter를 Border의 자식으로 만듦
+            factoryBorder.AppendChild(factoryContent);
+
+            // Border를 비주얼 트리의 루트 엘리먼트로 만듦
+            template.VisualTree = factoryBorder;
+
+            // IsMouseOver가 true가 될때의 Trigger를 정의
+            Trigger trig = new Trigger();
+            trig.Property = UIElement.IsMouseOverProperty;
+            trig.Value = true;
+
+            // 이 트리거와 연관된 Setter를 정의
+            // "Border" 엘리먼트의 CornerRadius 프로퍼티를 변경
+            Setter set = new Setter();
+            set.Property = Border.CornerRadiusProperty;
+            set.Value = new CornerRadius(24);
+            set.TargetName = "border";
+
+            // Trigger의 Setters 컬렉션에 Setter를 추가
+            trig.Setters.Add(set);
+
+            // 비슷한 방법으로 FontStyle을 변경시키는 Setter를 정의
+            // (버튼의 프로퍼티이므로 TargetName은 불필요함)
+            set = new Setter();
+            set.Property = Control.FontStyleProperty;
+            set.Value = FontStyles.Italic;
+
+            // 전과 같은 방법으로, 이 Setter를 트리거의 Setter 컬렉션
+            trig.Setters.Add(set);
+
+            // 트리거를 템플릿에 추가
+            template.Triggers.Add(trig);
+
+            // 비슷한 방법으로 IsPressed에 대한 트리거를 정의
+            trig = new Trigger();
+            trig.Property = Button.IsPressedProperty;
+            trig.Value = true;
+
+            set = new Setter();
+            set.Property = Border.BackgroundProperty;
+            set.Value = SystemColors.ControlDarkBrush;
+            set.TargetName = "border";
+
+            // Trigger의 Setters 컬렉션에 Setter를 추가
+            trig.Setters.Add(set);
+
+            // 트리거를 템플릿에 추가
+            template.Triggers.Add(trig);
+
+            // 마지막으로 Button을 생성
+            Button btn = new Button();
+
+            // 템플릿 지정
+            btn.Template = template;
+
+            // 기타 프로퍼티 정의
+            btn.Content = "Button with Custom Template";
+            btn.Padding = new Thickness(20);
+            btn.FontSize = 48;
+            btn.HorizontalAlignment = HorizontalAlignment.Center;
+            btn.VerticalAlignment = VerticalAlignment.Center;
+            btn.Click += ButtonOnClick;
+
+            Content = btn;
+        }
+        void ButtonOnClick(object sender, RoutedEventArgs args)
+        {
+            MessageBox.Show("You clicked the button", Title);
+        } 
+    }
+}

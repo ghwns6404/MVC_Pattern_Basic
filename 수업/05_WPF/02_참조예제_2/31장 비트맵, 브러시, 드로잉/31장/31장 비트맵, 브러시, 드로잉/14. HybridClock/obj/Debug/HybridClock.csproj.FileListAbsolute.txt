@@ -1,0 +1,32 @@
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 31\14. HybridClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 31\14. HybridClock\obj\Debug\HybridClockPage.g.cs
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 31\14. HybridClock\obj\Debug\HybridClockApp.g.cs
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 31\14. HybridClock\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 31\14. HybridClock\obj\Debug\HybridClock_MarkupCompile.cache
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 31\14. HybridClock\obj\Debug\HybridClock_MarkupCompile.lref
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 31\14. HybridClock\bin\Debug\HybridClock.exe.manifest
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 31\14. HybridClock\bin\Debug\HybridClock.xbap
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 31\14. HybridClock\bin\Debug\HybridClock.exe
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 31\14. HybridClock\bin\Debug\HybridClock.pdb
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 31\14. HybridClock\obj\Debug\HybridClock.TrustInfo.xml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 31\14. HybridClock\obj\Debug\HybridClock.exe.manifest
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 31\14. HybridClock\obj\Debug\HybridClock.xbap
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 31\14. HybridClock\obj\Debug\HybridClock.exe
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 31\14. HybridClock\obj\Debug\HybridClock.pdb
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\bin\Debug\HybridClock.exe.manifest
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\bin\Debug\HybridClock.xbap
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\bin\Debug\HybridClock.exe
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\bin\Debug\HybridClock.pdb
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\obj\Debug\HybridClockPage.g.cs
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\obj\Debug\HybridClockApp.g.cs
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\obj\Debug\HybridClock_MarkupCompile.cache
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\obj\Debug\HybridClock_MarkupCompile.lref
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\obj\Debug\HybridClockPage.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\obj\Debug\HybridClock.g.resources
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\obj\Debug\HybridClock.TrustInfo.xml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\obj\Debug\HybridClock.exe.manifest
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\obj\Debug\HybridClock.xbap
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\obj\Debug\HybridClock.exe
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\14. HybridClock\obj\Debug\HybridClock.pdb

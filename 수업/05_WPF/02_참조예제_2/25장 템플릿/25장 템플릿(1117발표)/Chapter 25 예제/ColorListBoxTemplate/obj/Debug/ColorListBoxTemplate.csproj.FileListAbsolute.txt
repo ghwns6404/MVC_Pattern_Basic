@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\bin\Debug\ColorListBoxTemplate.exe
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\bin\Debug\ColorListBoxTemplate.pdb
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\obj\Debug\ColorListBoxTemplateApp.g.cs
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate_MarkupCompile.cache
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate_MarkupCompile.lref
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\obj\Debug\ColorListBoxTemplateWindow.baml
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate.g.resources
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate.exe
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate.pdb

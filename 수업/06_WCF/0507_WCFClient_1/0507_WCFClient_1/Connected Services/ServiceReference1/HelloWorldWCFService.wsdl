@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" name="HelloWorldWCFService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://220.90.180.108/wcf/example/helloworldservice?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://220.90.180.108/wcf/example/helloworldservice?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IHelloWorld_SayHello_InputMessage">
+    <wsdl:part name="parameters" element="tns:SayHello" />
+  </wsdl:message>
+  <wsdl:message name="IHelloWorld_SayHello_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SayHelloResponse" />
+  </wsdl:message>
+  <wsdl:message name="IHelloWorld_setNumber_InputMessage">
+    <wsdl:part name="parameters" element="tns:setNumber" />
+  </wsdl:message>
+  <wsdl:message name="IHelloWorld_setNumber_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setNumberResponse" />
+  </wsdl:message>
+  <wsdl:message name="IHelloWorld_GetSumNumber_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetSumNumber" />
+  </wsdl:message>
+  <wsdl:message name="IHelloWorld_GetSumNumber_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetSumNumberResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IHelloWorld">
+    <wsdl:operation name="SayHello">
+      <wsdl:input wsaw:Action="http://tempuri.org/IHelloWorld/SayHello" message="tns:IHelloWorld_SayHello_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IHelloWorld/SayHelloResponse" message="tns:IHelloWorld_SayHello_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setNumber">
+      <wsdl:input wsaw:Action="http://tempuri.org/IHelloWorld/setNumber" message="tns:IHelloWorld_setNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IHelloWorld/setNumberResponse" message="tns:IHelloWorld_setNumber_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSumNumber">
+      <wsdl:input wsaw:Action="http://tempuri.org/IHelloWorld/GetSumNumber" message="tns:IHelloWorld_GetSumNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IHelloWorld/GetSumNumberResponse" message="tns:IHelloWorld_GetSumNumber_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IHelloWorld" type="tns:IHelloWorld">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SayHello">
+      <soap:operation soapAction="http://tempuri.org/IHelloWorld/SayHello" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setNumber">
+      <soap:operation soapAction="http://tempuri.org/IHelloWorld/setNumber" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSumNumber">
+      <soap:operation soapAction="http://tempuri.org/IHelloWorld/GetSumNumber" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="HelloWorldWCFService">
+    <wsdl:port name="BasicHttpBinding_IHelloWorld" binding="tns:BasicHttpBinding_IHelloWorld">
+      <soap:address location="http://220.90.180.108/wcf/example/helloworldservice" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

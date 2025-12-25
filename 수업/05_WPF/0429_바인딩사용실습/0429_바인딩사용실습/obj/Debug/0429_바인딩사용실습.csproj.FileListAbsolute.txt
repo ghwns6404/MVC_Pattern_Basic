@@ -1,0 +1,40 @@
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\0429_바인딩사용실습.csproj.AssemblyReference.cache
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\App.g.cs
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\0429_바인딩사용실습_MarkupCompile.cache
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\0429_바인딩사용실습_MarkupCompile.lref
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\bin\Debug\0429_바인딩사용실습.exe.config
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\bin\Debug\0429_바인딩사용실습.exe
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\bin\Debug\0429_바인딩사용실습.pdb
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\0429_바인딩사용실습.g.resources
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\_0429_바인딩사용실습.Properties.Resources.resources
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\0429_바인딩사용실습.csproj.GenerateResource.cache
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\0429_바인딩사용실습.csproj.CoreCompileInputs.cache
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\0429_바인딩사용실습.exe
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\0429_바인딩사용실습.pdb
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\Window\InsertWindow.g.cs
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\Window\MainWindow.g.cs
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\Window\UpdateWindwo.g.cs
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\Window\InsertWindow.baml
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\Window\MainWindow.baml
+E:\Windows Presentation Foundation\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\Window\UpdateWindwo.baml
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\bin\Debug\0429_바인딩사용실습.exe.config
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\bin\Debug\0429_바인딩사용실습.exe
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\bin\Debug\0429_바인딩사용실습.pdb
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\0429_바인딩사용실습.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\Window\InsertWindow.g.cs
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\Window\MainWindow.g.cs
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\Window\UpdateWindwo.g.cs
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\App.g.cs
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\0429_바인딩사용실습_MarkupCompile.cache
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\0429_바인딩사용실습_MarkupCompile.lref
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\Window\InsertWindow.baml
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\Window\MainWindow.baml
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\Window\UpdateWindwo.baml
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\0429_바인딩사용실습.g.resources
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\_0429_바인딩사용실습.Properties.Resources.resources
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\0429_바인딩사용실습.csproj.GenerateResource.cache
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\0429_바인딩사용실습.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\0429_바인딩사용실습.exe
+C:\Users\bit1\Desktop\0429_바인딩사용실습\0429_바인딩사용실습\obj\Debug\0429_바인딩사용실습.pdb

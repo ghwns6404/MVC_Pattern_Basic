@@ -1,0 +1,53 @@
+<!-- =======================================================
+      YellowPadAboutDialog.xaml (c) 2006 by Charles Petzold
+     ======================================================= -->
+<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="Petzold.YellowPad.YellowPadAboutDialog"
+        Title="About YellowPad"
+        ShowInTaskbar="False"
+        WindowStartupLocation="CenterOwner"
+        SizeToContent="WidthAndHeight"
+        ResizeMode="NoResize">
+
+
+    <!--<NavigationWindow xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="Petzold.YellowPad.YellowPadAboutDialog"
+        Title="About YellowPad"
+        ShowInTaskbar="False"
+        WindowStartupLocation="CenterOwner"
+        SizeToContent="WidthAndHeight"
+        ResizeMode="NoResize">
+
+    <NavigationWindow.Content>-->
+    <StackPanel>
+        <!-- 프로그램 이름. -->
+        <TextBlock HorizontalAlignment="Center" Margin="12"
+                   FontSize="48">
+            <Italic>Yellow Pad</Italic>
+        </TextBlock>
+
+        <!-- 프로그램이 나온 팩의 표지. -->
+        <Image Source="Images\BookCover.jpg" Stretch="None" Margin="12" />
+
+        <!-- 저작권과 서명을 위한 Image 엘리먼트. -->
+        <Image Name="imgSignature" Stretch="None" Margin="12"/>
+
+        <!-- Web Site link. -->
+        <TextBlock HorizontalAlignment="Center" FontSize="20">
+            <Hyperlink NavigateUri="http://www.charlespetzold.com"
+                     >
+                www.charlespetzold.com
+            </Hyperlink>
+        </TextBlock>
+
+        <!-- OK버튼. -->
+        <Button HorizontalAlignment="Center" MinWidth="60" Margin="12"
+                IsDefault="True" IsCancel="True">
+            OK
+        </Button>
+    </StackPanel>
+</Window>
+<!--</NavigationWindow.Content>
+</NavigationWindow>-->

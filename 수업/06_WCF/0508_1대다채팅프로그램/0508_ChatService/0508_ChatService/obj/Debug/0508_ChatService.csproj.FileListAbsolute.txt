@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\0508_ChatService\0508_ChatService\bin\Debug\0508_ChatService.exe.config
+C:\Users\user\Desktop\C#\0508_ChatService\0508_ChatService\bin\Debug\0508_ChatService.exe
+C:\Users\user\Desktop\C#\0508_ChatService\0508_ChatService\bin\Debug\0508_ChatService.pdb
+C:\Users\user\Desktop\C#\0508_ChatService\0508_ChatService\obj\Debug\0508_ChatService.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\0508_ChatService\0508_ChatService\obj\Debug\0508_ChatService.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\0508_ChatService\0508_ChatService\obj\Debug\0508_ChatService.exe
+C:\Users\user\Desktop\C#\0508_ChatService\0508_ChatService\obj\Debug\0508_ChatService.pdb
+C:\Users\user\Desktop\C#\0508_1대다채팅프로그램\0508_ChatService\0508_ChatService\bin\Debug\0508_ChatService.exe.config
+C:\Users\user\Desktop\C#\0508_1대다채팅프로그램\0508_ChatService\0508_ChatService\bin\Debug\0508_ChatService.exe
+C:\Users\user\Desktop\C#\0508_1대다채팅프로그램\0508_ChatService\0508_ChatService\bin\Debug\0508_ChatService.pdb
+C:\Users\user\Desktop\C#\0508_1대다채팅프로그램\0508_ChatService\0508_ChatService\obj\Debug\0508_ChatService.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\0508_1대다채팅프로그램\0508_ChatService\0508_ChatService\obj\Debug\0508_ChatService.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\0508_1대다채팅프로그램\0508_ChatService\0508_ChatService\obj\Debug\0508_ChatService.exe
+C:\Users\user\Desktop\C#\0508_1대다채팅프로그램\0508_ChatService\0508_ChatService\obj\Debug\0508_ChatService.pdb

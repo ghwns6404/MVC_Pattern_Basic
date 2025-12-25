@@ -1,0 +1,7 @@
+Object
+ DispatcherObject(abstract)
+  DependencyObject
+   Visual(abstract)
+    UIElement
+     FrameworkElement
+      Image

@@ -1,0 +1,54 @@
+<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    Title="Employee Directory" Height="480" Width="640"
+    >
+<Grid>
+<DockPanel LastChildFill="False">
+   <Border
+      DockPanel.Dock="Top"
+      BorderBrush="Black"
+      BorderThickness="1"
+      Height="70">
+      <Label 
+         FontFamily="Verdana"  
+         FontSize="32" 
+         HorizontalAlignment="Center"
+      >Top</Label>
+   </Border>
+   <Border
+      DockPanel.Dock="Left"
+      BorderBrush="Black"
+      BorderThickness="1"
+      Width="400">
+      <StackPanel>
+      <Label 
+         FontFamily="Verdana" 
+         FontWeight="Bold" FontSize="18" 
+         HorizontalAlignment="Center"
+      >Left</Label>
+	</StackPanel>
+    </Border>
+   <Border
+      DockPanel.Dock="Right"
+      BorderBrush="Black"
+      BorderThickness="1"
+      Width="240">
+      <StackPanel>
+
+       <Label 
+         FontFamily="Verdana" 
+         FontWeight="Bold" FontSize="18" 
+         HorizontalAlignment="Center"
+      >Right</Label>     
+
+       <Label 
+         FontFamily="Verdana" 
+         FontWeight="Bold" FontSize="18" 
+         HorizontalAlignment="Center"
+      >Right</Label>     
+
+      </StackPanel>
+   </Border>
+</DockPanel>
+</Grid>
+</Window>

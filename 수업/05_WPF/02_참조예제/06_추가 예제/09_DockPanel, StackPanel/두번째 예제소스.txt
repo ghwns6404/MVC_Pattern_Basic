@@ -1,0 +1,49 @@
+<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    Title="Employee Directory" Height="480" Width="640"
+    >
+<Grid>
+<DockPanel LastChildFill="False">
+   <Border
+      DockPanel.Dock="Top"
+      BorderBrush="Black"
+      BorderThickness="1"
+      Height="70">
+      <Label 
+         FontFamily="Verdana"  
+         FontSize="32" 
+         HorizontalAlignment="Center">
+	ACME Software Employee Directory
+	</Label>
+   </Border>
+   <Border
+      DockPanel.Dock="Left"
+      BorderBrush="Black"
+      BorderThickness="1"
+      Width="400">
+      <StackPanel>
+      <Label 
+         FontFamily="Verdana" 
+         FontWeight="Bold" FontSize="18" 
+         HorizontalAlignment="Center"
+      >Left</Label>
+	</StackPanel>
+    </Border>
+   <Border
+      DockPanel.Dock="Right"
+      BorderBrush="Black"
+      BorderThickness="1"
+      Width="240">
+      <StackPanel>
+      <Image Name="EmployeePicture" 
+			Margin="0,10,0,0" 
+			Height="200" 
+			HorizontalAlignment="Center" 
+			VerticalAlignment="Top" 
+			Width="200" Source=" 
+			http://www.oreilly.com/catalog/covers/059652921X_cat.gif" />
+      </StackPanel>
+   </Border>
+</DockPanel>
+</Grid>
+</Window>

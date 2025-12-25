@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RegMsg2", "RegMsg2.vcproj", "{199D870A-FC5A-47D6-B334-8FA6ADCA2493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{199D870A-FC5A-47D6-B334-8FA6ADCA2493}.Debug|Win32.ActiveCfg = Debug|Win32
+		{199D870A-FC5A-47D6-B334-8FA6ADCA2493}.Debug|Win32.Build.0 = Debug|Win32
+		{199D870A-FC5A-47D6-B334-8FA6ADCA2493}.Release|Win32.ActiveCfg = Release|Win32
+		{199D870A-FC5A-47D6-B334-8FA6ADCA2493}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

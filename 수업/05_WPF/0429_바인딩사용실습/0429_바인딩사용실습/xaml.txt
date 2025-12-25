@@ -1,0 +1,88 @@
+﻿        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Background="White" Width="400" DataContext="{StaticResource book}">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Margin="5" Orientation="Horizontal">
+                <Label Width="65" HorizontalAlignment ="Center">이름(_N):</Label>
+                <TextBox Name="title" Background="red" Text="{Binding Path=Title}" Width="160"/>
+            </StackPanel>
+            <Border Grid.Column="1" Margin="2,2,10,2" BorderBrush="Black" BorderThickness="2">
+                <Label Height="25"  Content="{Binding Path=Text, ElementName=title}" Foreground="{Binding Path=Background, ElementName=title}"/>
+            </Border>
+        </Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="39*"/>
+                <ColumnDefinition Width="161*"/>
+                <ColumnDefinition Width="200*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Margin="5,5,5,5" Orientation="Horizontal" Grid.ColumnSpan="2">
+                <Label Width="65" HorizontalAlignment ="Center">가격(_P):</Label>
+                <TextBox Name="price" Background="Orange" Text="{Binding Path=Price}" Width="160"/>
+            </StackPanel>
+            <Border Grid.Column="2" Margin="2,2,10,2" BorderBrush="Black" BorderThickness="2">
+                <Label Height="25" Content="{Binding Path=Text,ElementName=price}" Foreground="{Binding Path=Background, ElementName=price}"/>
+            </Border>
+        </Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Margin="5" Orientation="Horizontal">
+                <Label Width="65" HorizontalAlignment ="Center">출판사(_C):</Label>
+                <TextBox Name="publisher" Background="Yellow" Text="{Binding Path=Publisher}" Width="130"/>
+            </StackPanel>
+            <Border Grid.Column="1" Margin="2,2,10,2" BorderBrush="Black" BorderThickness="2">
+                <Label Height="25" Content="{Binding Path=Text,ElementName=publisher}" Foreground="{Binding Path=Background, ElementName=publisher}"/>
+            </Border>
+        </Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Margin="5" Orientation="Horizontal">
+                <Label Width="65" HorizontalAlignment ="Center">이미지(_I):</Label>
+                <TextBox Name="image_file" Background="Green" Text="{Binding Path=Image}" Width="130"/>
+            </StackPanel>
+            <Border Grid.Column="1" Margin="2,2,10,2" BorderBrush="Black" BorderThickness="2">
+                <Label Height="25" Content="{Binding Path=Text,ElementName=image_file}" Foreground="{Binding Path=Background, ElementName=image_file}"/>
+            </Border>
+        </Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Margin="5" Orientation="Horizontal">
+                <Label Width="65" HorizontalAlignment ="Center">재고(_S):</Label>
+                <StackPanel Grid.Column="3" Orientation="Horizontal" Background="LightGreen">
+                    <RadioButton Name="stock_ischecked" IsChecked="{Binding Path=Stock}" Content="유" Margin="15,5,15,5"/>
+                    <RadioButton  Content="무" Margin="15,5,18,5"/>
+                </StackPanel>
+            </StackPanel>
+            <Border Grid.Column="1" Margin="2,2,10,2" BorderBrush="Black" BorderThickness="2">
+                <TextBox x:Name="stock" Height="25">
+                    <TextBox.Text>
+                        <Binding Path="Stock" Converter="{StaticResource stockStringConverter}" NotifyOnValidationError="True">
+                            <Binding.ValidationRules>
+                                <local:MaleValidationRule/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+            </Border>
+        </Grid>
+    </StackPanel>
+    <StackPanel Grid.Column="1" Background="White" HorizontalAlignment="Center" Width="400">
+        <Image Name="image" Width="200" Height="180"/>
+    </StackPanel>
+    </Grid>

@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bit1\\Desktop\\0429_Binding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F870F9-8C27-4F68-B5F2-D4CD8A59D61D}|0429_Binding\\0429_Binding.csproj|c:\\users\\bit1\\desktop\\0429_binding\\0429_binding\\sample2\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44F870F9-8C27-4F68-B5F2-D4CD8A59D61D}|0429_Binding\\0429_Binding.csproj|solutionrelative:0429_binding\\sample2\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F870F9-8C27-4F68-B5F2-D4CD8A59D61D}|0429_Binding\\0429_Binding.csproj|C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_binding\\sample2\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F870F9-8C27-4F68-B5F2-D4CD8A59D61D}|0429_Binding\\0429_Binding.csproj|solutionrelative:0429_binding\\sample2\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F870F9-8C27-4F68-B5F2-D4CD8A59D61D}|0429_Binding\\0429_Binding.csproj|C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_binding\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44F870F9-8C27-4F68-B5F2-D4CD8A59D61D}|0429_Binding\\0429_Binding.csproj|solutionrelative:0429_binding\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F870F9-8C27-4F68-B5F2-D4CD8A59D61D}|0429_Binding\\0429_Binding.csproj|C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_binding\\sample1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F870F9-8C27-4F68-B5F2-D4CD8A59D61D}|0429_Binding\\0429_Binding.csproj|solutionrelative:0429_binding\\sample1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F870F9-8C27-4F68-B5F2-D4CD8A59D61D}|0429_Binding\\0429_Binding.csproj|C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_binding\\sample1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F870F9-8C27-4F68-B5F2-D4CD8A59D61D}|0429_Binding\\0429_Binding.csproj|solutionrelative:0429_binding\\sample1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F870F9-8C27-4F68-B5F2-D4CD8A59D61D}|0429_Binding\\0429_Binding.csproj|C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_binding\\sample1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44F870F9-8C27-4F68-B5F2-D4CD8A59D61D}|0429_Binding\\0429_Binding.csproj|solutionrelative:0429_binding\\sample1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F870F9-8C27-4F68-B5F2-D4CD8A59D61D}|0429_Binding\\0429_Binding.csproj|C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_binding\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F870F9-8C27-4F68-B5F2-D4CD8A59D61D}|0429_Binding\\0429_Binding.csproj|solutionrelative:0429_binding\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_Binding\\App.xaml.cs",
+              "RelativeDocumentMoniker": "0429_Binding\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_Binding\\App.xaml.cs",
+              "RelativeToolTip": "0429_Binding\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T00:43:14.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_Binding\\Sample2\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "0429_Binding\\Sample2\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_Binding\\Sample2\\Window1.xaml.cs",
+              "RelativeToolTip": "0429_Binding\\Sample2\\Window1.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T00:42:51.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_Binding\\Sample2\\Window1.xaml",
+              "RelativeDocumentMoniker": "0429_Binding\\Sample2\\Window1.xaml",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_Binding\\Sample2\\Window1.xaml",
+              "RelativeToolTip": "0429_Binding\\Sample2\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T00:42:07.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_Binding\\Sample1\\Person.cs",
+              "RelativeDocumentMoniker": "0429_Binding\\Sample1\\Person.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_Binding\\Sample1\\Person.cs",
+              "RelativeToolTip": "0429_Binding\\Sample1\\Person.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T00:08:26.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_Binding\\App.xaml",
+              "RelativeDocumentMoniker": "0429_Binding\\App.xaml",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_Binding\\App.xaml",
+              "RelativeToolTip": "0429_Binding\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T00:05:20.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_Binding\\Sample1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "0429_Binding\\Sample1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_Binding\\Sample1\\MainWindow.xaml",
+              "RelativeToolTip": "0429_Binding\\Sample1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T00:02:57.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_Binding\\Sample1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "0429_Binding\\Sample1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0429_Binding\\0429_Binding\\Sample1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "0429_Binding\\Sample1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T00:02:57.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

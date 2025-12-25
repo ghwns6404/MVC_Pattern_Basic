@@ -1,0 +1,37 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\6번 예제\bin\Debug\UseCustomClass.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\6번 예제\bin\Debug\UseCustomClass.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\6번 예제\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\6번 예제\obj\Debug\UseCustomClass.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\6번 예제\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\6번 예제\obj\Debug\UseCustomClass_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\6번 예제\obj\Debug\UseCustomClass_MarkupCompile.lref
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\6번 예제\obj\Debug\UseCustomClass.baml
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\6번 예제\obj\Debug\UseCustomClass.g.resources
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\6번 예제\obj\Debug\UseCustomClass.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\6번 예제\obj\Debug\UseCustomClass.pdb
+\\61.81.99.99\11_wpf\19장\Chapter 19\6번 예제\obj\Debug\UseCustomClass.exe
+\\61.81.99.99\11_wpf\19장\Chapter 19\6번 예제\obj\Debug\UseCustomClass.pdb
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\UseCustomClass.exe
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\UseCustomClass.pdb
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\ResolveAssemblyReference.cache
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\UseCustomClass.g.cs
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\UseCustomClass_MarkupCompile.cache
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\UseCustomClass_MarkupCompile.lref
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\bin\Debug\UseCustomClass.exe
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\bin\Debug\UseCustomClass.pdb
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\UseCustomClass.baml
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\UseCustomClass.g.resources
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\UseCustomClass.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\UseCustomClass.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\UseCustomClass.exe
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\UseCustomClass.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\bin\Debug\UseCustomClass.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\bin\Debug\UseCustomClass.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\UseCustomClass.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\UseCustomClass_MarkupCompile.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\UseCustomClass_MarkupCompile.lref
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\UseCustomClass.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\6번 예제\obj\Debug\UseCustomClass.g.resources

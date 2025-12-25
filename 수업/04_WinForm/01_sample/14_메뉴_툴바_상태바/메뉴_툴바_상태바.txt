@@ -1,0 +1,67 @@
+[ 메 뉴 ]
+
+
+[ 스트립 컨트롤 ]
+
+- 닷넷 2.0부터 지원되는 컨트롤
+- 기존에 제공되던 메뉴, 툴바, 상태바등의 기능을 대체하게 됨
+   MenuStrip, ToolStrip, StatusStrip
+
+
+
+*) MenuStrip
+
+- 메뉴 구성
+   MenuStrip menu = new Menustrip();
+   menu.Parent = this;			// Form에 Menustrip을 출력함
+
+- 메뉴 아이템 추가
+
+   ToolStripMenuItem file_item = new ToolStripMenuItem();
+   file_item.text = &File;
+   menu.Items.Add( file_item);
+
+- TIP
+   edi_item.Text = "&&Copy";  // &를 화면에 출력
+   edit_item.Text=""Pa&st";	// s자에 밑줄 넣기
+
+- DropDownItems
+   ... 
+   menu.items.DropDownItems.Add(flie_open_item);
+
+- 구분선 넣기 
+    ...
+    ToolStripSeparator file_item = new ToolStripSeparator();
+    file_item.DropDownItem.Add(file_item_sep);
+
+
+예제 확인 ) MenuExam
+
+
+[ 메뉴 이벤트 기능 추가 ]
+
+예제 확인) MenuClickExam / MenuMultiExam
+
+
+[ 메뉴 선택 표시와 이미지 넣기 ]
+
+예제 확인 ) ImageMenu 
+
+
+[ 컨텍스트 메뉴 다루기 ]
+
+예제 확인) ContextMenuStrip 예제 
+
+
+[ ToolStrip 컨트롤 사용하기 ]
+
+예제 확인) ToolStripExam
+
+
+[ StatusStrip 컨트롤 사용하기 ]
+
+예제 확인 ) StatusStrip 예제 
+
+
+
+

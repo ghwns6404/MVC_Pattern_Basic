@@ -1,0 +1,27 @@
+C:\Documents and Settings\woosong bit\바탕 화면\수업자료\wpf\AppsCodeMarkup\Chapter 03\03. ShowMyFace\bin\Debug\ShowMyFace.exe.config
+C:\Documents and Settings\woosong bit\바탕 화면\수업자료\wpf\AppsCodeMarkup\Chapter 03\03. ShowMyFace\bin\Debug\ShowMyFace.exe
+C:\Documents and Settings\woosong bit\바탕 화면\수업자료\wpf\AppsCodeMarkup\Chapter 03\03. ShowMyFace\bin\Debug\ShowMyFace.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\수업자료\wpf\AppsCodeMarkup\Chapter 03\03. ShowMyFace\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\수업자료\wpf\AppsCodeMarkup\Chapter 03\03. ShowMyFace\obj\Debug\ShowMyFace.exe
+C:\Documents and Settings\woosong bit\바탕 화면\수업자료\wpf\AppsCodeMarkup\Chapter 03\03. ShowMyFace\obj\Debug\ShowMyFace.pdb
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\03. ShowMyFace\bin\Debug\ShowMyFace.exe.config
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\03. ShowMyFace\obj\Debug\ShowMyFace.exe
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\03. ShowMyFace\obj\Debug\ShowMyFace.pdb
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\01. ShowMyFace\bin\Debug\ShowMyFace.exe.config
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\01. ShowMyFace\obj\Debug\ShowMyFace.exe
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\01. ShowMyFace\obj\Debug\ShowMyFace.pdb
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\01. ShowMyFace\bin\Debug\ShowMyFace.exe
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\01. ShowMyFace\bin\Debug\ShowMyFace.pdb
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\01. ShowMyFace\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\00. ShowMyFace\bin\Debug\ShowMyFace.exe.config
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\00. ShowMyFace\obj\Debug\ShowMyFace.exe
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\00. ShowMyFace\obj\Debug\ShowMyFace.pdb
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\00. ShowMyFace\bin\Debug\ShowMyFace.exe
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\00. ShowMyFace\bin\Debug\ShowMyFace.pdb
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\00. ShowMyFace\obj\Debug\ResolveAssemblyReference.cache
+D:\WOOSONG13\11_WPF\31장 비트맵, 브러시, 드로잉\00. ShowMyFace\bin\Debug\ShowMyFace.exe.config
+D:\WOOSONG13\11_WPF\31장 비트맵, 브러시, 드로잉\00. ShowMyFace\obj\Debug\ShowMyFace.exe
+D:\WOOSONG13\11_WPF\31장 비트맵, 브러시, 드로잉\00. ShowMyFace\obj\Debug\ShowMyFace.pdb
+D:\WOOSONG13\11_WPF\31장 비트맵, 브러시, 드로잉\00. ShowMyFace\bin\Debug\ShowMyFace.exe
+D:\WOOSONG13\11_WPF\31장 비트맵, 브러시, 드로잉\00. ShowMyFace\bin\Debug\ShowMyFace.pdb
+D:\WOOSONG13\11_WPF\31장 비트맵, 브러시, 드로잉\00. ShowMyFace\obj\Debug\ResolveAssemblyReference.cache

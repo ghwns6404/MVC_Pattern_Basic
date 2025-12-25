@@ -1,0 +1,4 @@
+LIBRARY ModDef
+EXPORTS
+	MyPlus=AddInteger
+	MyMulti=MultInteger

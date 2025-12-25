@@ -1,0 +1,5 @@
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\20_프로퍼티와 속성\Chapter 20\DumpContentPropertyAttributes\bin\Debug\DumpContentPropertyAttributes.exe
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\20_프로퍼티와 속성\Chapter 20\DumpContentPropertyAttributes\bin\Debug\DumpContentPropertyAttributes.pdb
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\20_프로퍼티와 속성\Chapter 20\DumpContentPropertyAttributes\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\20_프로퍼티와 속성\Chapter 20\DumpContentPropertyAttributes\obj\Debug\DumpContentPropertyAttributes.exe
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\20_프로퍼티와 속성\Chapter 20\DumpContentPropertyAttributes\obj\Debug\DumpContentPropertyAttributes.pdb

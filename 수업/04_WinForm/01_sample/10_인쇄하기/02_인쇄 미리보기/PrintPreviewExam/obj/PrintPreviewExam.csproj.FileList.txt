@@ -1,0 +1,8 @@
+bin\Debug\PrintPreviewExam.exe
+bin\Debug\PrintPreviewExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PrintPreviewExam.Form1.resources
+obj\Debug\PrintPreviewExam.Properties.Resources.resources
+obj\Debug\PrintPreviewExam.csproj.GenerateResource.Cache
+obj\Debug\PrintPreviewExam.exe
+obj\Debug\PrintPreviewExam.pdb

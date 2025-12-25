@@ -1,0 +1,24 @@
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\SelectColorFromWheel\bin\Debug\SelectColorFromWheel.exe
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\SelectColorFromWheel\bin\Debug\SelectColorFromWheel.pdb
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\SelectColorFromWheel\obj\Debug\ResolveAssemblyReference.cache
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\SelectColorFromWheel\obj\Debug\SelectColorFromWheel.exe
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\SelectColorFromWheel\obj\Debug\SelectColorFromWheel.pdb
+C:\Users\kingup\Desktop\07_리스트박스\11_SelectColorFromWheel\obj\Debug\SelectColorFromWheel.exe
+C:\Users\kingup\Desktop\07_리스트박스\11_SelectColorFromWheel\obj\Debug\SelectColorFromWheel.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\11_SelectColorFromWheel\obj\Debug\SelectColorFromWheel.exe
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\11_SelectColorFromWheel\obj\Debug\SelectColorFromWheel.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\11_SelectColorFromWheel\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\11_SelectColorFromWheel\bin\Debug\SelectColorFromWheel.exe
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\11_SelectColorFromWheel\bin\Debug\SelectColorFromWheel.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\13_리스트박스\11_SelectColorFromWheel\obj\Debug\SelectColorFromWheel.exe
+C:\Documents and Settings\woosong bit\바탕 화면\13_리스트박스\11_SelectColorFromWheel\obj\Debug\SelectColorFromWheel.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\13_리스트박스\11_SelectColorFromWheel\bin\Debug\SelectColorFromWheel.exe
+C:\Documents and Settings\woosong bit\바탕 화면\13_리스트박스\11_SelectColorFromWheel\bin\Debug\SelectColorFromWheel.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\13_리스트박스\11_SelectColorFromWheel\obj\Debug\ResolveAssemblyReference.cache
+D:\WOOSONG13\11_WPF\13_리스트박스\11_SelectColorFromWheel\obj\Debug\SelectColorFromWheel.exe
+D:\WOOSONG13\11_WPF\13_리스트박스\11_SelectColorFromWheel\obj\Debug\SelectColorFromWheel.pdb
+D:\WOOSONG13\11_WPF\13_리스트박스\11_SelectColorFromWheel\bin\Debug\SelectColorFromWheel.exe
+D:\WOOSONG13\11_WPF\13_리스트박스\11_SelectColorFromWheel\bin\Debug\SelectColorFromWheel.pdb
+D:\WOOSONG13\11_WPF\13_리스트박스\11_SelectColorFromWheel\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\11_wpf\13_리스트박스\11_SelectColorFromWheel\obj\Debug\SelectColorFromWheel.exe
+\\61.81.99.99\11_wpf\13_리스트박스\11_SelectColorFromWheel\obj\Debug\SelectColorFromWheel.pdb

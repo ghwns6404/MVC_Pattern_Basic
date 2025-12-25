@@ -1,0 +1,5 @@
+bin\Debug\ListBoxExam.exe
+bin\Debug\ListBoxExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ListBoxExam.exe
+obj\Debug\ListBoxExam.pdb

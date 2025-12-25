@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bit1\\Desktop\\0423_Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_sample\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|solutionrelative:0423_sample\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|solutionrelative:0423_sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|c:\\users\\bit1\\desktop\\0423_sample\\0423_sample\\shapecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|solutionrelative:0423_sample\\shapecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_sample\\form\\colorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|solutionrelative:0423_sample\\form\\colorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_sample\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|solutionrelative:0423_sample\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_sample\\form\\printform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|solutionrelative:0423_sample\\form\\printform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_sample\\form\\printform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|solutionrelative:0423_sample\\form\\printform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_sample\\data\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|solutionrelative:0423_sample\\data\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_sample\\form\\colorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|solutionrelative:0423_sample\\form\\colorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_sample\\save\\wbxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15026E5-7DB1-4BCD-AE66-8916D931DECC}|0423_Sample\\0423_Sample.csproj|solutionrelative:0423_sample\\save\\wbxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrintForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\form\\PrintForm.cs",
+              "RelativeDocumentMoniker": "0423_Sample\\form\\PrintForm.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\form\\PrintForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "0423_Sample\\form\\PrintForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:22:19.329Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\form\\MainForm.cs",
+              "RelativeDocumentMoniker": "0423_Sample\\form\\MainForm.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\form\\MainForm.cs",
+              "RelativeToolTip": "0423_Sample\\form\\MainForm.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:26:54.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\data\\Shape.cs",
+              "RelativeDocumentMoniker": "0423_Sample\\data\\Shape.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\data\\Shape.cs",
+              "RelativeToolTip": "0423_Sample\\data\\Shape.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:12:03.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShapeControl.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\ShapeControl.cs",
+              "RelativeDocumentMoniker": "0423_Sample\\ShapeControl.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\ShapeControl.cs",
+              "RelativeToolTip": "0423_Sample\\ShapeControl.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:11:34.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrintForm.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\form\\PrintForm.cs",
+              "RelativeDocumentMoniker": "0423_Sample\\form\\PrintForm.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\form\\PrintForm.cs",
+              "RelativeToolTip": "0423_Sample\\form\\PrintForm.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:27:33.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WbXML.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\save\\WbXML.cs",
+              "RelativeDocumentMoniker": "0423_Sample\\save\\WbXML.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\save\\WbXML.cs",
+              "RelativeToolTip": "0423_Sample\\save\\WbXML.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:11:50.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ColorForm.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\form\\ColorForm.cs",
+              "RelativeDocumentMoniker": "0423_Sample\\form\\ColorForm.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\form\\ColorForm.cs",
+              "RelativeToolTip": "0423_Sample\\form\\ColorForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwDgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:10:21.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColorForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\form\\ColorForm.cs",
+              "RelativeDocumentMoniker": "0423_Sample\\form\\ColorForm.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\form\\ColorForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "0423_Sample\\form\\ColorForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:10:15.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\Program.cs",
+              "RelativeDocumentMoniker": "0423_Sample\\Program.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\Program.cs",
+              "RelativeToolTip": "0423_Sample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:09:35.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\form\\MainForm.cs",
+              "RelativeDocumentMoniker": "0423_Sample\\form\\MainForm.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0423_Sample\\0423_Sample\\form\\MainForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "0423_Sample\\form\\MainForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:08:38.109Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

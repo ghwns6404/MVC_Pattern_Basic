@@ -1,0 +1,5 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 17\PrintWithMargins\bin\Debug\PrintWithMargins.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 17\PrintWithMargins\bin\Debug\PrintWithMargins.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 17\PrintWithMargins\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 17\PrintWithMargins\obj\Debug\PrintWithMargins.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 17\PrintWithMargins\obj\Debug\PrintWithMargins.pdb

@@ -1,0 +1,48 @@
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\AnimatedTextGeometry\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\AnimatedTextGeometry\obj\Debug\AnimatedTextGeometryWindow.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\AnimatedTextGeometry\obj\Debug\AnimatedTextGeometryApp.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\AnimatedTextGeometry\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\AnimatedTextGeometry\obj\Debug\AnimatedTextGeometry_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\AnimatedTextGeometry\obj\Debug\AnimatedTextGeometry_MarkupCompile.lref
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\AnimatedTextGeometry\bin\Debug\AnimatedTextGeometry.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\AnimatedTextGeometry\bin\Debug\AnimatedTextGeometry.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\AnimatedTextGeometry\obj\Debug\AnimatedTextGeometryWindow.baml
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\AnimatedTextGeometry\obj\Debug\AnimatedTextGeometry.g.resources
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\AnimatedTextGeometry\obj\Debug\AnimatedTextGeometry.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\AnimatedTextGeometry\obj\Debug\AnimatedTextGeometry.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\30_Animation\46 - p1232\obj\Debug\AnimatedTextGeometry.exe
+C:\Documents and Settings\woosong bit\바탕 화면\30_Animation\46 - p1232\obj\Debug\AnimatedTextGeometry.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\30_Animation\46 - p1232\bin\Debug\AnimatedTextGeometry.exe
+C:\Documents and Settings\woosong bit\바탕 화면\30_Animation\46 - p1232\bin\Debug\AnimatedTextGeometry.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\30_Animation\46 - p1232\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\30_Animation\46 - p1232\obj\Debug\AnimatedTextGeometryWindow.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\30_Animation\46 - p1232\obj\Debug\AnimatedTextGeometryApp.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\30_Animation\46 - p1232\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\30_Animation\46 - p1232\obj\Debug\AnimatedTextGeometry_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\30_Animation\46 - p1232\obj\Debug\AnimatedTextGeometry_MarkupCompile.lref
+C:\Documents and Settings\woosong bit\바탕 화면\30_Animation\46 - p1232\obj\Debug\AnimatedTextGeometryWindow.baml
+C:\Documents and Settings\woosong bit\바탕 화면\30_Animation\46 - p1232\obj\Debug\AnimatedTextGeometry.g.resources
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\46 - p1232\obj\Debug\AnimatedTextGeometry.exe
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\46 - p1232\obj\Debug\AnimatedTextGeometry.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\46 - p1232\bin\Debug\AnimatedTextGeometry.exe
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\46 - p1232\bin\Debug\AnimatedTextGeometry.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\46 - p1232\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\46 - p1232\obj\Debug\AnimatedTextGeometryWindow.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\46 - p1232\obj\Debug\AnimatedTextGeometryApp.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\46 - p1232\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\46 - p1232\obj\Debug\AnimatedTextGeometry_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\46 - p1232\obj\Debug\AnimatedTextGeometry_MarkupCompile.lref
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\46 - p1232\obj\Debug\AnimatedTextGeometryWindow.baml
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\46 - p1232\obj\Debug\AnimatedTextGeometry.g.resources
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\46 - p1232\obj\Debug\AnimatedTextGeometry.exe
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\46 - p1232\obj\Debug\AnimatedTextGeometry.pdb
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\46 - p1232\bin\Debug\AnimatedTextGeometry.exe
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\46 - p1232\bin\Debug\AnimatedTextGeometry.pdb
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\46 - p1232\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\46 - p1232\obj\Debug\AnimatedTextGeometryWindow.g.cs
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\46 - p1232\obj\Debug\AnimatedTextGeometryApp.g.cs
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\46 - p1232\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\46 - p1232\obj\Debug\AnimatedTextGeometry_MarkupCompile.cache
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\46 - p1232\obj\Debug\AnimatedTextGeometry_MarkupCompile.lref
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\46 - p1232\obj\Debug\AnimatedTextGeometryWindow.baml
+\\61.81.99.99\Users\공유폴더\09_WPF\기존기수자료\30장 Animation\46 - p1232\obj\Debug\AnimatedTextGeometry.g.resources

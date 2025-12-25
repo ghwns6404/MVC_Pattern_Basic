@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1A98C7-6DAA-4565-AFFC-C3792565D2C2}|WpfApp1\\WpfApp1.csproj|C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\wpfapp1\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE1A98C7-6DAA-4565-AFFC-C3792565D2C2}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\WpfApp1\\bin\\Debug\\Books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp1\\bin\\Debug\\Books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1A98C7-6DAA-4565-AFFC-C3792565D2C2}|WpfApp1\\WpfApp1.csproj|c:\\users\\bit1\\desktop\\mvvm\uD328\uD134\\mvvm3\\wpfapp1\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1A98C7-6DAA-4565-AFFC-C3792565D2C2}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1A98C7-6DAA-4565-AFFC-C3792565D2C2}|WpfApp1\\WpfApp1.csproj|C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\wpfapp1\\view\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1A98C7-6DAA-4565-AFFC-C3792565D2C2}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\view\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1A98C7-6DAA-4565-AFFC-C3792565D2C2}|WpfApp1\\WpfApp1.csproj|C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\wpfapp1\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1A98C7-6DAA-4565-AFFC-C3792565D2C2}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1A98C7-6DAA-4565-AFFC-C3792565D2C2}|WpfApp1\\WpfApp1.csproj|C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\wpfapp1\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1A98C7-6DAA-4565-AFFC-C3792565D2C2}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1A98C7-6DAA-4565-AFFC-C3792565D2C2}|WpfApp1\\WpfApp1.csproj|C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE1A98C7-6DAA-4565-AFFC-C3792565D2C2}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Books.json",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\WpfApp1\\bin\\Debug\\Books.json",
+              "RelativeDocumentMoniker": "WpfApp1\\bin\\Debug\\Books.json",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\WpfApp1\\bin\\Debug\\Books.json",
+              "RelativeToolTip": "WpfApp1\\bin\\Debug\\Books.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T00:47:17.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T09:44:21.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\WpfApp1\\View\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\View\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\WpfApp1\\View\\RelayCommand.cs",
+              "RelativeToolTip": "WpfApp1\\View\\RelayCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:37:08.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\WpfApp1\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\WpfApp1\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwvwYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:35:54.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\WpfApp1\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\WpfApp1\\Model\\Book.cs",
+              "RelativeToolTip": "WpfApp1\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:35:21.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\WpfApp1\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\WpfApp1\\View\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T09:34:48.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\WpfApp1\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\MVVM\uD328\uD134\\MVVM3\\WpfApp1\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:34:47.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

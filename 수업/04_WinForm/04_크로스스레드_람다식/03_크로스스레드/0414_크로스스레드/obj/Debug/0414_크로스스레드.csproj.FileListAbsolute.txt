@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\0414_크로스스레드\0414_크로스스레드\bin\Debug\0414_크로스스레드.exe.config
+C:\Users\user\Desktop\0414_크로스스레드\0414_크로스스레드\bin\Debug\0414_크로스스레드.exe
+C:\Users\user\Desktop\0414_크로스스레드\0414_크로스스레드\bin\Debug\0414_크로스스레드.pdb
+C:\Users\user\Desktop\0414_크로스스레드\0414_크로스스레드\obj\Debug\0414_크로스스레드.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0414_크로스스레드\0414_크로스스레드\obj\Debug\0414_크로스스레드.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\0414_크로스스레드\0414_크로스스레드\obj\Debug\_0414_크로스스레드.Form1.resources
+C:\Users\user\Desktop\0414_크로스스레드\0414_크로스스레드\obj\Debug\_0414_크로스스레드.Properties.Resources.resources
+C:\Users\user\Desktop\0414_크로스스레드\0414_크로스스레드\obj\Debug\0414_크로스스레드.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0414_크로스스레드\0414_크로스스레드\obj\Debug\0414_크로스스레드.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0414_크로스스레드\0414_크로스스레드\obj\Debug\0414_크로스스레드.exe
+C:\Users\user\Desktop\0414_크로스스레드\0414_크로스스레드\obj\Debug\0414_크로스스레드.pdb

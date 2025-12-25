@@ -1,0 +1,18 @@
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\bin\Debug\Petzold.DataEntry.dll
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\bin\Debug\Petzold.DataEntry.pdb
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\NavigationBar.baml
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\NavigationBar.g.cs
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\Petzold.DataEntry_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\Petzold.DataEntry.g.resources
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\Petzold.DataEntry.dll
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\Petzold.DataEntry.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\03_DataEntryWithNavigation\Petzold.DataEntry\bin\Debug\Petzold.DataEntry.dll
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\03_DataEntryWithNavigation\Petzold.DataEntry\bin\Debug\Petzold.DataEntry.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\03_DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\03_DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\NavigationBar.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\03_DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\NavigationBar.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\03_DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\Petzold.DataEntry_MarkupCompile.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\03_DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\Petzold.DataEntry.g.resources
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\03_DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\Petzold.DataEntry.dll
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\03_DataEntryWithNavigation\Petzold.DataEntry\obj\Debug\Petzold.DataEntry.pdb

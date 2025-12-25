@@ -1,0 +1,13 @@
+Object
+  DispatcherObject(abstract)
+   DependencyObject
+    Visual(abstract)
+     UIElement
+      FrameworkElement
+       Shape(abstract)
+
+        Ellipse
+        Line
+        Path
+        Polygon
+        Polyline

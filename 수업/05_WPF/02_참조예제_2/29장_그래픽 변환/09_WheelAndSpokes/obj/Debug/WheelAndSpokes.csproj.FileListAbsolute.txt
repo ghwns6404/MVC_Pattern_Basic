@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\오용택\11_WPF 발표자료\29장_그래픽 변환\WheelAndSpokes\bin\Debug\WheelAndSpokes.exe
+C:\Users\Administrator\Desktop\오용택\11_WPF 발표자료\29장_그래픽 변환\WheelAndSpokes\bin\Debug\WheelAndSpokes.pdb
+C:\Users\Administrator\Desktop\오용택\11_WPF 발표자료\29장_그래픽 변환\WheelAndSpokes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\오용택\11_WPF 발표자료\29장_그래픽 변환\WheelAndSpokes\obj\Debug\WheelAndSpokes.exe
+C:\Users\Administrator\Desktop\오용택\11_WPF 발표자료\29장_그래픽 변환\WheelAndSpokes\obj\Debug\WheelAndSpokes.pdb

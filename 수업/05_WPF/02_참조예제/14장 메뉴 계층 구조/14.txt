@@ -1,0 +1,161 @@
+  Control
+     ContentControl		-> 버튼 / 레이블 / 툴팁 ...
+         HeaderedContentControl
+     ItemsControl
+         HenderedItemsControl
+
+
+
+Control 에서 파생된 4게의 클레스 중에는 친숙한 컨트롤이 많이 들어있다.
+1.
+   ContentControl에서 파생된 컨트롤은 Content 프로퍼티를 갖는다.이런 컨트롤에는 버튼, 레이블,툴 팁,스크롤 뷰어,리스트 박스 항목,윈도우 등이 있다.
+2.
+   ContentControl 에서 파생된 HeaderdContentControl 은 Header 프로퍼티를 갖는다.그룹 박스가 이에 해당한다.
+3.
+   ItemsControl은 다른  객체의 컬렉션인 Items 프로퍼티를 정의한다.이런 컨트롤에는 리스트 박스와 콤보 박스가 해당한다.
+4.
+   HeaderItemsControls은 ItemsControl 로부터 상속받은 프로퍼티 외에 추가로 
+Header 프로퍼티를 갖고 있다.메뉴 항목이 여기에 속한다.
+
+
+이런 패턴을 따르지 않는 메뉴가 탑 레벨 메뉴이다.탑 레벨 메뉴가 항목들(예를 들어 File,Edit,View,Help등)의 컬렉션이라는 것은 확실하다.하지만 이 컬렉션과 연결되는 헤더가 없다. 
+그래서 탑 레벨 메뉴는 ItemsControl 로부터 파생된 Menu 타입의 객체가 된다.아레 보이는 클래스 계층 구조는 메뉴와 관력 있는 클래스를 보여준다.
+
+Control 
+  ItemsControl		-> 리스트박스 / 콤보박스 
+     HeaderItemsControl	-> 그룹박스
+        MenuItem
+     MenuBase  (abstract)
+        ContextMenu
+        Menu
+  Separator
+
+- 메뉴의 구성 -
+
+1. Menu 첫번째 구문은, Top 이라 칭하며, 하위메뉴를 드롭다운이라 칭함.
+
+2. Top 레벨의 객체 타입은 MenuItem 객체이며, 해당 객체는 체크 부호를 켜고 끌 수 있는 불리언 타입의 IsChecked 프로퍼티를 갖는다.
+
+3. 탑레벨 메뉴 구현은 다음과 같다.
+
+	1) 메뉴 객체 생성.		Menu menu= new Menu();
+	2) 아이템 헤더 등록.	MenuItem itemfile=new MenuItem();
+				itemfile.Header="_File"; <헤더의 이름에 언더바가 붙으면, 키보드를 통하여 메뉴 접근이 가능함을 뜻한다.>
+	3) 메뉴 객체에 등록.	menu.Item.Add(itemfile);
+
+- 예제 구성 -
+
+1. PeruseTheMenu 
+
+- 중점 - ==============================================================
+
+	중점 -> 드롭다운 메뉴는 이벤트 추가가 필요.
+
+	IcChecked 메소드 -> 체크표시여부 확인
+
+	독패널 객체는 생성자에서 생성!! <기존 언어와 혼동이 없도록 하자!>
+
+=======================================================================
+
+2. CheckTheWindowStyle
+
+- 중점 - ===============================================================
+
+	이벤트 핸들러 및 CreateMenuItem
+	이벤트 핸들러의 인자값인 RoutedEventHandler ->  RoutedEvent클래스 인스턴스의 지원을 받으며 WPF이벤트 시스템에 의해 처리되는 CLR이벤트임.
+
+=======================================================================
+
+3. CheckTheColor
+
+- 중점 - ===============================================================
+	 Rectangle rect = new Rectangle();
+               rect.Fill = new SolidColorBrush(clr);
+               rect.Width = 2 * (rect.Height = 12);
+               item.Icon = rect;
+
+	MenuItem 객체는 Icon 설정 가능
+
+=======================================================================
+
+4. SelectColorFromMenuGrid
+
+- 중점 - ===============================================================
+
+	드롭다운 메뉴에 그리드박스를 생성.
+
+=======================================================================
+
+5. CutCopyAndPast 
+
+- 중점 - ===============================================================
+
+	3번 예제의 중점에 있는 MenuItem 객체의 Icon 설정을 Uri로 불러옴.
+
+	itemCopy = new MenuItem();
+         	itemCopy.Header = "_Copy";
+              itemCopy.Click += CopyOnClick;
+              img = new Image();
+              img.Source = new BitmapImage(new Uri("http://www.onegreen.net/QQ/UploadFiles/200806/200861551027277.gif"));
+              itemCopy.Icon = img;
+              itemEdit.Items.Add(itemCopy);
+
+              제스쳐에 대한 기본적인 언급.
+
+	Clipboard 객체
+	
+=======================================================================
+
+6. ControlXCV
+
+- 중점 - ===============================================================
+
+	제스쳐 기능 (?) 구현.
+
+	1.  KeyGesture gestCut = new KeyGesture(Key.X, ModifierKeys.Control);     
+	2.  itemCut.InputGestureText = "Ctrl+X";
+	
+        protected override void OnPreviewKeyDown(KeyEventArgs e)               
+        {
+            base.OnPreviewKeyDown(e);
+            e.Handled = true;                   
+            if (gestCut.Matches(null, e))
+                CutOnClick(this, e);
+
+            else if (gestCopy.Matches(null, e))
+                CopyOnClick(this, e);
+
+            else if (gestPaste.Matches(null, e))
+                PasteOnClick(this, e);
+
+            else if (gestDelete.Matches(null, e))
+                DeleteOnClick(this, e);
+
+            else
+                e.Handled = false;              // 아니라면 false 지정.
+               
+        }
+
+	  e.Handled = true;
+
+=======================================================================
+
+7. CommandTheMenu
+
+- 중점 - ===============================================================
+	
+	CommandBindings -> 입력된 커멘드에 대한 동작 설정. 
+		              
+	ContextMenu 프로퍼티는 툴팁과 같이 클래스면서 프로퍼티.
+	프레임워크 엘리먼트 / 프레임워크컨텐트엘리먼트에 의하여 구분됨.
+ 	
+
+=======================================================================
+
+8. PopupContextMenu
+
+- 중점 - ===============================================================
+
+	생성자에서 ConTextMenu 객체 생성.
+
+=======================================================================

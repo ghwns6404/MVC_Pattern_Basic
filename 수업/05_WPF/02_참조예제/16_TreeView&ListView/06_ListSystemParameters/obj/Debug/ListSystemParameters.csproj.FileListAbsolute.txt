@@ -1,0 +1,7 @@
+F:\NySHell\NySHell\12 - WPF\발표자료\16_TreeView&ListView\06_ListSystemParameters\bin\Debug\ListSystemParameters.exe
+F:\NySHell\NySHell\12 - WPF\발표자료\16_TreeView&ListView\06_ListSystemParameters\bin\Debug\ListSystemParameters.pdb
+F:\NySHell\NySHell\12 - WPF\발표자료\16_TreeView&ListView\06_ListSystemParameters\obj\Debug\ResolveAssemblyReference.cache
+F:\NySHell\NySHell\12 - WPF\발표자료\16_TreeView&ListView\06_ListSystemParameters\obj\Debug\ListSystemParameters.exe
+F:\NySHell\NySHell\12 - WPF\발표자료\16_TreeView&ListView\06_ListSystemParameters\obj\Debug\ListSystemParameters.pdb
+\\61.81.99.99\woosong13\11_WPF\16_TreeView&ListView\06_ListSystemParameters\obj\Debug\ListSystemParameters.exe
+\\61.81.99.99\woosong13\11_WPF\16_TreeView&ListView\06_ListSystemParameters\obj\Debug\ListSystemParameters.pdb

@@ -1,0 +1,5 @@
+bin\Debug\ComboBoxExam.exe
+bin\Debug\ComboBoxExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ComboBoxExam.exe
+obj\Debug\ComboBoxExam.pdb

@@ -1,0 +1,162 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU DISCARDABLE 
+BEGIN
+    POPUP "메뉴"
+    BEGIN
+        MENUITEM "환경 설정",                   IDM_MENU_OPTION
+        MENUITEM "잠시 정지\tSpace",            IDM_MENU_PAUSE
+        MENUITEM SEPARATOR
+        MENUITEM "종료",                        ID_MENU_EXIT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON    DISCARDABLE     "icon1.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOG DISCARDABLE  0, 0, 203, 155
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "돋보기 옵션"
+FONT 9, "굴림"
+BEGIN
+    GROUPBOX        "확대 비율",IDC_STATIC,10,15,85,65
+    CONTROL         "1배",IDC_RADIO1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,
+                    20,30,26,10
+    CONTROL         "2배",IDC_RADIO2,"Button",BS_AUTORADIOBUTTON,20,45,26,10
+    CONTROL         "4배",IDC_RADIO3,"Button",BS_AUTORADIOBUTTON,20,60,26,10
+    CONTROL         "8배",IDC_RADIO4,"Button",BS_AUTORADIOBUTTON,55,30,26,10
+    CONTROL         "10배",IDC_RADIO5,"Button",BS_AUTORADIOBUTTON,55,45,30,
+                    10
+    CONTROL         "20배",IDC_RADIO6,"Button",BS_AUTORADIOBUTTON,55,60,30,
+                    10
+    GROUPBOX        "초당 갱신 주기",IDC_STATIC,105,15,85,65
+    CONTROL         "1회",IDC_RADIO7,"Button",BS_AUTORADIOBUTTON | WS_GROUP,
+                    115,30,26,10
+    CONTROL         "2회",IDC_RADIO8,"Button",BS_AUTORADIOBUTTON,115,45,26,
+                    10
+    CONTROL         "4회",IDC_RADIO9,"Button",BS_AUTORADIOBUTTON,115,60,26,
+                    10
+    CONTROL         "8회",IDC_RADIO10,"Button",BS_AUTORADIOBUTTON,150,30,26,
+                    10
+    CONTROL         "10회",IDC_RADIO11,"Button",BS_AUTORADIOBUTTON,150,45,30,
+                    10
+    CONTROL         "20회",IDC_RADIO12,"Button",BS_AUTORADIOBUTTON,150,60,30,
+                    10
+    CONTROL         "커서 이동시만 화면 갱신하기",IDC_CHKONLYMOVE,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,10,90,105,10
+    CONTROL         "자신의 작업영역 안에서는 확대하지 않기",
+                    IDC_CHKSTOPINCLIENT,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,10,105,142,10
+    DEFPUSHBUTTON   "확인",IDOK,45,130,50,14
+    PUSHBUTTON      "취소",IDCANCEL,115,130,50,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 196
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 148
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_ACCELERATOR1 ACCELERATORS DISCARDABLE 
+BEGIN
+    VK_SPACE,       IDM_MENU_PAUSE,         VIRTKEY, NOINVERT
+END
+
+#endif    // Korean resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

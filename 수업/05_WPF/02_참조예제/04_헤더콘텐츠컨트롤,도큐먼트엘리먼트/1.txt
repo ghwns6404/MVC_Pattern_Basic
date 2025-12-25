@@ -1,0 +1,21 @@
+<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    Title="Hello and Goodbye" Height="300" Width="300"
+    >
+   <StackPanel
+   Name="HelloWorldGrid"
+   Background="AntiqueWhite"
+   >
+
+  
+
+     <Expander Height = "60"
+     Name = "MyExpander"
+     VerticalAlignment = "Bottom"
+     Content = "When you click on an expander its content."/>
+
+
+
+
+    </StackPanel>
+</Window >

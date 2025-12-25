@@ -1,0 +1,32 @@
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\ClickTheButton\bin\Debug\ClickTheButton.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\ClickTheButton\bin\Debug\ClickTheButton.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\ClickTheButton\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\ClickTheButton\obj\Debug\ClickTheButton.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\ClickTheButton\obj\Debug\ClickTheButton.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\ClickTheButton\obj\Debug\ClickTheButton.g.resources
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\4과 발표 자료\ClickTheButton\obj\Debug\ClickTheButton.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\4과 발표 자료\ClickTheButton\obj\Debug\ClickTheButton.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\자료\04_Button And Control\Button Control\obj\Debug\ClickTheButton.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\자료\04_Button And Control\Button Control\obj\Debug\ClickTheButton.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\자료\04_Button And Control\Button Control\bin\Debug\ClickTheButton.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\자료\04_Button And Control\Button Control\bin\Debug\ClickTheButton.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\자료\04_Button And Control\Button Control\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\자료\04_Button And Control\Button Control\obj\Debug\ClickTheButton.g.resources
+D:\WOOSONG13\11_WPF\04_Button And Control\Button Control\obj\Debug\ClickTheButton.exe
+D:\WOOSONG13\11_WPF\04_Button And Control\Button Control\obj\Debug\ClickTheButton.pdb
+D:\WOOSONG13\11_WPF\04_Button And Control\Button Control\bin\Debug\ClickTheButton.exe
+D:\WOOSONG13\11_WPF\04_Button And Control\Button Control\bin\Debug\ClickTheButton.pdb
+D:\WOOSONG13\11_WPF\04_Button And Control\Button Control\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\11_wpf\04_Button And Control\Button Control\obj\Debug\ClickTheButton.exe
+\\61.81.99.99\11_wpf\04_Button And Control\Button Control\obj\Debug\ClickTheButton.pdb
+\\61.81.99.99\11_wpf\04_Button And Control\Button Control\bin\Debug\ClickTheButton.exe
+\\61.81.99.99\11_wpf\04_Button And Control\Button Control\bin\Debug\ClickTheButton.pdb
+\\61.81.99.99\11_wpf\04_Button And Control\Button Control\obj\Debug\ResolveAssemblyReference.cache
+D:\WOOSONG13\11_WPF\04_Button And Control\Button Control\obj\Debug\ClickTheButton.g.resources
+\\61.81.99.99\11_wpf\04_Button And Control\Button Control\obj\Debug\ClickTheButton.g.resources
+\\61.81.99.99\Users\공유폴더\09_WPF\04_Button And Control\Button Control\obj\Debug\ClickTheButton.exe
+\\61.81.99.99\Users\공유폴더\09_WPF\04_Button And Control\Button Control\obj\Debug\ClickTheButton.pdb
+\\61.81.99.99\Users\공유폴더\09_WPF\04_Button And Control\Button Control\bin\Debug\ClickTheButton.exe
+\\61.81.99.99\Users\공유폴더\09_WPF\04_Button And Control\Button Control\bin\Debug\ClickTheButton.pdb
+\\61.81.99.99\Users\공유폴더\09_WPF\04_Button And Control\Button Control\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\Users\공유폴더\09_WPF\04_Button And Control\Button Control\obj\Debug\ClickTheButton.g.resources

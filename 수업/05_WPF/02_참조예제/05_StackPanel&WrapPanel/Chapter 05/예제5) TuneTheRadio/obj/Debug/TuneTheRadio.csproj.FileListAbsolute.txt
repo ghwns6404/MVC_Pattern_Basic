@@ -1,0 +1,15 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 05\TuneTheRadio\bin\Debug\TuneTheRadio.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 05\TuneTheRadio\bin\Debug\TuneTheRadio.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 05\TuneTheRadio\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 05\TuneTheRadio\obj\Debug\TuneTheRadio.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 05\TuneTheRadio\obj\Debug\TuneTheRadio.pdb
+C:\Documents and Settings\USER\바탕 화면\05장_발표\Chapter 05\예제5) TuneTheRadio\obj\Debug\TuneTheRadio.exe
+C:\Documents and Settings\USER\바탕 화면\05장_발표\Chapter 05\예제5) TuneTheRadio\obj\Debug\TuneTheRadio.pdb
+C:\Documents and Settings\USER\바탕 화면\05장_발표\Chapter 05\예제5) TuneTheRadio\bin\Debug\TuneTheRadio.exe
+C:\Documents and Settings\USER\바탕 화면\05장_발표\Chapter 05\예제5) TuneTheRadio\bin\Debug\TuneTheRadio.pdb
+C:\Documents and Settings\USER\바탕 화면\05장_발표\Chapter 05\예제5) TuneTheRadio\obj\Debug\ResolveAssemblyReference.cache
+D:\WOOSONG13\11_WPF\05장_발표\Chapter 05\예제5) TuneTheRadio\obj\Debug\TuneTheRadio.exe
+D:\WOOSONG13\11_WPF\05장_발표\Chapter 05\예제5) TuneTheRadio\obj\Debug\TuneTheRadio.pdb
+D:\WOOSONG13\11_WPF\05장_발표\Chapter 05\예제5) TuneTheRadio\bin\Debug\TuneTheRadio.exe
+D:\WOOSONG13\11_WPF\05장_발표\Chapter 05\예제5) TuneTheRadio\bin\Debug\TuneTheRadio.pdb
+D:\WOOSONG13\11_WPF\05장_발표\Chapter 05\예제5) TuneTheRadio\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+<DrawingGroup x:Name="drawgrp">
+<Label Content="{Binding ElementName=drawgrp, Path=Bounds}" />
+<Pen Brush = "Blue" Thickness="2" LineJoin="Bevel" />
+
+// p1264 Stretch="Uniform" Àû¿ë
+<ImageBrush Stretch = "Uniform">
+<ImageBrush Stretch = "Uniform">
+<DrawingBrush Stretch = "Uniform">
+
+// p1266 ~ 1269
+<DrawingBrush TileMode = "Tile" Viewport ="0 0 0.04 0.03">
+<ImageBrush TileMode = "Tile" Viewport ="0 0 50 60" ViewportUnits="Absolute">
+<ImageBrush TileMode = "Tile" Viewport ="25 30 50 60" ViewportUnits="Absolute">
+<DrawingBrush TileMode = "Tile" Viewport="0 0 60 30 " ViewportUnits="Absolute">
+<ImageBrush TileMode = "Tile" Viewport= "0 0 50 60" ViewportUnits="Absolute" 
+Viewbox ="0.3 0.05 0.4 0.6">
+<DrawingBrush TileMode = "Tile" Viewport="0 0 60 30" ViewportUnits="Absolute"
+Viewbox ="0 0 200 100" ViewboxUnits="Absolute">
+<ImageBrush TileMode ="FlipXY" Viewport="0 0 50 60" ViewportUnits="Absolute"
+Viewbox ="0.3 0.10 0.4 0.6">

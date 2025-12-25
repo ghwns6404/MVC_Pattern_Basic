@@ -1,0 +1,196 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DLGMAIN DIALOG DISCARDABLE  0, 0, 427, 321
+STYLE WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_CAPTION | WS_SYSMENU | 
+    WS_THICKFRAME
+CAPTION "Source Counter"
+FONT 9, "굴림"
+BEGIN
+    PUSHBUTTON      "줄수 세기",IDC_BTN_COUNT,95,35,35,14
+    COMBOBOX        IDC_CBPRJTYPE,220,15,45,65,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    EDITTEXT        IDC_EXTENSION,160,50,105,15,ES_AUTOHSCROLL
+    LTEXT           "프로젝트 유형",IDC_STATIC,160,20,45,8
+    GROUPBOX        "조사 대상 파일",IDC_STATIC,155,5,120,65
+    LTEXT           "프로젝트 폴더",IDC_STATIC,5,5,51,8
+    PUSHBUTTON      "...",IDC_BTN_BROWSE,5,35,15,14
+    LTEXT           "확장자(예:ext;abc)",IDC_STATIC,160,35,60,8
+    CONTROL         "List1",IDC_LIST1,"SysListView32",LVS_REPORT | WS_BORDER | 
+                    WS_TABSTOP,0,145,135,80
+    LTEXT           "검색결과",IDC_RESULT,0,235,145,8
+    COMBOBOX        IDC_PRJFOLDER,5,15,145,80,CBS_DROPDOWN | WS_VSCROLL | 
+                    WS_TABSTOP
+    PUSHBUTTON      "폴더등록",IDC_REGISTER,25,35,30,14
+    PUSHBUTTON      "폴더백업",IDC_BACKUP,60,35,30,14
+    EDITTEXT        IDC_EDEDITOR,35,55,85,14,ES_AUTOHSCROLL | ES_READONLY
+    LTEXT           "편집기",IDC_STATIC,5,59,22,8
+    PUSHBUTTON      "변경",IDC_BTNSETEDIT,125,55,25,14
+    EDITTEXT        IDC_EDFIND,305,10,70,14,ES_AUTOHSCROLL
+    LTEXT           "검색",IDC_STATIC,280,15,15,8
+    PUSHBUTTON      "찾기",IDC_BTNFIND,380,10,40,14
+    PUSHBUTTON      "목",IDC_BTN_LIST,135,35,15,14
+END
+
+IDD_DLGBACK DIALOG DISCARDABLE  0, 0, 263, 169
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "프로젝트 백업"
+FONT 9, "굴림"
+BEGIN
+    DEFPUSHBUTTON   "백업",IDOK,75,145,50,14
+    PUSHBUTTON      "닫기",IDCANCEL,145,145,50,14
+    EDITTEXT        IDC_EDSRC,50,15,150,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDDEST,50,40,150,14,ES_AUTOHSCROLL
+    RTEXT           "백업 대상 폴더",IDC_STATIC,0,18,47,8
+    RTEXT           "백업할 폴더",IDC_STATIC,9,43,38,8
+    PUSHBUTTON      "찾아보기",IDC_BTNBROWSE,205,40,50,14
+    EDITTEXT        IDC_EDEXFOLDER,50,65,205,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDEXFILE,50,90,205,30,ES_MULTILINE | WS_VSCROLL
+    RTEXT           "백업 제외 폴더",IDC_STATIC,0,68,47,8
+    RTEXT           "백업 제외 파일",IDC_STATIC,0,93,47,8
+    LTEXT           "",IDC_STATUS,10,125,245,8
+END
+
+IDD_DLGREGFOLDER DIALOG DISCARDABLE  0, 0, 199, 199
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "폴더 등록"
+FONT 9, "굴림"
+BEGIN
+    DEFPUSHBUTTON   "확인",IDOK,140,145,50,14
+    PUSHBUTTON      "취소",IDCANCEL,140,170,50,14
+    LISTBOX         IDC_LISTFOLDER,5,15,125,175,LBS_NOINTEGRALHEIGHT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "등록되어 있는 폴더",IDC_STATIC,5,5,75,8
+    PUSHBUTTON      "새 폴더 등록",IDC_BTNADD,140,35,50,14
+    PUSHBUTTON      "폴더 삭제",IDC_BTNDEL,140,70,50,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_DLGMAIN, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 420
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 314
+    END
+
+    IDD_DLGBACK, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 256
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 162
+    END
+
+    IDD_DLGREGFOLDER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 192
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 192
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_DLGMAIN DLGINIT
+BEGIN
+    IDC_CBPRJTYPE, 0x403, 9, 0
+0xf0b8, 0xceb5, 0xd8c7, 0xa6c1, "\000" 
+    IDC_CBPRJTYPE, 0x403, 2, 0
+0x0043, 
+    IDC_CBPRJTYPE, 0x403, 7, 0
+0x6150, 0x6373, 0x6c61, "\000" 
+    IDC_CBPRJTYPE, 0x403, 9, 0
+0x7341, 0x6573, 0x626d, 0x796c, "\000" 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON    DISCARDABLE     "icon1.ico"
+#endif    // Korean resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

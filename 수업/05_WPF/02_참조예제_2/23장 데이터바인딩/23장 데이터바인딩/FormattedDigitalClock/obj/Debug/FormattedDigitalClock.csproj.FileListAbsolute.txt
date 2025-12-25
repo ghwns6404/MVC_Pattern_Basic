@@ -1,0 +1,33 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\FormattedDigitalClock\bin\Debug\FormattedDigitalClock.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\FormattedDigitalClock\bin\Debug\FormattedDigitalClock.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\FormattedDigitalClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\FormattedDigitalClock\obj\Debug\FormattedDigitalClockApp.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\FormattedDigitalClock\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\FormattedDigitalClock\obj\Debug\FormattedDigitalClock_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\FormattedDigitalClock\obj\Debug\FormattedDigitalClock_MarkupCompile.lref
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\FormattedDigitalClock\obj\Debug\FormattedDigitalClockWindow.baml
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\FormattedDigitalClock\obj\Debug\FormattedDigitalClock.g.resources
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\FormattedDigitalClock\obj\Debug\FormattedDigitalClock.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\FormattedDigitalClock\obj\Debug\FormattedDigitalClock.pdb
+C:\Users\Administrator\Desktop\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\FormattedDigitalClock.exe
+C:\Users\Administrator\Desktop\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\FormattedDigitalClock.pdb
+C:\Users\Administrator\Desktop\23장 데이터바인딩\FormattedDigitalClock\bin\Debug\FormattedDigitalClock.exe
+C:\Users\Administrator\Desktop\23장 데이터바인딩\FormattedDigitalClock\bin\Debug\FormattedDigitalClock.pdb
+C:\Users\Administrator\Desktop\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\FormattedDigitalClockApp.g.cs
+C:\Users\Administrator\Desktop\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\FormattedDigitalClock_MarkupCompile.cache
+C:\Users\Administrator\Desktop\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\FormattedDigitalClock_MarkupCompile.lref
+C:\Users\Administrator\Desktop\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\FormattedDigitalClockWindow.baml
+C:\Users\Administrator\Desktop\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\FormattedDigitalClock.g.resources
+\\61.81.99.99\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\FormattedDigitalClock.exe
+\\61.81.99.99\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\FormattedDigitalClock.pdb
+\\61.81.99.99\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\FormattedDigitalClock\bin\Debug\FormattedDigitalClock.exe
+\\61.81.99.99\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\FormattedDigitalClock\bin\Debug\FormattedDigitalClock.pdb
+\\61.81.99.99\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\FormattedDigitalClock.csprojResolveAssemblyReference.cache
+\\61.81.99.99\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\FormattedDigitalClockApp.g.cs
+\\61.81.99.99\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\61.81.99.99\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\FormattedDigitalClock_MarkupCompile.cache
+\\61.81.99.99\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\FormattedDigitalClock_MarkupCompile.lref
+\\61.81.99.99\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\FormattedDigitalClockWindow.baml
+\\61.81.99.99\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\FormattedDigitalClock\obj\Debug\FormattedDigitalClock.g.resources

@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bit1\\Desktop\\\uC9ED\uC2A4\uD0C0Ver.1\\fakesta winforms client final v3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10AF22AF-E855-453A-969E-E0518BA6EB23}|FakeStar.csproj|c:\\users\\bit1\\desktop\\\uC9ED\uC2A4\uD0C0ver.1\\fakesta winforms client final v3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AF22AF-E855-453A-969E-E0518BA6EB23}|FakeStar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AF22AF-E855-453A-969E-E0518BA6EB23}|FakeStar.csproj|c:\\users\\bit1\\desktop\\\uC9ED\uC2A4\uD0C0ver.1\\fakesta winforms client final v3\\myclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AF22AF-E855-453A-969E-E0518BA6EB23}|FakeStar.csproj|solutionrelative:myclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AF22AF-E855-453A-969E-E0518BA6EB23}|FakeStar.csproj|C:\\Users\\bit1\\Desktop\\\uC9ED\uC2A4\uD0C0Ver.1\\fakesta winforms client final v3\\memberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10AF22AF-E855-453A-969E-E0518BA6EB23}|FakeStar.csproj|solutionrelative:memberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AF22AF-E855-453A-969E-E0518BA6EB23}|FakeStar.csproj|C:\\Users\\bit1\\Desktop\\\uC9ED\uC2A4\uD0C0Ver.1\\fakesta winforms client final v3\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10AF22AF-E855-453A-969E-E0518BA6EB23}|FakeStar.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uC9ED\uC2A4\uD0C0Ver.1\\fakesta winforms client final v3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uC9ED\uC2A4\uD0C0Ver.1\\fakesta winforms client final v3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:02:59.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uC9ED\uC2A4\uD0C0Ver.1\\fakesta winforms client final v3\\MemberForm.cs",
+              "RelativeDocumentMoniker": "MemberForm.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\fakesta winforms client final v3\\MemberForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\fakesta winforms client final v3\\MemberForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:51:27.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uC9ED\uC2A4\uD0C0Ver.1\\fakesta winforms client final v3\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\fakesta winforms client final v3\\Login.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\fakesta winforms client final v3\\Login.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:51:27.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyClient.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uC9ED\uC2A4\uD0C0Ver.1\\fakesta winforms client final v3\\MyClient.cs",
+              "RelativeDocumentMoniker": "MyClient.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uC9ED\uC2A4\uD0C0Ver.1\\fakesta winforms client final v3\\MyClient.cs",
+              "RelativeToolTip": "MyClient.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:42:34.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+<Window     
+   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+   Title="Programming .NET 3.5 | Chapter 3">
+<FlowDocument >
+    <Paragraph FontSize="28" Foreground="Red">Xaml: A Markup Language For Windows ?And More. </Paragraph>
+  
+   <Paragraph>
+The goal of this chapter is to give you an overview of Xaml and how it is used in creating the software user experience. By the end of this chapter you should have an appreciation of Xaml as a declarative language, an understanding of 
+   the basic elements and attributes that you are likely to encounter when writing a .NET 3 application, and a fundamental appreciation for hand crafting meaningful Xaml applications. The tour will be far from complete but more than comprehensive.   If you are looking for a really good Xaml reference, we would highly recommend Xaml in a Nutshell by Lori A. MacVittie. 
+   </Paragraph>
+    <Paragraph FontSize="24" Foreground="Red">Xaml 101</Paragraph>
+    <Paragraph>
+      If you’ve been writing software for a while, then you know often times you have a   hard time translating the ideas of User Interface (UI) designers into something    that works within the confines of your development environment and platform. If 
+   you are a designer, then you know that over the years you have had to make compromise after compromise with software engineers because the tool that you were using to design those rich user experiences was only limited by your imagination and ability. In short, these two worlds, design and development, did not share a common border.    Although the divide between these two worlds wasn’t very large, it was traditionally big enough to create significant frustration. 
+    </Paragraph>
+    <Paragraph>Enter Microsoft’s <Bold> Extensible Application Markup Language</Bold> (Xaml; pronounced "Zammel").</Paragraph>
+<Paragraph>As with so many of the key aspects of .NET 3.5, Xaml is an important evolutionary step in the software development process. For the second time, designers and developers are being given a common border to their creative worlds. The first time was with another declarative programming language called HTML. Now, through Xaml, Microsoft is enabling the   type of collaboration that has existed with web- based applications for some time now. 
+    </Paragraph>
+    <Paragraph>
+   In software, especially object- oriented software, you’re going to hear a lot about interface and implementation. Programming languages provide mechanisms that allow developers to express abstractions. These mechanisms are simply 
+   a means of grouping implementation details and giving them a common interface. 
+    </Paragraph>
+   <BlockUIContainer>
+      <Image Height="184" Width="202" Source=" http://alexhorovitz.com/oop/ivi_watch.gif" />
+   </BlockUIContainer>
+   <Paragraph FontSize="15" Foreground="Blue">Figure 3-1. Interface vs. Implementation</Paragraph>
+<Paragraph>Consider a watch [ Figure 3-1 ] from the point of view of a developer . You would likely want to concern yourself with what it’s made of and how it keeps time. Looking at the watch from the point of view of a user (or designer), you’d likely only care that it was accurate at keeping time and had an easy- to -understand means of letting you know what time it was. So it also goes with good software development,: the people who care about the interface of a software program (users/designers) and the developers who implement that interface aren’t always going to care about the same things.</Paragraph>
+    
+</FlowDocument>
+</Window >

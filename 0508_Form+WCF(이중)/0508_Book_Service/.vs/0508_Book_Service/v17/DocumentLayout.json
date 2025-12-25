@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D065E40-6FFF-49C5-B3D7-E2D728D52F16}|0508_Book_Service\\0508_Book_Service.csproj|c:\\users\\bit1\\desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_form\u002Bwcf(\uC774\uC911)\\0508_book_service\\0508_book_service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D065E40-6FFF-49C5-B3D7-E2D728D52F16}|0508_Book_Service\\0508_Book_Service.csproj|solutionrelative:0508_book_service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D065E40-6FFF-49C5-B3D7-E2D728D52F16}|0508_Book_Service\\0508_Book_Service.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_book_service\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D065E40-6FFF-49C5-B3D7-E2D728D52F16}|0508_Book_Service\\0508_Book_Service.csproj|solutionrelative:0508_book_service\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D065E40-6FFF-49C5-B3D7-E2D728D52F16}|0508_Book_Service\\0508_Book_Service.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_book_service\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D065E40-6FFF-49C5-B3D7-E2D728D52F16}|0508_Book_Service\\0508_Book_Service.csproj|solutionrelative:0508_book_service\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D065E40-6FFF-49C5-B3D7-E2D728D52F16}|0508_Book_Service\\0508_Book_Service.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_book_service\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D065E40-6FFF-49C5-B3D7-E2D728D52F16}|0508_Book_Service\\0508_Book_Service.csproj|solutionrelative:0508_book_service\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D065E40-6FFF-49C5-B3D7-E2D728D52F16}|0508_Book_Service\\0508_Book_Service.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_book_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D065E40-6FFF-49C5-B3D7-E2D728D52F16}|0508_Book_Service\\0508_Book_Service.csproj|solutionrelative:0508_book_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D065E40-6FFF-49C5-B3D7-E2D728D52F16}|0508_Book_Service\\0508_Book_Service.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_book_service\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8D065E40-6FFF-49C5-B3D7-E2D728D52F16}|0508_Book_Service\\0508_Book_Service.csproj|solutionrelative:0508_book_service\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDB.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_Book_Service\\MyDB.cs",
+              "RelativeDocumentMoniker": "0508_Book_Service\\MyDB.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_Book_Service\\MyDB.cs",
+              "RelativeToolTip": "0508_Book_Service\\MyDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:47:32.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_Book_Service\\BookService.cs",
+              "RelativeDocumentMoniker": "0508_Book_Service\\BookService.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_Book_Service\\BookService.cs",
+              "RelativeToolTip": "0508_Book_Service\\BookService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAWwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:15:20.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_Book_Service\\App.config",
+              "RelativeDocumentMoniker": "0508_Book_Service\\App.config",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_Book_Service\\App.config",
+              "RelativeToolTip": "0508_Book_Service\\App.config",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-08T06:13:33.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_Book_Service\\IBook.cs",
+              "RelativeDocumentMoniker": "0508_Book_Service\\IBook.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_Book_Service\\IBook.cs",
+              "RelativeToolTip": "0508_Book_Service\\IBook.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:21:23.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_Book_Service\\Book.cs",
+              "RelativeDocumentMoniker": "0508_Book_Service\\Book.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_Book_Service\\Book.cs",
+              "RelativeToolTip": "0508_Book_Service\\Book.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:23:35.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_Book_Service\\Program.cs",
+              "RelativeDocumentMoniker": "0508_Book_Service\\Program.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form\u002BWCF(\uC774\uC911)\\0508_Book_Service\\0508_Book_Service\\Program.cs",
+              "RelativeToolTip": "0508_Book_Service\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:08:09.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

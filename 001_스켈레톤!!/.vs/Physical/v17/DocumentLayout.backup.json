@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\001_\uC2A4\uCF08\uB808\uD1A4!!\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1E3430-AA7F-4DEE-995F-881AC87BA19C}|Physical\\Physical.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\001_\uC2A4\uCF08\uB808\uD1A4!!\\physical\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1E3430-AA7F-4DEE-995F-881AC87BA19C}|Physical\\Physical.csproj|solutionrelative:physical\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1E3430-AA7F-4DEE-995F-881AC87BA19C}|Physical\\Physical.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\001_\uC2A4\uCF08\uB808\uD1A4!!\\physical\\staminacontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1E3430-AA7F-4DEE-995F-881AC87BA19C}|Physical\\Physical.csproj|solutionrelative:physical\\staminacontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1E3430-AA7F-4DEE-995F-881AC87BA19C}|Physical\\Physical.csproj|c:\\users\\bit1\\desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\001_\uC2A4\uCF08\uB808\uD1A4!!\\physical\\wblib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1E3430-AA7F-4DEE-995F-881AC87BA19C}|Physical\\Physical.csproj|solutionrelative:physical\\wblib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1E3430-AA7F-4DEE-995F-881AC87BA19C}|Physical\\Physical.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\001_\uC2A4\uCF08\uB808\uD1A4!!\\physical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1E3430-AA7F-4DEE-995F-881AC87BA19C}|Physical\\Physical.csproj|solutionrelative:physical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1E3430-AA7F-4DEE-995F-881AC87BA19C}|Physical\\Physical.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\001_\uC2A4\uCF08\uB808\uD1A4!!\\physical\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1E3430-AA7F-4DEE-995F-881AC87BA19C}|Physical\\Physical.csproj|solutionrelative:physical\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\001_\uC2A4\uCF08\uB808\uD1A4!!\\Physical\\Human.cs",
+              "RelativeDocumentMoniker": "Physical\\Human.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\001_\uC2A4\uCF08\uB808\uD1A4!!\\Physical\\Human.cs",
+              "RelativeToolTip": "Physical\\Human.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:39:36.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaminaControl.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\001_\uC2A4\uCF08\uB808\uD1A4!!\\Physical\\StaminaControl.cs",
+              "RelativeDocumentMoniker": "Physical\\StaminaControl.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\001_\uC2A4\uCF08\uB808\uD1A4!!\\Physical\\StaminaControl.cs",
+              "RelativeToolTip": "Physical\\StaminaControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:39:17.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\001_\uC2A4\uCF08\uB808\uD1A4!!\\Physical\\App.cs",
+              "RelativeDocumentMoniker": "Physical\\App.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\001_\uC2A4\uCF08\uB808\uD1A4!!\\Physical\\App.cs",
+              "RelativeToolTip": "Physical\\App.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:38:49.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WbLib.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\001_\uC2A4\uCF08\uB808\uD1A4!!\\Physical\\WbLib.cs",
+              "RelativeDocumentMoniker": "Physical\\WbLib.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\001_\uC2A4\uCF08\uB808\uD1A4!!\\Physical\\WbLib.cs",
+              "RelativeToolTip": "Physical\\WbLib.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:38:40.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\001_\uC2A4\uCF08\uB808\uD1A4!!\\Physical\\Program.cs",
+              "RelativeDocumentMoniker": "Physical\\Program.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\001_\uC2A4\uCF08\uB808\uD1A4!!\\Physical\\Program.cs",
+              "RelativeToolTip": "Physical\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:38:06.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

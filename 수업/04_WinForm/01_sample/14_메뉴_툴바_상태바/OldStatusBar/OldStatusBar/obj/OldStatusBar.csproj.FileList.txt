@@ -1,0 +1,5 @@
+bin\Debug\OldStatusBar.exe
+bin\Debug\OldStatusBar.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\OldStatusBar.exe
+obj\Debug\OldStatusBar.pdb

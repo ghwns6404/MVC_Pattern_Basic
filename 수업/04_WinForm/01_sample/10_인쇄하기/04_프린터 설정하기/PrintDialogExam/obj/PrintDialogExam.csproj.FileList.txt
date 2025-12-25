@@ -1,0 +1,8 @@
+bin\Debug\PrintDialogExam.exe
+bin\Debug\PrintDialogExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PrintDialogExam.Form1.resources
+obj\Debug\PrintDialogExam.Properties.Resources.resources
+obj\Debug\PrintDialogExam.csproj.GenerateResource.Cache
+obj\Debug\PrintDialogExam.exe
+obj\Debug\PrintDialogExam.pdb

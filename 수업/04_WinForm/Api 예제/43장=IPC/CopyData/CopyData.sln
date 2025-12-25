@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CopyData1", "CopyData1\CopyData1.vcproj", "{980F9046-FA15-4EAC-B2FF-B4FEF0BBDA33}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CopyData2", "CopyData2\CopyData2.vcproj", "{C8A660BD-A785-45EB-B7E8-F67271C84F83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980F9046-FA15-4EAC-B2FF-B4FEF0BBDA33}.Debug|Win32.ActiveCfg = Debug|Win32
+		{980F9046-FA15-4EAC-B2FF-B4FEF0BBDA33}.Debug|Win32.Build.0 = Debug|Win32
+		{980F9046-FA15-4EAC-B2FF-B4FEF0BBDA33}.Release|Win32.ActiveCfg = Release|Win32
+		{980F9046-FA15-4EAC-B2FF-B4FEF0BBDA33}.Release|Win32.Build.0 = Release|Win32
+		{C8A660BD-A785-45EB-B7E8-F67271C84F83}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C8A660BD-A785-45EB-B7E8-F67271C84F83}.Debug|Win32.Build.0 = Debug|Win32
+		{C8A660BD-A785-45EB-B7E8-F67271C84F83}.Release|Win32.ActiveCfg = Release|Win32
+		{C8A660BD-A785-45EB-B7E8-F67271C84F83}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

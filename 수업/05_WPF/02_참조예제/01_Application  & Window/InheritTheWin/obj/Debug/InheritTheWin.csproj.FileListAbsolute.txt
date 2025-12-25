@@ -1,0 +1,20 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 01\InheritTheWin\bin\Debug\InheritTheWin.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 01\InheritTheWin\bin\Debug\InheritTheWin.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 01\InheritTheWin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 01\InheritTheWin\obj\Debug\InheritTheWin.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 01\InheritTheWin\obj\Debug\InheritTheWin.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 01\InheritTheWin\obj\Debug\InheritTheWin.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 01\InheritTheWin\obj\Debug\InheritTheWin.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 01\InheritTheWin\bin\Debug\InheritTheWin.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 01\InheritTheWin\bin\Debug\InheritTheWin.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 01\InheritTheWin\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\01_Chapter\InheritTheWin\obj\Debug\InheritTheWin.exe
+\\61.81.99.99\c#\11_WPF 발표자료\01_Chapter\InheritTheWin\obj\Debug\InheritTheWin.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\InheritTheWin\obj\Debug\InheritTheWin.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\InheritTheWin\obj\Debug\InheritTheWin.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\InheritTheWin\bin\Debug\InheritTheWin.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\InheritTheWin\bin\Debug\InheritTheWin.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\InheritTheWin\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\01_Chapter\InheritTheWin\bin\Debug\InheritTheWin.exe
+\\61.81.99.99\c#\11_WPF 발표자료\01_Chapter\InheritTheWin\bin\Debug\InheritTheWin.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\01_Chapter\InheritTheWin\obj\Debug\ResolveAssemblyReference.cache

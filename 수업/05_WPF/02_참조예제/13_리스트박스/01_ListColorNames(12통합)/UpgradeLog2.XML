@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ListColorNames">
+</Property><Property Name="솔루션 파일" Value="C:\Users\Administrator\Desktop\13_리스트박스(kjh)\01_ListColorNames(12통합)\ListColorNames.sln">
+</Property><Property Name="사용자 옵션 파일" Value="C:\Users\Administrator\Desktop\13_리스트박스(kjh)\01_ListColorNames(12통합)\ListColorNames.suo">
+</Property><Property Name="Date" Value="2011년 11월 14일 월요일">
+</Property><Property Name="Time" Value="오전 9:51">
+</Property><Property Name="로그 번호" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ListColorNames.sln" Description="파일을 C:\Users\Administrator\Desktop\13_리스트박스(kjh)\01_ListColorNames(12통합)\Backup\ListColorNames.sln(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="ListColorNames.suo" Description="파일을 C:\Users\Administrator\Desktop\13_리스트박스(kjh)\01_ListColorNames(12통합)\Backup\ListColorNames.suo(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ListColorNames" Source="ListColorNames.csproj" Description="프로젝트 파일을 C:\Users\Administrator\Desktop\13_리스트박스(kjh)\01_ListColorNames(12통합)\Backup\ListColorNames.csproj(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ListColorNames" Source="ListColorNames.cs" Description="파일을 C:\Users\Administrator\Desktop\13_리스트박스(kjh)\01_ListColorNames(12통합)\Backup\ListColorNames.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ListColorNames" Source="ListColorNames.csproj" Description="변환이 필요 없는 프로젝트 파일입니다.">
+</Event><Event ErrorLevel="3" Project="ListColorNames" Source="ListColorNames.csproj" Description="변환 필요 없음">
+</Event><Event ErrorLevel="0" Project="" Source="ListColorNames.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="ListColorNames.sln" Description="Converted">
+</Event></UpgradeLog>

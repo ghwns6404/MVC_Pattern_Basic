@@ -1,0 +1,22 @@
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\11_단일 자식 엘리먼트\Chapter 11\CalculateInHex\bin\Debug\CalculateInHex.exe
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\11_단일 자식 엘리먼트\Chapter 11\CalculateInHex\bin\Debug\CalculateInHex.pdb
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\11_단일 자식 엘리먼트\Chapter 11\CalculateInHex\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\11_단일 자식 엘리먼트\Chapter 11\CalculateInHex\obj\Debug\CalculateInHex.exe
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\11_단일 자식 엘리먼트\Chapter 11\CalculateInHex\obj\Debug\CalculateInHex.pdb
+\\61.81.99.99\11_wpf\11_단일 자식 엘리먼트\Chapter 11\CalculateInHex\obj\Debug\CalculateInHex.exe
+\\61.81.99.99\11_wpf\11_단일 자식 엘리먼트\Chapter 11\CalculateInHex\obj\Debug\CalculateInHex.pdb
+\\61.81.99.99\11_wpf\11_단일 자식 엘리먼트\Chapter 11\CalculateInHex\bin\Debug\CalculateInHex.exe
+\\61.81.99.99\11_wpf\11_단일 자식 엘리먼트\Chapter 11\CalculateInHex\bin\Debug\CalculateInHex.pdb
+\\61.81.99.99\11_wpf\11_단일 자식 엘리먼트\Chapter 11\CalculateInHex\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\자료\11_WPF\11_단일 자식 엘리먼트\Chapter 11\예제2) CalculateInHex\obj\Debug\CalculateInHex.exe
+C:\Users\Administrator\Desktop\자료\11_WPF\11_단일 자식 엘리먼트\Chapter 11\예제2) CalculateInHex\obj\Debug\CalculateInHex.pdb
+C:\Users\Administrator\Desktop\자료\11_WPF\11_단일 자식 엘리먼트\Chapter 11\예제2) CalculateInHex\bin\Debug\CalculateInHex.exe
+C:\Users\Administrator\Desktop\자료\11_WPF\11_단일 자식 엘리먼트\Chapter 11\예제2) CalculateInHex\bin\Debug\CalculateInHex.pdb
+C:\Users\Administrator\Desktop\자료\11_WPF\11_단일 자식 엘리먼트\Chapter 11\예제2) CalculateInHex\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\11_단일 자식 엘리먼트\Chapter 11\예제2) CalculateInHex\obj\Debug\CalculateInHex.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\11_단일 자식 엘리먼트\Chapter 11\예제2) CalculateInHex\obj\Debug\CalculateInHex.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\11_단일 자식 엘리먼트\Chapter 11\예제2) CalculateInHex\obj\Debug\CalculateInHex.exe
+\\61.81.99.99\c#\11_WPF 발표자료\11_단일 자식 엘리먼트\Chapter 11\예제2) CalculateInHex\obj\Debug\CalculateInHex.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\11_단일 자식 엘리먼트\Chapter 11\예제2) CalculateInHex\bin\Debug\CalculateInHex.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\11_단일 자식 엘리먼트\Chapter 11\예제2) CalculateInHex\bin\Debug\CalculateInHex.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\11_단일 자식 엘리먼트\Chapter 11\예제2) CalculateInHex\obj\Debug\ResolveAssemblyReference.cache

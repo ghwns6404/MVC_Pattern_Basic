@@ -1,0 +1,8 @@
+bin\Debug\OldToolBar.exe
+bin\Debug\OldToolBar.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\OldToolBar.대한민국.bmp
+obj\Debug\OldToolBar.캐나다.bmp
+obj\Debug\OldToolBar.프랑스.bmp
+obj\Debug\OldToolBar.exe
+obj\Debug\OldToolBar.pdb

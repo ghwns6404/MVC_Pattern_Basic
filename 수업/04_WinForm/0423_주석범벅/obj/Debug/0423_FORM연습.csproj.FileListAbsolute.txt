@@ -1,0 +1,12 @@
+E:\비트고급한승헌ADO.NET&XML.NET\0423_FORM연습\bin\Debug\0423_FORM연습.exe.config
+E:\비트고급한승헌ADO.NET&XML.NET\0423_FORM연습\bin\Debug\0423_FORM연습.exe
+E:\비트고급한승헌ADO.NET&XML.NET\0423_FORM연습\bin\Debug\0423_FORM연습.pdb
+E:\비트고급한승헌ADO.NET&XML.NET\0423_FORM연습\obj\Debug\0423_FORM연습.csproj.AssemblyReference.cache
+E:\비트고급한승헌ADO.NET&XML.NET\0423_FORM연습\obj\Debug\_0423_FORM연습.ColorForm.resources
+E:\비트고급한승헌ADO.NET&XML.NET\0423_FORM연습\obj\Debug\_0423_FORM연습.MainForm.resources
+E:\비트고급한승헌ADO.NET&XML.NET\0423_FORM연습\obj\Debug\_0423_FORM연습.PrintForm.resources
+E:\비트고급한승헌ADO.NET&XML.NET\0423_FORM연습\obj\Debug\_0423_FORM연습.Properties.Resources.resources
+E:\비트고급한승헌ADO.NET&XML.NET\0423_FORM연습\obj\Debug\0423_FORM연습.csproj.GenerateResource.cache
+E:\비트고급한승헌ADO.NET&XML.NET\0423_FORM연습\obj\Debug\0423_FORM연습.csproj.CoreCompileInputs.cache
+E:\비트고급한승헌ADO.NET&XML.NET\0423_FORM연습\obj\Debug\0423_FORM연습.exe
+E:\비트고급한승헌ADO.NET&XML.NET\0423_FORM연습\obj\Debug\0423_FORM연습.pdb

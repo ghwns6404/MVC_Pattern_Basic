@@ -1,0 +1,21 @@
+C:\Documents and Settings\USER\My Documents\Microsoft Press\AppsCodeMarkup\Chapter 20\XamlCruncher\bin\Debug\XamlCruncher.exe
+C:\Documents and Settings\USER\My Documents\Microsoft Press\AppsCodeMarkup\Chapter 20\XamlCruncher\bin\Debug\XamlCruncher.pdb
+C:\Documents and Settings\USER\My Documents\Microsoft Press\AppsCodeMarkup\Chapter 20\XamlCruncher\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\USER\My Documents\Microsoft Press\AppsCodeMarkup\Chapter 20\XamlCruncher\obj\Debug\XamlTabSpacesDialog.baml
+C:\Documents and Settings\USER\My Documents\Microsoft Press\AppsCodeMarkup\Chapter 20\XamlCruncher\obj\Debug\XamlTabSpacesDialog.g.cs
+C:\Documents and Settings\USER\My Documents\Microsoft Press\AppsCodeMarkup\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher_Content.g.cs
+C:\Documents and Settings\USER\My Documents\Microsoft Press\AppsCodeMarkup\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher_MarkupCompile.cache
+C:\Documents and Settings\USER\My Documents\Microsoft Press\AppsCodeMarkup\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher.g.resources
+C:\Documents and Settings\USER\My Documents\Microsoft Press\AppsCodeMarkup\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher.exe
+C:\Documents and Settings\USER\My Documents\Microsoft Press\AppsCodeMarkup\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\29장_그래픽 변환\xaml 실행기\XamlCruncher\bin\Debug\XamlCruncher.exe.config
+\\61.81.99.99\c#\11_WPF 발표자료\29장_그래픽 변환\xaml 실행기\XamlCruncher\obj\Debug\XamlCruncher.exe
+\\61.81.99.99\c#\11_WPF 발표자료\29장_그래픽 변환\xaml 실행기\XamlCruncher\obj\Debug\XamlCruncher.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\29장_그래픽 변환\xaml 실행기\XamlCruncher\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\29장_그래픽 변환\xaml 실행기\XamlCruncher\obj\Debug\XamlTabSpacesDialog.baml
+\\61.81.99.99\c#\11_WPF 발표자료\29장_그래픽 변환\xaml 실행기\XamlCruncher\obj\Debug\XamlTabSpacesDialog.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\29장_그래픽 변환\xaml 실행기\XamlCruncher\obj\Debug\XamlCruncher_Content.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\29장_그래픽 변환\xaml 실행기\XamlCruncher\obj\Debug\XamlCruncher_MarkupCompile.cache
+\\61.81.99.99\c#\11_WPF 발표자료\29장_그래픽 변환\xaml 실행기\XamlCruncher\obj\Debug\XamlCruncher.g.resources
+\\61.81.99.99\c#\11_WPF 발표자료\29장_그래픽 변환\xaml 실행기\XamlCruncher\bin\Debug\XamlCruncher.exe
+\\61.81.99.99\c#\11_WPF 발표자료\29장_그래픽 변환\xaml 실행기\XamlCruncher\bin\Debug\XamlCruncher.pdb

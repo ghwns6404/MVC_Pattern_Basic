@@ -1,0 +1,7 @@
+bin\Debug\ContextMenuStripExam.exe
+bin\Debug\ContextMenuStripExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ContextMenuStripExam.image_1.bmp
+obj\Debug\ContextMenuStripExam.image_2.bmp
+obj\Debug\ContextMenuStripExam.exe
+obj\Debug\ContextMenuStripExam.pdb

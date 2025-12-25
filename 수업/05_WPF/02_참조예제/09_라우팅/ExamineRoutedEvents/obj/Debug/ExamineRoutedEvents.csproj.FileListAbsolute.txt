@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 09\ExamineRoutedEvents\bin\Debug\ExamineRoutedEvents.exe
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 09\ExamineRoutedEvents\bin\Debug\ExamineRoutedEvents.pdb
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 09\ExamineRoutedEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 09\ExamineRoutedEvents\obj\Debug\ExamineRoutedEvents.exe
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 09\ExamineRoutedEvents\obj\Debug\ExamineRoutedEvents.pdb
+C:\Users\Administrator\Desktop\Chapter 09\ExamineRoutedEvents\obj\Debug\ExamineRoutedEvents.exe
+C:\Users\Administrator\Desktop\Chapter 09\ExamineRoutedEvents\obj\Debug\ExamineRoutedEvents.pdb
+C:\Users\Administrator\Desktop\Chapter 09\ExamineRoutedEvents\bin\Debug\ExamineRoutedEvents.exe
+C:\Users\Administrator\Desktop\Chapter 09\ExamineRoutedEvents\bin\Debug\ExamineRoutedEvents.pdb
+C:\Users\Administrator\Desktop\Chapter 09\ExamineRoutedEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\Chapter 09\ExamineRoutedEvents\obj\Debug\ExamineRoutedEvents.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\Chapter 09\ExamineRoutedEvents\obj\Debug\ExamineRoutedEvents.pdb

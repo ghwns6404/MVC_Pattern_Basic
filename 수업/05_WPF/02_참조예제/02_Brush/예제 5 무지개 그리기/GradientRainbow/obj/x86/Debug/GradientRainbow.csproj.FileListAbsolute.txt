@@ -1,0 +1,13 @@
+C:\Users\소민호\Documents\비트자료\13_WPF\GradientRainbow\bin\Debug\GradientRainbow.exe
+C:\Users\소민호\Documents\비트자료\13_WPF\GradientRainbow\bin\Debug\GradientRainbow.pdb
+C:\Users\소민호\Documents\비트자료\13_WPF\GradientRainbow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\소민호\Documents\비트자료\13_WPF\GradientRainbow\obj\x86\Debug\MainWindow.baml
+C:\Users\소민호\Documents\비트자료\13_WPF\GradientRainbow\obj\x86\Debug\MainWindow.g.cs
+C:\Users\소민호\Documents\비트자료\13_WPF\GradientRainbow\obj\x86\Debug\App.g.cs
+C:\Users\소민호\Documents\비트자료\13_WPF\GradientRainbow\obj\x86\Debug\GradientRainbow_MarkupCompile.cache
+C:\Users\소민호\Documents\비트자료\13_WPF\GradientRainbow\obj\x86\Debug\GradientRainbow.g.resources
+C:\Users\소민호\Documents\비트자료\13_WPF\GradientRainbow\obj\x86\Debug\GradientRainbow.Properties.Resources.resources
+C:\Users\소민호\Documents\비트자료\13_WPF\GradientRainbow\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\소민호\Documents\비트자료\13_WPF\GradientRainbow\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\소민호\Documents\비트자료\13_WPF\GradientRainbow\obj\x86\Debug\GradientRainbow.exe
+C:\Users\소민호\Documents\비트자료\13_WPF\GradientRainbow\obj\x86\Debug\GradientRainbow.pdb

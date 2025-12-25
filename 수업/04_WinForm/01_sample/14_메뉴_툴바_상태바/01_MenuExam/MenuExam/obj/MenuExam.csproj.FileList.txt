@@ -1,0 +1,5 @@
+bin\Debug\MenuExam.exe
+bin\Debug\MenuExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MenuExam.exe
+obj\Debug\MenuExam.pdb

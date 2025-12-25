@@ -1,0 +1,14 @@
+C:\Users\bit1\Desktop\0421_shop\0421_shop\obj\Debug\0421_shop.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\0421_shop\0421_shop\obj\Debug\0421_shop.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\0421_shop\0421_shop\bin\Debug\0421_shop.exe.config
+C:\Users\bit1\Desktop\0421_shop\0421_shop\bin\Debug\0421_shop.exe
+C:\Users\bit1\Desktop\0421_shop\0421_shop\bin\Debug\0421_shop.pdb
+C:\Users\bit1\Desktop\0421_shop\0421_shop\obj\Debug\0421_shop.exe
+C:\Users\bit1\Desktop\0421_shop\0421_shop\obj\Debug\0421_shop.pdb
+C:\Users\bit1\Desktop\내가만든거\0421_shop\0421_shop\bin\Debug\0421_shop.exe.config
+C:\Users\bit1\Desktop\내가만든거\0421_shop\0421_shop\bin\Debug\0421_shop.exe
+C:\Users\bit1\Desktop\내가만든거\0421_shop\0421_shop\bin\Debug\0421_shop.pdb
+C:\Users\bit1\Desktop\내가만든거\0421_shop\0421_shop\obj\Debug\0421_shop.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\내가만든거\0421_shop\0421_shop\obj\Debug\0421_shop.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\내가만든거\0421_shop\0421_shop\obj\Debug\0421_shop.exe
+C:\Users\bit1\Desktop\내가만든거\0421_shop\0421_shop\obj\Debug\0421_shop.pdb

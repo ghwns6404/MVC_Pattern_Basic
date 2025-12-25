@@ -1,0 +1,7 @@
+bin\Debug\ImageMenu.exe
+bin\Debug\ImageMenu.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ImageMenu.image_1.bmp
+obj\Debug\ImageMenu.image_2.bmp
+obj\Debug\ImageMenu.exe
+obj\Debug\ImageMenu.pdb

@@ -1,0 +1,8 @@
+bin\Debug\ButtonBaseExam.exe
+bin\Debug\ButtonBaseExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ButtonBaseExam.Form1.resources
+obj\Debug\ButtonBaseExam.Properties.Resources.resources
+obj\Debug\ButtonBaseExam.csproj.GenerateResource.Cache
+obj\Debug\ButtonBaseExam.exe
+obj\Debug\ButtonBaseExam.pdb

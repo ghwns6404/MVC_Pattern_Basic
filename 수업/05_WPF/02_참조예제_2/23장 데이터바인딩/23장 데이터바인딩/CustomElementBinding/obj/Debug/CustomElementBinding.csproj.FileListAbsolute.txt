@@ -1,0 +1,33 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\CustomElementBinding\bin\Debug\CustomElementBinding.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\CustomElementBinding\bin\Debug\CustomElementBinding.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\CustomElementBinding\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\CustomElementBinding\obj\Debug\CustomElementBindingApp.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\CustomElementBinding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\CustomElementBinding\obj\Debug\CustomElementBinding_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\CustomElementBinding\obj\Debug\CustomElementBinding_MarkupCompile.lref
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\CustomElementBinding\obj\Debug\CustomElementBindingWindow.baml
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\CustomElementBinding\obj\Debug\CustomElementBinding.g.resources
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\CustomElementBinding\obj\Debug\CustomElementBinding.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\CustomElementBinding\obj\Debug\CustomElementBinding.pdb
+C:\Users\Administrator\Desktop\23장 데이터바인딩\CustomElementBinding\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\23장 데이터바인딩\CustomElementBinding\obj\Debug\CustomElementBindingApp.g.cs
+C:\Users\Administrator\Desktop\23장 데이터바인딩\CustomElementBinding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\23장 데이터바인딩\CustomElementBinding\obj\Debug\CustomElementBinding_MarkupCompile.cache
+C:\Users\Administrator\Desktop\23장 데이터바인딩\CustomElementBinding\obj\Debug\CustomElementBinding_MarkupCompile.lref
+C:\Users\Administrator\Desktop\23장 데이터바인딩\CustomElementBinding\bin\Debug\CustomElementBinding.exe
+C:\Users\Administrator\Desktop\23장 데이터바인딩\CustomElementBinding\bin\Debug\CustomElementBinding.pdb
+C:\Users\Administrator\Desktop\23장 데이터바인딩\CustomElementBinding\obj\Debug\CustomElementBindingWindow.baml
+C:\Users\Administrator\Desktop\23장 데이터바인딩\CustomElementBinding\obj\Debug\CustomElementBinding.g.resources
+C:\Users\Administrator\Desktop\23장 데이터바인딩\CustomElementBinding\obj\Debug\CustomElementBinding.exe
+C:\Users\Administrator\Desktop\23장 데이터바인딩\CustomElementBinding\obj\Debug\CustomElementBinding.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\CustomElementBinding\obj\Debug\CustomElementBinding.exe
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\CustomElementBinding\obj\Debug\CustomElementBinding.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\CustomElementBinding\bin\Debug\CustomElementBinding.exe
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\CustomElementBinding\bin\Debug\CustomElementBinding.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\CustomElementBinding\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\CustomElementBinding\obj\Debug\CustomElementBindingApp.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\CustomElementBinding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\CustomElementBinding\obj\Debug\CustomElementBinding_MarkupCompile.cache
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\CustomElementBinding\obj\Debug\CustomElementBinding_MarkupCompile.lref
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\CustomElementBinding\obj\Debug\CustomElementBindingWindow.baml
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\CustomElementBinding\obj\Debug\CustomElementBinding.g.resources

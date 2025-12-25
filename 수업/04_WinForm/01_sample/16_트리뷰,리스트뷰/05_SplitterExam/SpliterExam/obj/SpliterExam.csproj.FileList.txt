@@ -1,0 +1,7 @@
+bin\Debug\SpliterExam.exe
+bin\Debug\SpliterExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SpliterExam.Properties.Resources.resources
+obj\Debug\SpliterExam.csproj.GenerateResource.Cache
+obj\Debug\SpliterExam.exe
+obj\Debug\SpliterExam.pdb

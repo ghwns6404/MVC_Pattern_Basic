@@ -1,0 +1,7 @@
+C:\Users\bit1\Desktop\Zoo_Service\Zoo_Service\bin\Debug\Zoo_Service.exe.config
+C:\Users\bit1\Desktop\Zoo_Service\Zoo_Service\bin\Debug\Zoo_Service.exe
+C:\Users\bit1\Desktop\Zoo_Service\Zoo_Service\bin\Debug\Zoo_Service.pdb
+C:\Users\bit1\Desktop\Zoo_Service\Zoo_Service\obj\Debug\Zoo_Service.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\Zoo_Service\Zoo_Service\obj\Debug\Zoo_Service.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\Zoo_Service\Zoo_Service\obj\Debug\Zoo_Service.exe
+C:\Users\bit1\Desktop\Zoo_Service\Zoo_Service\obj\Debug\Zoo_Service.pdb

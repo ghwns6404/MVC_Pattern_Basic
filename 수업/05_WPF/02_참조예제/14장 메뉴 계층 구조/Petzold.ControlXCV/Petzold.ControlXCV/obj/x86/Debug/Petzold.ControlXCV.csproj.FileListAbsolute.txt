@@ -1,0 +1,10 @@
+C:\Documents and Settings\woosong bit\바탕 화면\Petzold.ControlXCV\Petzold.ControlXCV\bin\Debug\Petzold.ControlXCV.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Petzold.ControlXCV\Petzold.ControlXCV\bin\Debug\Petzold.ControlXCV.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Petzold.ControlXCV\Petzold.ControlXCV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\Petzold.ControlXCV\Petzold.ControlXCV\obj\x86\Debug\Petzold.ControlXCV.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Petzold.ControlXCV\Petzold.ControlXCV\obj\x86\Debug\Petzold.ControlXCV.pdb
+C:\Users\Administrator\Desktop\WPF\14장 메뉴 계층 구조\Petzold.ControlXCV\Petzold.ControlXCV\obj\x86\Debug\Petzold.ControlXCV.exe
+C:\Users\Administrator\Desktop\WPF\14장 메뉴 계층 구조\Petzold.ControlXCV\Petzold.ControlXCV\obj\x86\Debug\Petzold.ControlXCV.pdb
+C:\Users\Administrator\Desktop\WPF\14장 메뉴 계층 구조\Petzold.ControlXCV\Petzold.ControlXCV\bin\Debug\Petzold.ControlXCV.exe
+C:\Users\Administrator\Desktop\WPF\14장 메뉴 계층 구조\Petzold.ControlXCV\Petzold.ControlXCV\bin\Debug\Petzold.ControlXCV.pdb
+C:\Users\Administrator\Desktop\WPF\14장 메뉴 계층 구조\Petzold.ControlXCV\Petzold.ControlXCV\obj\x86\Debug\ResolveAssemblyReference.cache

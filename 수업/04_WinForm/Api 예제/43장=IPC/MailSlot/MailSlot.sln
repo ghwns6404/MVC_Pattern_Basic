@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MailSlot1", "MailSlot1\MailSlot1.vcproj", "{24A6868B-DB1F-4D9C-953A-5FB0FEAE1996}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MailSlot2", "MailSlot2\MailSlot2.vcproj", "{4BE3630A-C746-4AE7-9EF3-6DDC4A748D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24A6868B-DB1F-4D9C-953A-5FB0FEAE1996}.Debug|Win32.ActiveCfg = Debug|Win32
+		{24A6868B-DB1F-4D9C-953A-5FB0FEAE1996}.Debug|Win32.Build.0 = Debug|Win32
+		{24A6868B-DB1F-4D9C-953A-5FB0FEAE1996}.Release|Win32.ActiveCfg = Release|Win32
+		{24A6868B-DB1F-4D9C-953A-5FB0FEAE1996}.Release|Win32.Build.0 = Release|Win32
+		{4BE3630A-C746-4AE7-9EF3-6DDC4A748D75}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4BE3630A-C746-4AE7-9EF3-6DDC4A748D75}.Debug|Win32.Build.0 = Debug|Win32
+		{4BE3630A-C746-4AE7-9EF3-6DDC4A748D75}.Release|Win32.ActiveCfg = Release|Win32
+		{4BE3630A-C746-4AE7-9EF3-6DDC4A748D75}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{516AD8D3-60E9-47E8-A81A-13AE83CDA365}|Zoo_Service\\Zoo_Service.csproj|c:\\users\\bit1\\desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_form \u002B wcf (\uB178\uC774\uC911)_\uCC10\\zoo_service\\zoo_service\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516AD8D3-60E9-47E8-A81A-13AE83CDA365}|Zoo_Service\\Zoo_Service.csproj|solutionrelative:zoo_service\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{516AD8D3-60E9-47E8-A81A-13AE83CDA365}|Zoo_Service\\Zoo_Service.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\zoo_service\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{516AD8D3-60E9-47E8-A81A-13AE83CDA365}|Zoo_Service\\Zoo_Service.csproj|solutionrelative:zoo_service\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{516AD8D3-60E9-47E8-A81A-13AE83CDA365}|Zoo_Service\\Zoo_Service.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\zoo_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516AD8D3-60E9-47E8-A81A-13AE83CDA365}|Zoo_Service\\Zoo_Service.csproj|solutionrelative:zoo_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{516AD8D3-60E9-47E8-A81A-13AE83CDA365}|Zoo_Service\\Zoo_Service.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\zoo_service\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516AD8D3-60E9-47E8-A81A-13AE83CDA365}|Zoo_Service\\Zoo_Service.csproj|solutionrelative:zoo_service\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{516AD8D3-60E9-47E8-A81A-13AE83CDA365}|Zoo_Service\\Zoo_Service.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\zoo_service\\zooservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516AD8D3-60E9-47E8-A81A-13AE83CDA365}|Zoo_Service\\Zoo_Service.csproj|solutionrelative:zoo_service\\zooservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{516AD8D3-60E9-47E8-A81A-13AE83CDA365}|Zoo_Service\\Zoo_Service.csproj|C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\zoo_service\\izoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516AD8D3-60E9-47E8-A81A-13AE83CDA365}|Zoo_Service\\Zoo_Service.csproj|solutionrelative:zoo_service\\izoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\Zoo_Service\\App.config",
+              "RelativeDocumentMoniker": "Zoo_Service\\App.config",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\Zoo_Service\\App.config",
+              "RelativeToolTip": "Zoo_Service\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-08T10:21:37.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDB.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\Zoo_Service\\MyDB.cs",
+              "RelativeDocumentMoniker": "Zoo_Service\\MyDB.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\Zoo_Service\\MyDB.cs",
+              "RelativeToolTip": "Zoo_Service\\MyDB.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:20:49.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zoo.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\Zoo_Service\\Zoo.cs",
+              "RelativeDocumentMoniker": "Zoo_Service\\Zoo.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\Zoo_Service\\Zoo.cs",
+              "RelativeToolTip": "Zoo_Service\\Zoo.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:20:41.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IZoo.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\Zoo_Service\\IZoo.cs",
+              "RelativeDocumentMoniker": "Zoo_Service\\IZoo.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\Zoo_Service\\IZoo.cs",
+              "RelativeToolTip": "Zoo_Service\\IZoo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:20:31.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZooService.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\Zoo_Service\\ZooService.cs",
+              "RelativeDocumentMoniker": "Zoo_Service\\ZooService.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\Zoo_Service\\ZooService.cs",
+              "RelativeToolTip": "Zoo_Service\\ZooService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:20:19.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\Zoo_Service\\Program.cs",
+              "RelativeDocumentMoniker": "Zoo_Service\\Program.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\\uB0B4\uAC00\uB9CC\uB4E0\uAC70\\0508_Form \u002B WCF (\uB178\uC774\uC911)_\uCC10\\Zoo_Service\\Zoo_Service\\Program.cs",
+              "RelativeToolTip": "Zoo_Service\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:19:43.02Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

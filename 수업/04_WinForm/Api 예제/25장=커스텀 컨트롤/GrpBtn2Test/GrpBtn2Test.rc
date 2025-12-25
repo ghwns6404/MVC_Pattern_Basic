@@ -1,0 +1,79 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BTN1NORMAL          BITMAP  DISCARDABLE     "btn1normal.bmp"
+IDB_BTN1HOT             BITMAP  DISCARDABLE     "btn1hot.bmp"
+IDB_BTN1DOWN            BITMAP  DISCARDABLE     "btn1down.bmp"
+IDB_BTN1DISABLE         BITMAP  DISCARDABLE     "btn1disable.bmp"
+IDB_BTN2NORMAL          BITMAP  DISCARDABLE     "btn2normal.bmp"
+IDB_BTN2HOT             BITMAP  DISCARDABLE     "btn2hot.bmp"
+IDB_BTN2DOWN            BITMAP  DISCARDABLE     "btn2down.bmp"
+IDB_BTN2DISABLE         BITMAP  DISCARDABLE     "btn2disable.bmp"
+IDB_BTN3NORMAL          BITMAP  DISCARDABLE     "btn3normal.bmp"
+IDB_BTN3DOWN            BITMAP  DISCARDABLE     "btn3down.bmp"
+#endif    // Korean resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

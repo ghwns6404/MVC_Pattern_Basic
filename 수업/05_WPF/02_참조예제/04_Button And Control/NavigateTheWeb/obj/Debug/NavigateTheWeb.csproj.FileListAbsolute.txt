@@ -1,0 +1,7 @@
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\NavigateTheWeb\bin\Debug\NavigateTheWeb.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\NavigateTheWeb\bin\Debug\NavigateTheWeb.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\NavigateTheWeb\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\NavigateTheWeb\obj\Debug\NavigateTheWeb.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\NavigateTheWeb\obj\Debug\NavigateTheWeb.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\4과 발표 자료\NavigateTheWeb\obj\Debug\NavigateTheWeb.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\4과 발표 자료\NavigateTheWeb\obj\Debug\NavigateTheWeb.pdb

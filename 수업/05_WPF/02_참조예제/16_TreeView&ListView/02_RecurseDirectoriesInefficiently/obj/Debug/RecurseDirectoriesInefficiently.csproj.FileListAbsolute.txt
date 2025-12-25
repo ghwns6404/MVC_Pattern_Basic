@@ -1,0 +1,5 @@
+F:\NySHell\NySHell\12 - WPF\강사님\AppsCodeMarkup.repair\Chapter 16\RecurseDirectoriesInefficiently\bin\Debug\RecurseDirectoriesInefficiently.exe
+F:\NySHell\NySHell\12 - WPF\강사님\AppsCodeMarkup.repair\Chapter 16\RecurseDirectoriesInefficiently\bin\Debug\RecurseDirectoriesInefficiently.pdb
+F:\NySHell\NySHell\12 - WPF\강사님\AppsCodeMarkup.repair\Chapter 16\RecurseDirectoriesInefficiently\obj\Debug\ResolveAssemblyReference.cache
+F:\NySHell\NySHell\12 - WPF\강사님\AppsCodeMarkup.repair\Chapter 16\RecurseDirectoriesInefficiently\obj\Debug\RecurseDirectoriesInefficiently.exe
+F:\NySHell\NySHell\12 - WPF\강사님\AppsCodeMarkup.repair\Chapter 16\RecurseDirectoriesInefficiently\obj\Debug\RecurseDirectoriesInefficiently.pdb

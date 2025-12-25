@@ -1,0 +1,18 @@
+D:\Users\eugene\Desktop\수업\11_WPF 발표자료\26장_데이터입력하기,데이터보기\06_FilterWithText\bin\Debug\FilterWithText.exe
+D:\Users\eugene\Desktop\수업\11_WPF 발표자료\26장_데이터입력하기,데이터보기\06_FilterWithText\bin\Debug\FilterWithText.pdb
+D:\Users\eugene\Desktop\수업\11_WPF 발표자료\26장_데이터입력하기,데이터보기\06_FilterWithText\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\eugene\Desktop\수업\11_WPF 발표자료\26장_데이터입력하기,데이터보기\06_FilterWithText\obj\Debug\FilterWithText.baml
+D:\Users\eugene\Desktop\수업\11_WPF 발표자료\26장_데이터입력하기,데이터보기\06_FilterWithText\obj\Debug\FilterWithText.g.cs
+D:\Users\eugene\Desktop\수업\11_WPF 발표자료\26장_데이터입력하기,데이터보기\06_FilterWithText\obj\Debug\FilterWithText_MarkupCompile.cache
+D:\Users\eugene\Desktop\수업\11_WPF 발표자료\26장_데이터입력하기,데이터보기\06_FilterWithText\obj\Debug\FilterWithText.g.resources
+D:\Users\eugene\Desktop\수업\11_WPF 발표자료\26장_데이터입력하기,데이터보기\06_FilterWithText\obj\Debug\FilterWithText.exe
+D:\Users\eugene\Desktop\수업\11_WPF 발표자료\26장_데이터입력하기,데이터보기\06_FilterWithText\obj\Debug\FilterWithText.pdb
+C:\Users\Administrator\Desktop\C#\WPF발표\26\06_FilterWithText\obj\Debug\FilterWithText.exe
+C:\Users\Administrator\Desktop\C#\WPF발표\26\06_FilterWithText\obj\Debug\FilterWithText.pdb
+C:\Users\Administrator\Desktop\C#\WPF발표\26\06_FilterWithText\bin\Debug\FilterWithText.exe
+C:\Users\Administrator\Desktop\C#\WPF발표\26\06_FilterWithText\bin\Debug\FilterWithText.pdb
+C:\Users\Administrator\Desktop\C#\WPF발표\26\06_FilterWithText\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\WPF발표\26\06_FilterWithText\obj\Debug\FilterWithText.baml
+C:\Users\Administrator\Desktop\C#\WPF발표\26\06_FilterWithText\obj\Debug\FilterWithText.g.cs
+C:\Users\Administrator\Desktop\C#\WPF발표\26\06_FilterWithText\obj\Debug\FilterWithText_MarkupCompile.cache
+C:\Users\Administrator\Desktop\C#\WPF발표\26\06_FilterWithText\obj\Debug\FilterWithText.g.resources

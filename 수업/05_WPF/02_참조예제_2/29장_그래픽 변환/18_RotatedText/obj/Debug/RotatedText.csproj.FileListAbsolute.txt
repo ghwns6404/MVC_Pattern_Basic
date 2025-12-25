@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\29장 발표자료\RotatedText\bin\Debug\RotatedText.exe
+C:\Users\Administrator\Desktop\29장 발표자료\RotatedText\bin\Debug\RotatedText.pdb
+C:\Users\Administrator\Desktop\29장 발표자료\RotatedText\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\29장 발표자료\RotatedText\obj\Debug\RotatedText.exe
+C:\Users\Administrator\Desktop\29장 발표자료\RotatedText\obj\Debug\RotatedText.pdb

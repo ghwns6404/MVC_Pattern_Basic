@@ -1,0 +1,54 @@
+C:\Users\소민호\Documents\비트자료\13_WPF\WpfApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\소민호\Documents\비트자료\13_WPF\WpfApplication3\obj\x86\Debug\MainWindow.baml
+C:\Users\소민호\Documents\비트자료\13_WPF\WpfApplication3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\소민호\Documents\비트자료\13_WPF\WpfApplication3\obj\x86\Debug\App.g.cs
+C:\Users\소민호\Documents\비트자료\13_WPF\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\소민호\Documents\비트자료\13_WPF\WpfApplication3\obj\x86\Debug\WpfApplication3.g.resources
+C:\Users\소민호\Documents\비트자료\13_WPF\WpfApplication3\obj\x86\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\소민호\Documents\비트자료\13_WPF\WpfApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\소민호\Documents\비트자료\13_WPF\WpfApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\소민호\Documents\비트자료\13_WPF\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\소민호\Documents\비트자료\13_WPF\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\소민호\Documents\비트자료\13_WPF\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+C:\Users\소민호\Documents\비트자료\13_WPF\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+C:\Users\소민호\Documents\비트자료\13_WPF\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+C:\Users\소민호\Documents\비트자료\13_WPF\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+C:\Users\소민호\Documents\비트자료\13_WPF\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+C:\Users\소민호\Documents\비트자료\13_WPF\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+C:\Users\소민호\Documents\비트자료\13_WPF\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\소민호\Documents\비트자료\13_WPF\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\소민호\Documents\비트자료\13_WPF\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\소민호\Documents\비트자료\13_WPF\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\MainWindow.baml
+C:\Users\소민호\Documents\비트자료\13_WPF\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\소민호\Documents\비트자료\13_WPF\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\App.g.cs
+C:\Users\소민호\Documents\비트자료\13_WPF\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\소민호\Documents\비트자료\13_WPF\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3.g.resources
+C:\Users\소민호\Documents\비트자료\13_WPF\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\소민호\Documents\비트자료\13_WPF\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\소민호\Documents\비트자료\13_WPF\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+\\61.81.99.99\c#\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+\\61.81.99.99\c#\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\bin\Debug\WpfApplication3.exe
+\\61.81.99.99\c#\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\bin\Debug\WpfApplication3.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\MainWindow.baml
+\\61.81.99.99\c#\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\MainWindow.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\App.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.cache
+\\61.81.99.99\c#\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3.g.resources
+\\61.81.99.99\c#\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3.Properties.Resources.resources
+\\61.81.99.99\c#\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+\\61.81.99.99\c#\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\전기수 폴더\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+E:\전기수 폴더\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+E:\전기수 폴더\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\bin\Debug\WpfApplication3.exe
+E:\전기수 폴더\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\bin\Debug\WpfApplication3.pdb
+E:\전기수 폴더\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\전기수 폴더\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\MainWindow.baml
+E:\전기수 폴더\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\MainWindow.g.cs
+E:\전기수 폴더\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\App.g.cs
+E:\전기수 폴더\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.cache
+E:\전기수 폴더\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3.g.resources
+E:\전기수 폴더\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\WpfApplication3.Properties.Resources.resources
+E:\전기수 폴더\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\전기수 폴더\11_WPF 발표자료\02_Brush\예제 1 마우스 위치에 따라 바뀌는 배경색\WpfApplication3\obj\x86\Debug\GenerateResource.write.1.tlog

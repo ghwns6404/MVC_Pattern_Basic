@@ -1,0 +1,17 @@
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\bin\Debug\0428_WPF1.exe.config
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\bin\Debug\0428_WPF1.exe
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\bin\Debug\0428_WPF1.pdb
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\obj\Debug\0428_WPF1.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\obj\Debug\MainWindow.g.cs
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\obj\Debug\App.g.cs
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\obj\Debug\0428_WPF1_MarkupCompile.cache
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\obj\Debug\0428_WPF1_MarkupCompile.lref
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\obj\Debug\MainWindow.baml
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\obj\Debug\0428_WPF1.g.resources
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\obj\Debug\_0428_WPF1.Properties.Resources.resources
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\obj\Debug\0428_WPF1.csproj.GenerateResource.cache
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\obj\Debug\0428_WPF1.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\obj\Debug\0428_WPF1.exe
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\obj\Debug\0428_WPF1.pdb
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\obj\Debug\Window1.g.cs
+C:\Users\bit1\Desktop\0428_WPF1\0428_WPF1\obj\Debug\Window1.baml

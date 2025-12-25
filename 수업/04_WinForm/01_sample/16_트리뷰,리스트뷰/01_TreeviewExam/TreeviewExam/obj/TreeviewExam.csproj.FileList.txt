@@ -1,0 +1,5 @@
+bin\Debug\TreeviewExam.exe
+bin\Debug\TreeviewExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TreeviewExam.exe
+obj\Debug\TreeviewExam.pdb

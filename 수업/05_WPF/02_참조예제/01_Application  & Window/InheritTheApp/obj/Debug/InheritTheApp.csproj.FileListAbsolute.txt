@@ -1,0 +1,17 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 01\InheritTheApp\bin\Debug\InheritTheApp.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 01\InheritTheApp\bin\Debug\InheritTheApp.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 01\InheritTheApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 01\InheritTheApp\obj\Debug\InheritTheApp.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 01\InheritTheApp\obj\Debug\InheritTheApp.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 01\InheritTheApp\obj\Debug\InheritTheApp.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 01\InheritTheApp\obj\Debug\InheritTheApp.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 01\InheritTheApp\bin\Debug\InheritTheApp.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 01\InheritTheApp\bin\Debug\InheritTheApp.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 01\InheritTheApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\InheritTheApp\obj\Debug\InheritTheApp.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\InheritTheApp\obj\Debug\InheritTheApp.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\InheritTheApp\bin\Debug\InheritTheApp.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\InheritTheApp\bin\Debug\InheritTheApp.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\InheritTheApp\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\01_Chapter\InheritTheApp\obj\Debug\InheritTheApp.exe
+\\61.81.99.99\c#\11_WPF 발표자료\01_Chapter\InheritTheApp\obj\Debug\InheritTheApp.pdb

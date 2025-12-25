@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\0418_DB평가\0418_DB평가\bin\Debug\0418_DB평가.exe.config
+C:\Users\user\Desktop\C#\0418_DB평가\0418_DB평가\bin\Debug\0418_DB평가.exe
+C:\Users\user\Desktop\C#\0418_DB평가\0418_DB평가\bin\Debug\0418_DB평가.pdb
+C:\Users\user\Desktop\C#\0418_DB평가\0418_DB평가\obj\Debug\0418_DB평가.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\0418_DB평가\0418_DB평가\obj\Debug\0418_DB평가.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\0418_DB평가\0418_DB평가\obj\Debug\0418_DB평가.exe
+C:\Users\user\Desktop\C#\0418_DB평가\0418_DB평가\obj\Debug\0418_DB평가.pdb
+C:\Users\bit1\Desktop\0418_DB평가\0418_DB평가\bin\Debug\0418_DB평가.exe.config
+C:\Users\bit1\Desktop\0418_DB평가\0418_DB평가\bin\Debug\0418_DB평가.exe
+C:\Users\bit1\Desktop\0418_DB평가\0418_DB평가\bin\Debug\0418_DB평가.pdb
+C:\Users\bit1\Desktop\0418_DB평가\0418_DB평가\obj\Debug\0418_DB평가.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\0418_DB평가\0418_DB평가\obj\Debug\0418_DB평가.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\0418_DB평가\0418_DB평가\obj\Debug\0418_DB평가.exe
+C:\Users\bit1\Desktop\0418_DB평가\0418_DB평가\obj\Debug\0418_DB평가.pdb

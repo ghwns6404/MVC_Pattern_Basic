@@ -1,0 +1,28 @@
+[ 사용자 지정 컨트롤 ]
+
+- 닷넷에서 제공하는 기본 컨트롤을 바탕으로 이를 상속받아 새로운 기능을 추가한
+   사용자 컨트롤을 의미
+
+- 구현
+
+   1) 기본 클래스를 상속받는 새로운 클래스 구현
+
+
+[ 폼 디자이너에서 사용자 지정 컨트롤 사용 ]
+
+1) 버튼 컨트롤을 폼에 배치 
+
+2) Form1.Designer.cs 파일의
+    InitializeComponent()메서드 수정
+
+    private void InitializeComponet()
+    {
+//	this.button1 = new System.Windows.Foms.Button();
+	this.button1 = new RoundButton();
+    }
+
+3) Form1.Designer.cs 파일의
+   하단에 선언된 Button 선언부 수정
+
+//    private System.Windows.Forms.Button button1;
+      private RoundButton button1;

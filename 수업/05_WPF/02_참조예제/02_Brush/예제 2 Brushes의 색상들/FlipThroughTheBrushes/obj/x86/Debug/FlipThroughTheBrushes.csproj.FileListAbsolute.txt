@@ -1,0 +1,28 @@
+C:\Users\소민호\Documents\비트자료\13_WPF\FlipThroughTheBrushes\bin\Debug\FlipThroughTheBrushes.exe
+C:\Users\소민호\Documents\비트자료\13_WPF\FlipThroughTheBrushes\bin\Debug\FlipThroughTheBrushes.pdb
+C:\Users\소민호\Documents\비트자료\13_WPF\FlipThroughTheBrushes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\소민호\Documents\비트자료\13_WPF\FlipThroughTheBrushes\obj\x86\Debug\MainWindow.baml
+C:\Users\소민호\Documents\비트자료\13_WPF\FlipThroughTheBrushes\obj\x86\Debug\MainWindow.g.cs
+C:\Users\소민호\Documents\비트자료\13_WPF\FlipThroughTheBrushes\obj\x86\Debug\App.g.cs
+C:\Users\소민호\Documents\비트자료\13_WPF\FlipThroughTheBrushes\obj\x86\Debug\FlipThroughTheBrushes_MarkupCompile.cache
+C:\Users\소민호\Documents\비트자료\13_WPF\FlipThroughTheBrushes\obj\x86\Debug\FlipThroughTheBrushes.g.resources
+C:\Users\소민호\Documents\비트자료\13_WPF\FlipThroughTheBrushes\obj\x86\Debug\FlipThroughTheBrushes.Properties.Resources.resources
+C:\Users\소민호\Documents\비트자료\13_WPF\FlipThroughTheBrushes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\소민호\Documents\비트자료\13_WPF\FlipThroughTheBrushes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\소민호\Documents\비트자료\13_WPF\FlipThroughTheBrushes\obj\x86\Debug\FlipThroughTheBrushes.exe
+C:\Users\소민호\Documents\비트자료\13_WPF\FlipThroughTheBrushes\obj\x86\Debug\FlipThroughTheBrushes.pdb
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\FlipThroughTheBrushes\obj\x86\Debug\FlipThroughTheBrushes.exe
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\FlipThroughTheBrushes\obj\x86\Debug\FlipThroughTheBrushes.pdb
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\FlipThroughTheBrushes\bin\Debug\FlipThroughTheBrushes.exe
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\FlipThroughTheBrushes\bin\Debug\FlipThroughTheBrushes.pdb
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\FlipThroughTheBrushes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\FlipThroughTheBrushes\obj\x86\Debug\MainWindow.baml
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\FlipThroughTheBrushes\obj\x86\Debug\MainWindow.g.cs
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\FlipThroughTheBrushes\obj\x86\Debug\App.g.cs
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\FlipThroughTheBrushes\obj\x86\Debug\FlipThroughTheBrushes_MarkupCompile.cache
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\FlipThroughTheBrushes\obj\x86\Debug\FlipThroughTheBrushes.g.resources
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\FlipThroughTheBrushes\obj\x86\Debug\FlipThroughTheBrushes.Properties.Resources.resources
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\FlipThroughTheBrushes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\FlipThroughTheBrushes\obj\x86\Debug\GenerateResource.write.1.tlog
+\\61.81.99.99\c#\11_WPF 발표자료\02_Brush\예제 2 Brushes의 색상들\FlipThroughTheBrushes\obj\x86\Debug\FlipThroughTheBrushes.exe
+\\61.81.99.99\c#\11_WPF 발표자료\02_Brush\예제 2 Brushes의 색상들\FlipThroughTheBrushes\obj\x86\Debug\FlipThroughTheBrushes.pdb

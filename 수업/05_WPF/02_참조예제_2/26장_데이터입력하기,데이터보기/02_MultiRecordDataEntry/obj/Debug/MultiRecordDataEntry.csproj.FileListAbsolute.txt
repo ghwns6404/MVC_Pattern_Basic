@@ -1,0 +1,30 @@
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\bin\Debug\MultiRecordDataEntry.exe
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\bin\Debug\MultiRecordDataEntry.pdb
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\DatePicker.baml
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\DatePicker.g.cs
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry.g.cs
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\PersonPanel.g.cs
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry_MarkupCompile.lref
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry.baml
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\PersonPanel.baml
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry.g.resources
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry.exe
+C:\Documents and Settings\woosong bit\My Documents\Downloads\AppsCodeMarkup\Chapter 26\MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\02_MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\02_MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\02_MultiRecordDataEntry\bin\Debug\MultiRecordDataEntry.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\02_MultiRecordDataEntry\bin\Debug\MultiRecordDataEntry.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\02_MultiRecordDataEntry\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\02_MultiRecordDataEntry\obj\Debug\DatePicker.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\02_MultiRecordDataEntry\obj\Debug\DatePicker.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\02_MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\02_MultiRecordDataEntry\obj\Debug\PersonPanel.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\02_MultiRecordDataEntry\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\02_MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry_MarkupCompile.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\02_MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry_MarkupCompile.lref
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\02_MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\02_MultiRecordDataEntry\obj\Debug\PersonPanel.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\26장_데이터입력하기,데이터보기\02_MultiRecordDataEntry\obj\Debug\MultiRecordDataEntry.g.resources

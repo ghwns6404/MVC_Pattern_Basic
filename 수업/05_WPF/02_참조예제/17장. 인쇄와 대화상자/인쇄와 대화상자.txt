@@ -1,0 +1,88 @@
+인쇄와 대화상자...
+
+DLL
+System.Printing.dll
+ReachFramework.dll
+
+Namespace
+System.Printing
+System.Windows.Documents
+
+
+인쇄관련 대화상자는 해당 다이얼로그 하나로 연다... =   PrintDialog
+
+PrintDialog dlg = new PrintDialog();
+ .
+ .
+ .
+dlg.PrintVisual(DrawingVisual객체, "string");
+
+485p 3번째 단락 visual타입 설명 
+Visual을 상속받는 중요한 클레서는 UIElement였지만 FrameworkElement에서 파생된 클래스의 
+인스턴스는
+어떤것이든 인쇄가 가능하다는 것을 의미한다.
+Drawing Visual 클래스의 장점을 이용하여 인쇄작업을 구현하는 직접적인 방법은 Visual 클래스
+이기 때문이라고 한다...
+
+예제 1>
+간단한 인쇄 프로그램.
+인쇄를 위한 초기화 작업.
+PrintDialog 타입 객체를 생성.
+다이얼로그에서 OK버튼을 눌렀을 때 프로그램은 인쇄준비를 시작.
+487p 마지막 단락 기본 프린팅 순서 참고...
+
+if( (bool) dlg.showDialog().GetValueOrDefault() )
+true, false, null을 반환한다.
+인쇄 = true
+취소 = false
+제목 옆 닫기 = null
+GetValueOrDefault 메소드는 if문을 위해 결과가 항상 bool 형태가 되게 null 값을 false로 바꿔준다...
+
+예제 2>
+PageMargins... 프로그램
+
+PrintQueue
+전에 선택했던 것과 같은 프린터를 선택...
+PrintTicket
+사용자가 선택한 값을 유지할 수 있게 한다.
+
+
+예제 3>
+버튼 생성후 프린트 프로그램
+
+UIElement에서 파생된 클래스 인스턴스를 인쇄할때 중요한 단계... 500p 마지막단락 참조
+객체의 Measure와 Arrange 메소드 호출...
+500p 마지막 단락 참조...
+
+예제 4>
+문자열의 문자 하나하나를 1장으로 프린트하는 프로그램
+
+DocumentPaginator = 클래스. 문서를 페이지로 만든다.
+페이지로 만들기 위해서는 페이지가 얼마나 되는지 알아야 하는데 이 프로그램에서는
+문자열의 개수로 페이지를 알아낸다.
+FormattedText 타입의 객체를 생성하여 문자의 최대폭과 너비를 계산한다.
+
+예제 5>
+폰트 대화상자 프로그램
+
+Lister.cs
+순서  512p 첫번째 단락 참조...
+
+TextBoxWithLister.cs
+IsReadOnly 
+if flase = 사용자가 TextBox에 입력한 것을 받는 용도
+   True  = 항목을 보여주기만 할뿐 직접 입력할 수 없다.
+
+FontDialog.cs
+Typeface = FontFamily, FontWeight, FontStyle, FontStretch의 조합을 나타낸다고한다.
+FontFamily = 글꼴 모음..
+폰트 패밀리, 폰트 스타일, 폰트 굵기, 폰트 확대, 폰트 크기 전용의 5개의
+TextBoxWithLister 컨트롤이 존재함. 그리고 Label이 구분시켜줌.
+
+하지만 폰트 패밀리는 자체적으로 가능한 폰트 스타일이나 굵기, 확대등이 각각 다르기 때문에 
+선택할 때마다 해당 정볼르 지우고 FamilyTypeface 객체를 구해 다시 내용을 채운다.
+즉 패밀리가 바뀔때마다 기존에 있었던 글자관련 세부 설정이 패밀리에 맞게 초기화가 된다고 
+생각하면 편함...
+
+예제 6>
+전에 있었던 기능 + 폰트 대화상자 기능을 합친것.

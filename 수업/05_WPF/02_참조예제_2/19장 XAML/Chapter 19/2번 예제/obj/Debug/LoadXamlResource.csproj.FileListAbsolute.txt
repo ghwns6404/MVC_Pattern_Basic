@@ -1,0 +1,16 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\LoadXamlResource\bin\Debug\LoadXamlResource.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\LoadXamlResource\bin\Debug\LoadXamlResource.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\LoadXamlResource\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\LoadXamlResource\obj\Debug\LoadXamlResource.g.resources
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\LoadXamlResource\obj\Debug\LoadXamlResource.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\LoadXamlResource\obj\Debug\LoadXamlResource.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\2번 예제\obj\Debug\LoadXamlResource.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\2번 예제\obj\Debug\LoadXamlResource.pdb
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\2번 예제\obj\Debug\LoadXamlResource.exe
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\2번 예제\obj\Debug\LoadXamlResource.pdb
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\2번 예제\bin\Debug\LoadXamlResource.exe
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\2번 예제\bin\Debug\LoadXamlResource.pdb
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\2번 예제\obj\Debug\ResolveAssemblyReference.cache
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\2번 예제\obj\Debug\LoadXamlResource.g.resources
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\2번 예제\obj\Debug\LoadXamlResource.exe
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\2번 예제\obj\Debug\LoadXamlResource.pdb

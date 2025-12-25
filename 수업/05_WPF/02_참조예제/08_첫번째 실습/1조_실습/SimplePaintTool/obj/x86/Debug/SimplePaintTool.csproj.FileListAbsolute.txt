@@ -1,0 +1,41 @@
+C:\Documents and Settings\woosong bit\바탕 화면\SimplePaintTool\SimplePaintTool\bin\Debug\SimplePaintTool.exe
+C:\Documents and Settings\woosong bit\바탕 화면\SimplePaintTool\SimplePaintTool\bin\Debug\SimplePaintTool.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\SimplePaintTool\SimplePaintTool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\SimplePaintTool\SimplePaintTool\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\woosong bit\바탕 화면\SimplePaintTool\SimplePaintTool\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\SimplePaintTool\SimplePaintTool\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\SimplePaintTool\SimplePaintTool\obj\x86\Debug\SimplePaintTool_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\SimplePaintTool\SimplePaintTool\obj\x86\Debug\SimplePaintTool.g.resources
+C:\Documents and Settings\woosong bit\바탕 화면\SimplePaintTool\SimplePaintTool\obj\x86\Debug\SimplePaintTool.Properties.Resources.resources
+C:\Documents and Settings\woosong bit\바탕 화면\SimplePaintTool\SimplePaintTool\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\woosong bit\바탕 화면\SimplePaintTool\SimplePaintTool\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\woosong bit\바탕 화면\SimplePaintTool\SimplePaintTool\obj\x86\Debug\SimplePaintTool.exe
+C:\Documents and Settings\woosong bit\바탕 화면\SimplePaintTool\SimplePaintTool\obj\x86\Debug\SimplePaintTool.pdb
+D:\WOOSONG13\11_WPF\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\SimplePaintTool.exe
+D:\WOOSONG13\11_WPF\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\SimplePaintTool.pdb
+D:\WOOSONG13\11_WPF\08_첫번째 실습\1조_실습\SimplePaintTool\bin\Debug\SimplePaintTool.exe
+D:\WOOSONG13\11_WPF\08_첫번째 실습\1조_실습\SimplePaintTool\bin\Debug\SimplePaintTool.pdb
+D:\WOOSONG13\11_WPF\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WOOSONG13\11_WPF\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\MainWindow.baml
+D:\WOOSONG13\11_WPF\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\MainWindow.g.cs
+D:\WOOSONG13\11_WPF\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\App.g.cs
+D:\WOOSONG13\11_WPF\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\SimplePaintTool_MarkupCompile.cache
+D:\WOOSONG13\11_WPF\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\SimplePaintTool.g.resources
+D:\WOOSONG13\11_WPF\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\SimplePaintTool.Properties.Resources.resources
+D:\WOOSONG13\11_WPF\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\WOOSONG13\11_WPF\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+\\61.81.99.99\11_wpf\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\SimplePaintTool.exe
+\\61.81.99.99\11_wpf\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\SimplePaintTool.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\SimplePaintTool.exe
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\SimplePaintTool.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\1조_실습\SimplePaintTool\bin\Debug\SimplePaintTool.exe
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\1조_실습\SimplePaintTool\bin\Debug\SimplePaintTool.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\MainWindow.baml
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\MainWindow.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\App.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\SimplePaintTool_MarkupCompile.cache
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\SimplePaintTool.g.resources
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\SimplePaintTool.Properties.Resources.resources
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\1조_실습\SimplePaintTool\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

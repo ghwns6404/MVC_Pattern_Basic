@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookNotePad", "HookNotePad\HookNotePad.vcproj", "{A7EE263A-78A7-46A1-A7A6-FB2699EA8F7F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A9558E23-C3C3-4554-84C5-1C59FA7C4711} = {A9558E23-C3C3-4554-84C5-1C59FA7C4711}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookNotePadDll", "HookNotePadDll\HookNotePadDll.vcproj", "{A9558E23-C3C3-4554-84C5-1C59FA7C4711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7EE263A-78A7-46A1-A7A6-FB2699EA8F7F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A7EE263A-78A7-46A1-A7A6-FB2699EA8F7F}.Debug|Win32.Build.0 = Debug|Win32
+		{A7EE263A-78A7-46A1-A7A6-FB2699EA8F7F}.Release|Win32.ActiveCfg = Release|Win32
+		{A7EE263A-78A7-46A1-A7A6-FB2699EA8F7F}.Release|Win32.Build.0 = Release|Win32
+		{A9558E23-C3C3-4554-84C5-1C59FA7C4711}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A9558E23-C3C3-4554-84C5-1C59FA7C4711}.Debug|Win32.Build.0 = Debug|Win32
+		{A9558E23-C3C3-4554-84C5-1C59FA7C4711}.Release|Win32.ActiveCfg = Release|Win32
+		{A9558E23-C3C3-4554-84C5-1C59FA7C4711}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

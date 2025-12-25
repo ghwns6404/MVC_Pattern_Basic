@@ -1,0 +1,22 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\EnvironmentInfo2\bin\Debug\EnvironmentInfo2.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\EnvironmentInfo2\bin\Debug\EnvironmentInfo2.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\EnvironmentInfo2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\EnvironmentInfo2\obj\Debug\EnvironmentInfo2App.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\EnvironmentInfo2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\EnvironmentInfo2\obj\Debug\EnvironmentInfo2_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\EnvironmentInfo2\obj\Debug\EnvironmentInfo2_MarkupCompile.lref
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\EnvironmentInfo2\obj\Debug\EnvironmentInfo2Window.baml
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\EnvironmentInfo2\obj\Debug\EnvironmentInfo2.g.resources
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\EnvironmentInfo2\obj\Debug\EnvironmentInfo2.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\EnvironmentInfo2\obj\Debug\EnvironmentInfo2.pdb
+C:\Users\Administrator\Desktop\23장 데이터바인딩\EnvironmentInfo2\obj\Debug\EnvironmentInfo2.exe
+C:\Users\Administrator\Desktop\23장 데이터바인딩\EnvironmentInfo2\obj\Debug\EnvironmentInfo2.pdb
+C:\Users\Administrator\Desktop\23장 데이터바인딩\EnvironmentInfo2\bin\Debug\EnvironmentInfo2.exe
+C:\Users\Administrator\Desktop\23장 데이터바인딩\EnvironmentInfo2\bin\Debug\EnvironmentInfo2.pdb
+C:\Users\Administrator\Desktop\23장 데이터바인딩\EnvironmentInfo2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\23장 데이터바인딩\EnvironmentInfo2\obj\Debug\EnvironmentInfo2App.g.cs
+C:\Users\Administrator\Desktop\23장 데이터바인딩\EnvironmentInfo2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\23장 데이터바인딩\EnvironmentInfo2\obj\Debug\EnvironmentInfo2_MarkupCompile.cache
+C:\Users\Administrator\Desktop\23장 데이터바인딩\EnvironmentInfo2\obj\Debug\EnvironmentInfo2_MarkupCompile.lref
+C:\Users\Administrator\Desktop\23장 데이터바인딩\EnvironmentInfo2\obj\Debug\EnvironmentInfo2Window.baml
+C:\Users\Administrator\Desktop\23장 데이터바인딩\EnvironmentInfo2\obj\Debug\EnvironmentInfo2.g.resources

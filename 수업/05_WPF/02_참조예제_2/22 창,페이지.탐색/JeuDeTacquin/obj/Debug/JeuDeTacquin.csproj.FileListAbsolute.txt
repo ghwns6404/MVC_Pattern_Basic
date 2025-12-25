@@ -1,0 +1,23 @@
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\JeuDeTacquin\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\JeuDeTacquin\obj\Debug\JeuDeTacquin.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\JeuDeTacquin\obj\Debug\JeuDeTacquin.g.cs
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\JeuDeTacquin\obj\Debug\JeuDeTacquinApp.g.cs
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\JeuDeTacquin\obj\Debug\JeuDeTacquin_MarkupCompile.cache
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\JeuDeTacquin\obj\Debug\JeuDeTacquin.g.resources
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\JeuDeTacquin\bin\Debug\JeuDeTacquin.exe.manifest
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\JeuDeTacquin\bin\Debug\JeuDeTacquin.xbap
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\JeuDeTacquin\bin\Debug\JeuDeTacquin.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\JeuDeTacquin\bin\Debug\JeuDeTacquin.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\JeuDeTacquin\obj\Debug\JeuDeTacquin.TrustInfo.xml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\JeuDeTacquin\obj\Debug\JeuDeTacquin.exe.manifest
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\JeuDeTacquin\obj\Debug\JeuDeTacquin.xbap
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\JeuDeTacquin\obj\Debug\JeuDeTacquin.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\JeuDeTacquin\obj\Debug\JeuDeTacquin.pdb
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\JeuDeTacquin\obj\Debug\ResolveAssemblyReference.cache
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\JeuDeTacquin\obj\Debug\JeuDeTacquin.baml
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\JeuDeTacquin\obj\Debug\JeuDeTacquin.g.cs
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\JeuDeTacquin\obj\Debug\JeuDeTacquinApp.g.cs
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\JeuDeTacquin\obj\Debug\JeuDeTacquin_MarkupCompile.cache
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\JeuDeTacquin\obj\Debug\JeuDeTacquin.g.resources
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\JeuDeTacquin\obj\Debug\JeuDeTacquin.exe
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\JeuDeTacquin\obj\Debug\JeuDeTacquin.pdb

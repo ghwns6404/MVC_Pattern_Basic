@@ -1,0 +1,41 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\7번 예제\bin\Debug\UseCustomXamlClass.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\7번 예제\bin\Debug\UseCustomXamlClass.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\7번 예제\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\7번 예제\obj\Debug\CenteredButton.baml
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\7번 예제\obj\Debug\CenteredButton.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\7번 예제\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass_MarkupCompile.lref
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.baml
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.g.resources
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.pdb
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.exe
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.pdb
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\bin\Debug\UseCustomXamlClass.exe
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\bin\Debug\UseCustomXamlClass.pdb
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\ResolveAssemblyReference.cache
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\CenteredButton.baml
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\CenteredButton.g.cs
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.g.cs
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass_MarkupCompile.cache
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass_MarkupCompile.lref
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.baml
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.g.resources
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\bin\Debug\UseCustomXamlClass.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\bin\Debug\UseCustomXamlClass.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\CenteredButton.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\CenteredButton.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass_MarkupCompile.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass_MarkupCompile.lref
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.g.resources
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.exe
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\7번 예제\obj\Debug\UseCustomXamlClass.pdb

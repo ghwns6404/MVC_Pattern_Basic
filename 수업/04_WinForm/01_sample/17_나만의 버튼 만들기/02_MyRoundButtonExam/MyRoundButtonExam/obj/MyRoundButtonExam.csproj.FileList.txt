@@ -1,0 +1,8 @@
+bin\Debug\MyRoundButtonExam.exe
+bin\Debug\MyRoundButtonExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyRoundButtonExam.Form1.resources
+obj\Debug\MyRoundButtonExam.Properties.Resources.resources
+obj\Debug\MyRoundButtonExam.csproj.GenerateResource.Cache
+obj\Debug\MyRoundButtonExam.exe
+obj\Debug\MyRoundButtonExam.pdb

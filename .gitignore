@@ -1,0 +1,11 @@
+# 문서류 무시
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.hwp
+*.pdf
+
+# 압축
+*.zip
+*.rar

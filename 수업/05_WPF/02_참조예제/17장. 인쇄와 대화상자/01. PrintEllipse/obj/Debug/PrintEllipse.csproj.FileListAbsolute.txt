@@ -1,0 +1,5 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 17\PrintEllipse\bin\Debug\PrintEllipse.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 17\PrintEllipse\bin\Debug\PrintEllipse.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 17\PrintEllipse\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 17\PrintEllipse\obj\Debug\PrintEllipse.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 17\PrintEllipse\obj\Debug\PrintEllipse.pdb

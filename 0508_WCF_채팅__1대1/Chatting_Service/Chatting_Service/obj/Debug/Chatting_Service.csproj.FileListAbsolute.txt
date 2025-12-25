@@ -1,0 +1,14 @@
+C:\Users\bit1\Desktop\Chatting_Service\Chatting_Service\bin\Debug\Chatting_Service.exe.config
+C:\Users\bit1\Desktop\Chatting_Service\Chatting_Service\bin\Debug\Chatting_Service.exe
+C:\Users\bit1\Desktop\Chatting_Service\Chatting_Service\bin\Debug\Chatting_Service.pdb
+C:\Users\bit1\Desktop\Chatting_Service\Chatting_Service\obj\Debug\Chatting_Service.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\Chatting_Service\Chatting_Service\obj\Debug\Chatting_Service.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\Chatting_Service\Chatting_Service\obj\Debug\Chatting_Service.exe
+C:\Users\bit1\Desktop\Chatting_Service\Chatting_Service\obj\Debug\Chatting_Service.pdb
+C:\Users\bit1\Desktop\내가만든거\0508_WCF_일대일_채팅\Chatting_Service\Chatting_Service\bin\Debug\Chatting_Service.exe.config
+C:\Users\bit1\Desktop\내가만든거\0508_WCF_일대일_채팅\Chatting_Service\Chatting_Service\bin\Debug\Chatting_Service.exe
+C:\Users\bit1\Desktop\내가만든거\0508_WCF_일대일_채팅\Chatting_Service\Chatting_Service\bin\Debug\Chatting_Service.pdb
+C:\Users\bit1\Desktop\내가만든거\0508_WCF_일대일_채팅\Chatting_Service\Chatting_Service\obj\Debug\Chatting_Service.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\내가만든거\0508_WCF_일대일_채팅\Chatting_Service\Chatting_Service\obj\Debug\Chatting_Service.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\내가만든거\0508_WCF_일대일_채팅\Chatting_Service\Chatting_Service\obj\Debug\Chatting_Service.exe
+C:\Users\bit1\Desktop\내가만든거\0508_WCF_일대일_채팅\Chatting_Service\Chatting_Service\obj\Debug\Chatting_Service.pdb

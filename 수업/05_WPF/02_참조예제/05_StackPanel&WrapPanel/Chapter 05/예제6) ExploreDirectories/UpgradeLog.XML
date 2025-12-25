@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ExploreDirectories">
+</Property><Property Name="솔루션 파일" Value="C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 05\ExploreDirectories\ExploreDirectories.sln">
+</Property><Property Name="Date" Value="2011년 5월 16일 월요일">
+</Property><Property Name="Time" Value="오후 21:15">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ExploreDirectories.sln" Description="파일을 C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 05\ExploreDirectories\Backup\ExploreDirectories.sln(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExploreDirectories" Source="ExploreDirectories.csproj" Description="프로젝트 파일을 C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 05\ExploreDirectories\Backup\ExploreDirectories.csproj(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExploreDirectories" Source="ExploreDirectories.cs" Description="파일을 C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 05\ExploreDirectories\Backup\ExploreDirectories.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExploreDirectories" Source="FileSystemInfoButton.cs" Description="파일을 C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 05\ExploreDirectories\Backup\FileSystemInfoButton.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExploreDirectories" Source="ExploreDirectories.csproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="ExploreDirectories" Source="ExploreDirectories.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ExploreDirectories.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="ExploreDirectories.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ExploreDirectories" Source="ExploreDirectories.csproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>

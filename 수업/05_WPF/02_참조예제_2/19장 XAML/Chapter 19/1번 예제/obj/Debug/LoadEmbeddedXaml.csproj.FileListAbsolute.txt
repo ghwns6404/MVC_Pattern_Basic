@@ -1,0 +1,19 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\LoadEmbeddedXaml\bin\Debug\LoadEmbeddedXaml.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\LoadEmbeddedXaml\bin\Debug\LoadEmbeddedXaml.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\LoadEmbeddedXaml\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\LoadEmbeddedXaml\obj\Debug\LoadEmbeddedXaml.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\LoadEmbeddedXaml\obj\Debug\LoadEmbeddedXaml.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\1번 예제\obj\Debug\LoadEmbeddedXaml.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\1번 예제\obj\Debug\LoadEmbeddedXaml.pdb
+\\61.81.99.99\11_wpf\19장\Chapter 19\1번 예제\obj\Debug\LoadEmbeddedXaml.exe
+\\61.81.99.99\11_wpf\19장\Chapter 19\1번 예제\obj\Debug\LoadEmbeddedXaml.pdb
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\1번 예제\obj\Debug\LoadEmbeddedXaml.exe
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\1번 예제\obj\Debug\LoadEmbeddedXaml.pdb
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\1번 예제\bin\Debug\LoadEmbeddedXaml.exe
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\1번 예제\bin\Debug\LoadEmbeddedXaml.pdb
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\1번 예제\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\1번 예제\obj\Debug\LoadEmbeddedXaml.exe
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\1번 예제\obj\Debug\LoadEmbeddedXaml.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\1번 예제\bin\Debug\LoadEmbeddedXaml.exe
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\1번 예제\bin\Debug\LoadEmbeddedXaml.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\1번 예제\obj\Debug\ResolveAssemblyReference.cache

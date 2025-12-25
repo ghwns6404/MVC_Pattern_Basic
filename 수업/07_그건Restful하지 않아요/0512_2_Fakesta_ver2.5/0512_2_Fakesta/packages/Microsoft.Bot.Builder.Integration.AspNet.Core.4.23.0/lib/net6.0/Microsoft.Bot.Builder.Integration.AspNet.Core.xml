@@ -1,0 +1,794 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.Bot.Builder.Integration.AspNet.Core</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.Bot.Builder.Integration.AspNet.Core.ApplicationBuilderExtensions">
+            <summary>
+            Extension methods for <see cref="T:Microsoft.AspNetCore.Builder.IApplicationBuilder"/> to add a Bot to the ASP.NET Core request execution pipeline.
+            </summary>
+            <seealso cref="T:Microsoft.Bot.Builder.Integration.BotFrameworkPaths"/>
+            <seealso cref="T:Microsoft.Bot.Builder.BotFrameworkAdapter"/>
+            <seealso cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.ServiceCollectionExtensions"/>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ApplicationBuilderExtensions.UseBotFramework(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Maps various endpoint handlers for the <see cref="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ServiceCollectionExtensions.AddBot``1(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Action{Microsoft.Bot.Builder.Integration.BotFrameworkOptions})">registered bot</see> into the request execution pipeline.
+            </summary>
+            <param name="applicationBuilder">The <see cref="T:Microsoft.AspNetCore.Builder.IApplicationBuilder"/>.</param>
+            <returns>A reference to this instance after the operation has completed.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ApplicationBuilderExtensions.UseNamedPipes(Microsoft.AspNetCore.Builder.IApplicationBuilder,System.String,System.String)">
+            <summary>
+            Enables named pipes for this application.
+            </summary>
+            <param name="applicationBuilder">The application builder that defines the bot's pipeline.<see cref="T:Microsoft.AspNetCore.Builder.IApplicationBuilder"/>.</param>
+            <param name="pipeName">The name of the named pipe to use when creating the server.</param>
+            <param name="audience">The specified recipient of all outgoing activities.</param>
+            <returns>A reference to this instance after the operation has completed.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ApplicationBuilderExtensions.UseNamedPipes(Microsoft.AspNetCore.Builder.IApplicationBuilder,System.String,System.String,System.String,System.String)">
+            <summary>
+            Enables named pipes for this application.
+            </summary>
+            <param name="applicationBuilder">The application builder that defines the bot's pipeline.<see cref="T:Microsoft.AspNetCore.Builder.IApplicationBuilder"/>.</param>
+            <param name="pipeName">The name of the named pipe to use when creating the server.</param>
+            <param name="audience">The specified recipient of all outgoing activities.</param>
+            <param name="appId">The bot's application id.</param>
+            <param name="callerId">The caller id.</param>
+            <returns>A reference to this instance after the operation has completed.</returns>
+        </member>
+        <member name="T:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter">
+            <summary>
+            A Bot Builder Adapter implementation used to handled bot Framework HTTP requests.
+            </summary>
+            <remarks>
+            BotFrameworkHttpAdapter is still supported but the recommended adapter is `CloudAdapter`.
+            </remarks>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter.#ctor(Microsoft.Bot.Connector.Authentication.ICredentialProvider,Microsoft.Bot.Connector.Authentication.AuthenticationConfiguration,Microsoft.Bot.Connector.Authentication.IChannelProvider,Microsoft.Rest.TransientFaultHandling.RetryPolicy,System.Net.Http.HttpClient,Microsoft.Bot.Builder.IMiddleware,Microsoft.Extensions.Logging.ILogger)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter"/> class,
+            using a credential provider.
+            </summary>
+            <param name="credentialProvider">The credential provider.</param>
+            <param name="authConfig">The authentication configuration.</param>
+            <param name="channelProvider">The channel provider.</param>
+            <param name="connectorClientRetryPolicy">Retry policy for retrying HTTP operations.</param>
+            <param name="customHttpClient">The HTTP client.</param>
+            <param name="middleware">The middleware to initially add to the adapter.</param>
+            <param name="logger">The ILogger implementation this adapter should use.</param>
+            <exception cref="T:System.ArgumentNullException">
+            <paramref name="credentialProvider"/> is <c>null</c>.</exception>
+            <remarks>Use a <see cref="T:Microsoft.Bot.Builder.MiddlewareSet"/> object to add multiple middleware
+            components in the constructor. Use the IMiddleware method to
+            add additional middleware to the adapter after construction.
+            </remarks>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter.#ctor(Microsoft.Bot.Connector.Authentication.ICredentialProvider,Microsoft.Bot.Connector.Authentication.IChannelProvider,Microsoft.Extensions.Logging.ILogger{Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter})">
+            <summary>
+            Initializes a new instance of the <see cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter"/> class,
+            using a credential provider.
+            </summary>
+            <param name="credentialProvider">The credential provider.</param>
+            <param name="channelProvider">The channel provider.</param>
+            <param name="logger">The ILogger implementation this adapter should use.</param>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter.#ctor(Microsoft.Bot.Connector.Authentication.ICredentialProvider,Microsoft.Bot.Connector.Authentication.IChannelProvider,System.Net.Http.HttpClient,Microsoft.Extensions.Logging.ILogger{Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter})">
+            <summary>
+            Initializes a new instance of the <see cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter"/> class,
+            using a credential provider.
+            </summary>
+            <param name="credentialProvider">The credential provider.</param>
+            <param name="channelProvider">The channel provider.</param>
+            <param name="httpClient">The <see cref="T:System.Net.Http.HttpClient"/> used.</param>
+            <param name="logger">The ILogger implementation this adapter should use.</param>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter.#ctor(Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Bot.Connector.Authentication.ICredentialProvider,Microsoft.Bot.Connector.Authentication.AuthenticationConfiguration,Microsoft.Bot.Connector.Authentication.IChannelProvider,Microsoft.Rest.TransientFaultHandling.RetryPolicy,System.Net.Http.HttpClient,Microsoft.Bot.Builder.IMiddleware,Microsoft.Extensions.Logging.ILogger)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter"/> class.
+            </summary>
+            <param name="configuration">An <see cref="T:Microsoft.Extensions.Configuration.IConfiguration"/> instance.</param>
+            <param name="credentialProvider">The credential provider.</param>
+            <param name="authConfig">The authentication configuration.</param>
+            <param name="channelProvider">The channel provider.</param>
+            <param name="connectorClientRetryPolicy">Retry policy for retrying HTTP operations.</param>
+            <param name="customHttpClient">The HTTP client.</param>
+            <param name="middleware">The middleware to initially add to the adapter.</param>
+            <param name="logger">The ILogger implementation this adapter should use.</param>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter.#ctor(Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.Logging.ILogger{Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter})">
+            <summary>
+            Initializes a new instance of the <see cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter"/> class.
+            </summary>
+            <param name="configuration">An <see cref="T:Microsoft.Extensions.Configuration.IConfiguration"/> instance.</param>
+            <param name="logger">The ILogger implementation this adapter should use.</param>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter.ProcessAsync(Microsoft.AspNetCore.Http.HttpRequest,Microsoft.AspNetCore.Http.HttpResponse,Microsoft.Bot.Builder.IBot,System.Threading.CancellationToken)">
+            <summary>
+            This method can be called from inside a POST method on any Controller implementation.
+            </summary>
+            <param name="httpRequest">The HTTP request object, typically in a POST handler by a Controller.</param>
+            <param name="httpResponse">The HTTP response object.</param>
+            <param name="bot">The bot implementation.</param>
+            <param name="cancellationToken">A cancellation token that can be used by other objects
+            or threads to receive notice of cancellation.</param>
+            <returns>A task that represents the work queued to execute.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter.CreateStreamingRequestHandler(Microsoft.Bot.Builder.IBot,System.Net.WebSockets.WebSocket,System.String)">
+            <summary>
+            Create the <see cref="T:Microsoft.Bot.Builder.Streaming.StreamingRequestHandler"/> for processing for a new Web Socket connection request.
+            </summary>
+            <param name="bot">The <see cref="T:Microsoft.Bot.Builder.IBot"/> implementation which will process the request.</param>
+            <param name="socket">The <see cref="T:System.Net.WebSockets.WebSocket"/> which the request will be received on.</param>
+            <param name="audience">The authorized audience of the incoming connection request.</param>
+            <returns>Returns a new <see cref="T:Microsoft.Bot.Builder.Streaming.StreamingRequestHandler"/> implementation.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter.ConnectWebSocketAsync(Microsoft.Bot.Builder.IBot,Microsoft.AspNetCore.Http.HttpRequest,Microsoft.AspNetCore.Http.HttpResponse,System.Threading.CancellationToken)">
+            <summary>
+            Process the initial request to establish a long lived connection via a streaming server.
+            </summary>
+            <param name="bot">The <see cref="T:Microsoft.Bot.Builder.IBot"/> instance.</param>
+            <param name="httpRequest">The connection request.</param>
+            <param name="httpResponse">The response sent on error or connection termination.</param>
+            <param name="cancellationToken">The cancellation token.</param>
+            <returns>Returns on task completion.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter.AuthenticateRequestAsync(Microsoft.AspNetCore.Http.HttpRequest)">
+            <summary>
+            Validates the auth header for WebSocket upgrade requests.
+            </summary>
+            <remarks>
+            Returns a ClaimsIdentity for successful auth and when auth is disabled. Returns null for failed auth.
+            </remarks>
+            <param name="httpRequest">The connection request.</param>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpAdapter.GetAudience(System.Security.Claims.ClaimsIdentity)">
+            <summary>
+            Get the audience for the WebSocket connection from the authenticated ClaimsIdentity.
+            </summary>
+            <remarks>
+            Setting the Audience on the StreamingRequestHandler enables the bot to call skills and correctly forward responses from the skill to the next recipient.
+            i.e. the participant at the other end of the WebSocket connection.
+            </remarks>
+            <param name="claimsIdentity">ClaimsIdentity for authenticated caller.</param>
+        </member>
+        <member name="T:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpClient">
+            <summary>
+            Class for posting activities securely to a bot using BotFramework HTTP protocol.
+            </summary>
+            <remarks>
+            This class can be used to securely post activities to a bot using the Bot Framework HTTP protocol. There are 2 usage patterns:
+            * Forwarding activity to a Skill (Bot => Bot as a Skill) which is done via PostActivityAsync(fromBotId, toBotId, endpoint, serviceUrl, activity);
+            * Posting an activity to yourself (External service => Bot) which is done via PostActivityAsync(botId, endpoint, activity)
+            The latter is used by external services such as webjobs that need to post activities to the bot using the bots own credentials.
+            </remarks>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpClient.#ctor(System.Net.Http.HttpClient,Microsoft.Bot.Connector.Authentication.ICredentialProvider,Microsoft.Bot.Connector.Authentication.IChannelProvider,Microsoft.Extensions.Logging.ILogger)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpClient"/> class.
+            </summary>
+            <param name="httpClient">A <see cref="P:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpClient.HttpClient"/>.</param>
+            <param name="credentialProvider">An instance of <see cref="T:Microsoft.Bot.Connector.Authentication.ICredentialProvider"/>.</param>
+            <param name="channelProvider">An instance of <see cref="T:Microsoft.Bot.Connector.Authentication.IChannelProvider"/>.</param>
+            <param name="logger">An instance of <see cref="T:Microsoft.Extensions.Logging.ILogger"/>.</param>
+        </member>
+        <member name="P:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpClient.AppCredentialMapCache">
+            <summary>
+            Gets the Cache for appCredentials to speed up token acquisition (a token is not requested unless is expired).
+            AppCredentials are cached using appId + scope (this last parameter is only used if the app credentials are used to call a skill).
+            </summary>
+            <value>ConcurrentDictionary of <see cref="T:Microsoft.Bot.Connector.Authentication.AppCredentials"/>.</value>
+        </member>
+        <member name="P:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpClient.ChannelProvider">
+            <summary>
+            Gets the channel provider for this adapter.
+            </summary>
+            <value>
+            The channel provider for this adapter.
+            </value>
+        </member>
+        <member name="P:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpClient.CredentialProvider">
+            <summary>
+            Gets the credential provider for this adapter.
+            </summary>
+            <value>
+            The credential provider for this adapter.
+            </value>
+        </member>
+        <member name="P:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpClient.HttpClient">
+            <summary>
+            Gets the HttpClient for this adapter.
+            </summary>
+            <value>
+            The HttpClient for this adapter.
+            </value>
+        </member>
+        <member name="P:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpClient.Logger">
+            <summary>
+            Gets the logger for this adapter.
+            </summary>
+            <value>
+            The logger for this adapter.
+            </value>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpClient.PostActivityAsync(System.String,System.String,System.Uri,System.Uri,System.String,Microsoft.Bot.Schema.Activity,System.Threading.CancellationToken)">
+            <summary>
+            Forwards an activity to a skill (bot).
+            </summary>
+            <remarks>NOTE: Forwarding an activity to a skill will flush UserState and ConversationState changes so that skill has accurate state.</remarks>
+            <param name="fromBotId">The MicrosoftAppId of the bot sending the activity.</param>
+            <param name="toBotId">The MicrosoftAppId of the bot receiving the activity.</param>
+            <param name="toUrl">The URL of the bot receiving the activity.</param>
+            <param name="serviceUrl">The callback Url for the skill host.</param>
+            <param name="conversationId">A conversation ID to use for the conversation with the skill.</param>
+            <param name="activity">activity to forward.</param>
+            <param name="cancellationToken">cancellation Token.</param>
+            <returns>Async task with optional invokeResponse.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpClient.PostActivityAsync``1(System.String,System.String,System.Uri,System.Uri,System.String,Microsoft.Bot.Schema.Activity,System.Threading.CancellationToken)">
+            <summary>
+            Forwards an activity to a skill (bot).
+            </summary>
+            <remarks>NOTE: Forwarding an activity to a skill will flush UserState and ConversationState changes so that skill has accurate state.</remarks>
+            <typeparam name="T">The type of body in the InvokeResponse.</typeparam>
+            <param name="fromBotId">The MicrosoftAppId of the bot sending the activity.</param>
+            <param name="toBotId">The MicrosoftAppId of the bot receiving the activity.</param>
+            <param name="toUrl">The URL of the bot receiving the activity.</param>
+            <param name="serviceUrl">The callback Url for the skill host.</param>
+            <param name="conversationId">A conversation ID to use for the conversation with the skill.</param>
+            <param name="activity">activity to forward.</param>
+            <param name="cancellationToken">cancellation Token.</param>
+            <returns>Async task with optional invokeResponse<typeparamref name="T"/>.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpClient.PostActivityAsync(System.String,System.Uri,Microsoft.Bot.Schema.Activity,System.Threading.CancellationToken)">
+            <summary>
+            Post Activity to the bot using the bot's credentials.
+            </summary>
+            <param name="botId">The MicrosoftAppId of the bot.</param>
+            <param name="botEndpoint">The URL of the bot.</param>
+            <param name="activity">activity to post.</param>
+            <param name="cancellationToken">Cancellation token.</param>
+            <returns>InvokeResponse.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpClient.PostActivityAsync``1(System.String,System.Uri,Microsoft.Bot.Schema.Activity,System.Threading.CancellationToken)">
+            <summary>
+            Post Activity to the bot using the bot's credentials.
+            </summary>
+            <typeparam name="T">type of invokeResponse body.</typeparam>
+            <param name="botId">The MicrosoftAppId of the bot.</param>
+            <param name="botEndpoint">The URL of the bot.</param>
+            <param name="activity">activity to post.</param>
+            <param name="cancellationToken">Cancellation token.</param>
+            <returns>InvokeResponse<typeparamref name="T"/>.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpClient.BuildCredentialsAsync(System.String,System.String)">
+            <summary>
+            Logic to build an <see cref="T:Microsoft.Bot.Connector.Authentication.AppCredentials"/> object to be used to acquire tokens
+            for this HttpClient.
+            </summary>
+            <param name="appId">The application id.</param>
+            <param name="oAuthScope">The optional OAuth scope.</param>
+            <returns>The app credentials to be used to acquire tokens.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpClient.GetAppCredentialsAsync(System.String,System.String)">
+            <summary>
+            Gets the application credentials. App Credentials are cached so as to ensure we are not refreshing
+            token every time.
+            </summary>
+            <param name="appId">The application identifier (AAD Id for the bot).</param>
+            <param name="oAuthScope">The scope for the token, skills will use the Skill App Id. </param>
+            <returns>App credentials.</returns>
+        </member>
+        <member name="T:Microsoft.Bot.Builder.Integration.AspNet.Core.Handlers.BotMessageHandler">
+            <summary>
+            A handler to process incoming http requests via using an adapter.
+            </summary>
+            <remarks>
+            BotFrameworkAdapter is still supported but the recommended adapter is `CloudAdapter`.
+            </remarks>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.Handlers.BotMessageHandler.ProcessMessageRequestAsync(Microsoft.AspNetCore.Http.HttpRequest,Microsoft.Bot.Builder.Integration.IAdapterIntegration,Microsoft.Bot.Builder.BotCallbackHandler,System.Threading.CancellationToken)">
+            <summary>
+            Deserializes the incoming request using a BotMessageHandler, processes it with an <see cref="T:Microsoft.Bot.Builder.Integration.IAdapterIntegration"/>
+            and returns an <see cref="T:Microsoft.Bot.Builder.InvokeResponse"/>.
+            </summary>
+            <param name="request">A <see cref="T:Microsoft.AspNetCore.Http.HttpRequest"/>.</param>
+            <param name="adapter">An instance of <see cref="T:Microsoft.Bot.Builder.Integration.IAdapterIntegration"/>.</param>
+            <param name="botCallbackHandler">An instance of <see cref="T:Microsoft.Bot.Builder.BotCallbackHandler"/>.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/>.</param>
+            <returns>An <see cref="T:Microsoft.Bot.Builder.InvokeResponse"/> returned from the adapter.</returns>
+        </member>
+        <member name="T:Microsoft.Bot.Builder.Integration.AspNet.Core.Handlers.BotMessageHandlerBase">
+            <summary>
+            Abstract base class for a bot message handler.
+            </summary>
+            <remarks>
+            BotFrameworkAdapter is still supported but the recommended adapter is `CloudAdapter`.
+            </remarks>
+        </member>
+        <member name="F:Microsoft.Bot.Builder.Integration.AspNet.Core.Handlers.BotMessageHandlerBase.BotMessageSerializer">
+            <summary>
+            A <see cref="T:Newtonsoft.Json.JsonSerializer"/> for use when serializing bot messages.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.Handlers.BotMessageHandlerBase.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.Handlers.BotMessageHandlerBase"/> class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.Handlers.BotMessageHandlerBase.HandleAsync(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Handles common behavior for handling requests, including checking valid request method and content type.
+            Processes the request using the registered adapter and bot and writes the result to the response on the <see cref="T:Microsoft.AspNetCore.Http.HttpContext"/>.
+            </summary>
+            <param name="httpContext">The <see cref="T:Microsoft.AspNetCore.Http.HttpContext"/>.</param>
+            <returns>A Task that represents the work to be executed.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.Handlers.BotMessageHandlerBase.ProcessMessageRequestAsync(Microsoft.AspNetCore.Http.HttpRequest,Microsoft.Bot.Builder.Integration.IAdapterIntegration,Microsoft.Bot.Builder.BotCallbackHandler,System.Threading.CancellationToken)">
+            <summary>
+            Abstract method to process the incoming request using the registered adapter and bot and
+            to return an <see cref="T:Microsoft.Bot.Builder.InvokeResponse"/>.
+            </summary>
+            <param name="request">A <see cref="T:Microsoft.AspNetCore.Http.HttpRequest"/>.</param>
+            <param name="adapter">An instance of <see cref="T:Microsoft.Bot.Builder.Integration.IAdapterIntegration"/>.</param>
+            <param name="botCallbackHandler">An instance of <see cref="T:Microsoft.Bot.Builder.BotCallbackHandler"/>.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/>.</param>
+            <returns>An <see cref="T:Microsoft.Bot.Builder.InvokeResponse"/> returned from the adapter.</returns>
+        </member>
+        <member name="T:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController">
+            <summary>
+            A base class for a skill controller.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController.#ctor(Microsoft.Bot.Builder.ChannelServiceHandlerBase)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController"/> class.
+            </summary>
+            <param name="handler">A <see cref="T:Microsoft.Bot.Builder.ChannelServiceHandler"/> that will handle the incoming request.</param>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController.SendToConversationAsync(System.String,Microsoft.Bot.Schema.Activity)">
+            <summary>
+            SendToConversation.
+            </summary>
+            <param name="conversationId">Conversation ID.</param>
+            <param name="activity">Activity to send.</param>
+            <returns>TODO Document.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController.ReplyToActivityAsync(System.String,System.String,Microsoft.Bot.Schema.Activity)">
+            <summary>
+            ReplyToActivity.
+            </summary>
+            <param name="conversationId">Conversation ID.</param>
+            <param name="activityId">activityId the reply is to (OPTIONAL).</param>
+            <param name="activity">Activity to send.</param>
+            <returns>TODO Document.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController.UpdateActivityAsync(System.String,System.String,Microsoft.Bot.Schema.Activity)">
+            <summary>
+            UpdateActivity.
+            </summary>
+            <param name="conversationId">Conversation ID.</param>
+            <param name="activityId">activityId to update.</param>
+            <param name="activity">replacement Activity.</param>
+            <returns>TODO Document.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController.DeleteActivityAsync(System.String,System.String)">
+            <summary>
+            DeleteActivity.
+            </summary>
+            <param name="conversationId">Conversation ID.</param>
+            <param name="activityId">activityId to delete.</param>
+            <returns>TODO Document.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController.GetActivityMembersAsync(System.String,System.String)">
+            <summary>
+            GetActivityMembers.
+            </summary>
+            <remarks>
+            Markdown=Content\Methods\GetActivityMembers.md.
+            </remarks>
+            <param name="conversationId">Conversation ID.</param>
+            <param name="activityId">Activity ID.</param>
+            <returns>TODO Document.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController.CreateConversationAsync(Microsoft.Bot.Schema.ConversationParameters)">
+            <summary>
+            CreateConversation.
+            </summary>
+            <param name="parameters">Parameters to create the conversation from.</param>
+            <returns>TODO Document.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController.GetConversationsAsync(System.String)">
+            <summary>
+            GetConversations.
+            </summary>
+            <param name="continuationToken">skip or continuation token.</param>
+            <returns>TODO Document.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController.GetConversationMembersAsync(System.String)">
+            <summary>
+            GetConversationMembers.
+            </summary>
+            <param name="conversationId">Conversation ID.</param>
+            <returns>TODO Document.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController.GetConversationMemberAsync(System.String,System.String)">
+            <summary>
+            GetConversationMember.
+            </summary>
+            <param name="userId">User ID.</param>
+            <param name="conversationId">Conversation ID.</param>
+            <returns>The ChannelAccount of the conversation member.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController.GetConversationPagedMembersAsync(System.String,System.Int32,System.String)">
+            <summary>
+            GetConversationPagedMembers.
+            </summary>
+            <param name="conversationId">Conversation ID.</param>
+            <param name="pageSize">Suggested page size.</param>
+            <param name="continuationToken">Continuation Token.</param>
+            <returns>TODO Document.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController.DeleteConversationMemberAsync(System.String,System.String)">
+            <summary>
+            DeleteConversationMember.
+            </summary>
+            <param name="conversationId">Conversation ID.</param>
+            <param name="memberId">ID of the member to delete from this conversation.</param>
+            <returns>TODO Document.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController.SendConversationHistoryAsync(System.String,Microsoft.Bot.Schema.Transcript)">
+            <summary>
+            SendConversationHistory.
+            </summary>
+            <param name="conversationId">Conversation ID.</param>
+            <param name="history">Historic activities.</param>
+            <returns>TODO Document.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController.UploadAttachmentAsync(System.String,Microsoft.Bot.Schema.AttachmentData)">
+            <summary>
+            UploadAttachment.
+            </summary>
+            <param name="conversationId">Conversation ID.</param>
+            <param name="attachmentUpload">Attachment data.</param>
+            <returns>TODO Document.</returns>
+        </member>
+        <member name="T:Microsoft.Bot.Builder.Integration.AspNet.Core.CloudAdapter">
+            <summary>
+            An adapter that implements the Bot Framework Protocol and can be hosted in different cloud environmens both public and private.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.CloudAdapter.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.CloudAdapter"/> class. (Public cloud. No auth. For testing.)
+            </summary>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.CloudAdapter.#ctor(Microsoft.Bot.Connector.Authentication.BotFrameworkAuthentication,Microsoft.Extensions.Logging.ILogger)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.CloudAdapter"/> class.
+            </summary>
+            <param name="botFrameworkAuthentication">The <see cref="T:Microsoft.Bot.Connector.Authentication.BotFrameworkAuthentication"/> this adapter should use.</param>
+            <param name="logger">The <see cref="T:Microsoft.Extensions.Logging.ILogger"/> implementation this adapter should use.</param>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.CloudAdapter.#ctor(Microsoft.Extensions.Configuration.IConfiguration,System.Net.Http.IHttpClientFactory,Microsoft.Extensions.Logging.ILogger)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.CloudAdapter"/> class.
+            </summary>
+            <param name="configuration">The <see cref="T:Microsoft.Extensions.Configuration.IConfiguration"/> instance.</param>
+            <param name="httpClientFactory">The <see cref="T:System.Net.Http.IHttpClientFactory"/> this adapter should use.</param>
+            <param name="logger">The <see cref="T:Microsoft.Extensions.Logging.ILogger"/> implementation this adapter should use.</param>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.CloudAdapter.ProcessAsync(Microsoft.AspNetCore.Http.HttpRequest,Microsoft.AspNetCore.Http.HttpResponse,Microsoft.Bot.Builder.IBot,System.Threading.CancellationToken)">
+            <summary>
+            Process the inbound HTTP request with the bot resulting in the outbound http response, this method can be called directly from a Controller.
+            If the HTTP method is a POST the body will contain the <see cref="T:Microsoft.Bot.Schema.Activity"/> to process. 
+            </summary>
+            <param name="httpRequest">The <see cref="T:Microsoft.AspNetCore.Http.HttpRequest"/>.</param>
+            <param name="httpResponse">The <see cref="T:Microsoft.AspNetCore.Http.HttpResponse"/>.</param>
+            <param name="bot">The <see cref="T:Microsoft.Bot.Builder.IBot"/> implementation to use for this request.</param>
+            <param name="cancellationToken">Cancellation token.</param>
+            <returns>A <see cref="T:System.Threading.Tasks.Task"/> that represents the work queued to execute.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.CloudAdapter.ConnectNamedPipeAsync(System.String,Microsoft.Bot.Builder.IBot,System.String,System.String,System.String)">
+            <summary>
+            Used to connect the adapter to a named pipe.
+            </summary>
+            <param name="pipeName">The name of the named pipe.</param>
+            <param name="bot">The bot instance to use.</param>
+            <param name="appId">The bot's application id.</param>
+            <param name="audience">The audience to use for outbound communication. This will vary by cloud environment.</param>
+            <param name="callerId">The callerId, this may be NULL.</param>
+            <returns>A <see cref="T:System.Threading.Tasks.Task"/> that represents the work queued to execute.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.CloudAdapter.GetStreamingConnectorFactory(Microsoft.Bot.Schema.Activity)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.CloudAdapter.CreateWebSocketConnection(System.Net.WebSockets.WebSocket,Microsoft.Extensions.Logging.ILogger)">
+            <summary>
+            Creates a <see cref="T:Microsoft.Bot.Connector.Streaming.Application.StreamingConnection"/> that uses web sockets.
+            </summary>
+            <param name="socket"><see cref="T:System.Net.WebSockets.WebSocket"/> instance on which streams are transported between client and server.</param>
+            <param name="logger">Logger implementation for tracing and debugging information.</param>
+            <returns><see cref="T:Microsoft.Bot.Connector.Streaming.Application.StreamingConnection"/> that uses web socket.</returns>
+        </member>
+        <member name="T:Microsoft.Bot.Builder.Integration.AspNet.Core.ConfigurationBotFrameworkAuthentication">
+            <summary>
+            Creates a <see cref="T:Microsoft.Bot.Connector.Authentication.BotFrameworkAuthentication"/> instance from configuration.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ConfigurationBotFrameworkAuthentication.#ctor(Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Bot.Connector.Authentication.ServiceClientCredentialsFactory,Microsoft.Bot.Connector.Authentication.AuthenticationConfiguration,System.Net.Http.IHttpClientFactory,Microsoft.Extensions.Logging.ILogger)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.ConfigurationBotFrameworkAuthentication"/> class.
+            </summary>
+            <param name="configuration">An <see cref="T:Microsoft.Extensions.Configuration.IConfiguration"/> instance.</param>
+            <param name="credentialsFactory">An <see cref="T:Microsoft.Bot.Connector.Authentication.ServiceClientCredentialsFactory"/> instance.</param>
+            <param name="authConfiguration">An <see cref="T:Microsoft.Bot.Connector.Authentication.AuthenticationConfiguration"/> instance.</param>
+            <param name="httpClientFactory">The <see cref="T:System.Net.Http.IHttpClientFactory"/> to use.</param>
+            <param name="logger">The ILogger instance to use.</param>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ConfigurationBotFrameworkAuthentication.GetOriginatingAudience">
+            <inheritdoc />
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ConfigurationBotFrameworkAuthentication.AuthenticateChannelRequestAsync(System.String,System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ConfigurationBotFrameworkAuthentication.AuthenticateRequestAsync(Microsoft.Bot.Schema.Activity,System.String,System.Threading.CancellationToken)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ConfigurationBotFrameworkAuthentication.AuthenticateStreamingRequestAsync(System.String,System.String,System.Threading.CancellationToken)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ConfigurationBotFrameworkAuthentication.CreateConnectorFactory(System.Security.Claims.ClaimsIdentity)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ConfigurationBotFrameworkAuthentication.CreateUserTokenClientAsync(System.Security.Claims.ClaimsIdentity,System.Threading.CancellationToken)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ConfigurationBotFrameworkAuthentication.CreateBotFrameworkClient">
+            <inheritdoc/>
+        </member>
+        <member name="F:Microsoft.Bot.Builder.Integration.AspNet.Core.MicrosoftAppType.MultiTenant">
+            <summary>
+            MultiTenant app which uses botframework.com tenant to acquire tokens.
+            </summary>
+        </member>
+        <member name="F:Microsoft.Bot.Builder.Integration.AspNet.Core.MicrosoftAppType.SingleTenant">
+            <summary>
+            SingleTenant app which uses the bot's host tenant to acquire tokens.
+            </summary>
+        </member>
+        <member name="F:Microsoft.Bot.Builder.Integration.AspNet.Core.MicrosoftAppType.UserAssignedMsi">
+            <summary>
+            App with a user assigned Managed Identity (MSI), which will be used as the AppId for token acquisition.
+            </summary>
+        </member>
+        <member name="T:Microsoft.Bot.Builder.Integration.AspNet.Core.ConfigurationServiceClientCredentialFactory">
+            <summary>
+            Credential provider which uses <see cref="T:Microsoft.Extensions.Configuration.IConfiguration"/> to lookup app credentials.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ConfigurationServiceClientCredentialFactory.#ctor(Microsoft.Extensions.Configuration.IConfiguration,System.Net.Http.HttpClient,Microsoft.Extensions.Logging.ILogger)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.ConfigurationServiceClientCredentialFactory"/> class.
+            </summary>
+            <param name="configuration">An instance of <see cref="T:Microsoft.Extensions.Configuration.IConfiguration"/>.</param>
+            <param name="httpClient">A httpClient to use.</param>
+            <param name="logger">A logger to use.</param>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ConfigurationServiceClientCredentialFactory.IsValidAppIdAsync(System.String,System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ConfigurationServiceClientCredentialFactory.IsAuthenticationDisabledAsync(System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ConfigurationServiceClientCredentialFactory.CreateCredentialsAsync(System.String,System.String,System.String,System.Boolean,System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+        <member name="T:Microsoft.Bot.Builder.Integration.AspNet.Core.HttpHelper">
+            <summary>
+            Helper class with methods to help with reading and responding to http requests.
+            </summary>
+        </member>
+        <member name="F:Microsoft.Bot.Builder.Integration.AspNet.Core.HttpHelper.BotMessageSerializerSettings">
+            <summary>
+            An instance of <see cref="T:Newtonsoft.Json.JsonSerializerSettings"/> used by the <see cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.ChannelServiceController"/>.
+            </summary>
+        </member>
+        <member name="F:Microsoft.Bot.Builder.Integration.AspNet.Core.HttpHelper.BotMessageSerializer">
+            <summary>
+            An instance of <see cref="T:Newtonsoft.Json.JsonSerializer"/> created using <see cref="F:Microsoft.Bot.Builder.Integration.AspNet.Core.HttpHelper.BotMessageSerializerSettings"/>.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.HttpHelper.ReadRequestAsync``1(Microsoft.AspNetCore.Http.HttpRequest)">
+            <summary>
+            Accepts an incoming HttpRequest and deserializes it using the <see cref="F:Microsoft.Bot.Builder.Integration.AspNet.Core.HttpHelper.BotMessageSerializer"/>.
+            </summary>
+            <typeparam name="T">The type to deserialize the request into.</typeparam>
+            <param name="request">The HttpRequest.</param>
+            <returns>The deserialized request.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.HttpHelper.WriteResponseAsync(Microsoft.AspNetCore.Http.HttpResponse,Microsoft.Bot.Builder.InvokeResponse)">
+            <summary>
+            If an <see cref="T:Microsoft.Bot.Builder.InvokeResponse"/> is provided the status and body of the <see cref="T:Microsoft.Bot.Builder.InvokeResponse"/>
+            are used to set the status and body of the <see cref="T:Microsoft.AspNetCore.Http.HttpResponse"/>. If no <see cref="T:Microsoft.Bot.Builder.InvokeResponse"/>
+            is provided then the status of the <see cref="T:Microsoft.AspNetCore.Http.HttpResponse"/> is set to 200.
+            </summary>
+            <param name="response">A HttpResponse.</param>
+            <param name="invokeResponse">An instance of <see cref="T:Microsoft.Bot.Builder.InvokeResponse"/>.</param>
+            <returns>A Task representing the work to be executed.</returns>
+        </member>
+        <member name="T:Microsoft.Bot.Builder.Integration.AspNet.Core.IBotFrameworkHttpAdapter">
+            <summary>
+            Interface to express the relationship between an mvc api Controller and a Bot Builder Adapter.
+            This interface can be used for Dependency Injection.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.IBotFrameworkHttpAdapter.ProcessAsync(Microsoft.AspNetCore.Http.HttpRequest,Microsoft.AspNetCore.Http.HttpResponse,Microsoft.Bot.Builder.IBot,System.Threading.CancellationToken)">
+            <summary>
+            This method can be called from inside a POST method on any Controller implementation.
+            </summary>
+            <param name="httpRequest">The HTTP request object, typically in a POST handler by a Controller.</param>
+            <param name="httpResponse">The HTTP response object.</param>
+            <param name="bot">The bot implementation.</param>
+            <param name="cancellationToken">A cancellation token that can be used by other objects
+            or threads to receive notice of cancellation.</param>
+            <returns>A task that represents the work queued to execute.</returns>
+        </member>
+        <member name="T:Microsoft.Bot.Builder.Integration.AspNet.Core.ServiceCollectionExtensions">
+            <summary>
+            A set of extension methods for <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection"/> which provide support for hosting bots with .NET Core.
+            </summary>
+            <seealso cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.ApplicationBuilderExtensions"/>
+            <seealso cref="T:Microsoft.Bot.Builder.Integration.IAdapterIntegration"/>
+            <seealso cref="T:Microsoft.Bot.Builder.IBot"/>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ServiceCollectionExtensions.AddBot``1(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Action{Microsoft.Bot.Builder.Integration.BotFrameworkOptions})">
+            <summary>
+            Adds and optionally configures a <typeparamref name="TBot">specified bot type</typeparamref> to the <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection" />.
+            </summary>
+            <typeparam name="TBot">A concrete type of <see cref="T:Microsoft.Bot.Builder.IBot"/> that is to be registered and exposed to the Bot Framework.</typeparam>
+            <param name="services">The <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection"/>.</param>
+            <param name="configureAction">A optional callback that, if provided, will be invoked to further configure of the bot.</param>
+            <returns>A reference to this instance after the operation has completed.</returns>
+            <remarks>
+                The <typeparamref name="TBot"/> will be registered as <see cref="F:Microsoft.Extensions.DependencyInjection.ServiceLifetime.Transient">transient</see> and be instantiated on each turn.
+            </remarks>
+            <seealso cref="T:Microsoft.Bot.Builder.IBot"/>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ServiceCollectionExtensions.AddBot``1(Microsoft.Extensions.DependencyInjection.IServiceCollection,``0,System.Action{Microsoft.Bot.Builder.Integration.BotFrameworkOptions})">
+            <summary>
+            Adds and optionally configures a singleton <paramref name="bot">bot</paramref> instance to the <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection"/>.
+            </summary>
+            <typeparam name="TBot">A concrete type of <see cref="T:Microsoft.Bot.Builder.IBot"/> that is to be registered and exposed to the Bot Framework.</typeparam>
+            <param name="services">The <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection"/>.</param>
+            <param name="bot">The instance of the bot that will be registered as a <see cref="F:Microsoft.Extensions.DependencyInjection.ServiceLifetime.Singleton"/>.</param>
+            <param name="configureAction">A optional callback that, if provided, will be invoked to further configure of the bot.</param>
+            <returns>A reference to this instance after the operation has completed.</returns>
+            <seealso cref="T:Microsoft.Bot.Builder.IBot"/>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ServiceCollectionExtensions.AddBot``1(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Func{System.IServiceProvider,``0},System.Action{Microsoft.Bot.Builder.Integration.BotFrameworkOptions})">
+            <summary>
+            Adds and optionally configures a <typeparamref name="TBot">specified bot type</typeparamref> to the <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection" />.
+            </summary>
+            <typeparam name="TBot">A concrete type of <see cref="T:Microsoft.Bot.Builder.IBot"/> that is to be registered and exposed to the Bot Framework.</typeparam>
+            <param name="services">The <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection"/>.</param>
+            <param name="botFactory">A factory method that will supply an instance of the <typeparamref name="TBot"/> when invoked.</param>
+            <param name="configureAction">A optional callback that, if provided, will be invoked to further configure of the bot.</param>
+            <returns>A reference to this instance after the operation has completed.</returns>
+            <remarks>
+                The <paramref name="botFactory">factory</paramref> will be registered as <see cref="F:Microsoft.Extensions.DependencyInjection.ServiceLifetime.Transient">transient</see>
+                and be invoked on each turn.
+            </remarks>
+            <seealso cref="T:Microsoft.Bot.Builder.IBot"/>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ServiceCollectionExtensions.AddBotFrameworkAdapterIntegration(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Action{Microsoft.Bot.Builder.Integration.BotFrameworkOptions})">
+             <summary>
+             Adds the <see cref="T:Microsoft.Bot.Builder.BotFrameworkAdapter"/> as the <see cref="T:Microsoft.Bot.Builder.Integration.IAdapterIntegration"/> which will be used by the integration layer
+             for processing bot requests.
+             </summary>
+             <param name="services">The <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection"/>.</param>
+             <param name="configureAction">A optional callback that, if provided, will be invoked to further configure the integration.</param>
+             <returns>A reference to this instance after the operation has completed.</returns>
+             <remarks>
+                 The <see cref="T:Microsoft.Bot.Builder.BotFrameworkAdapter"/> will be registered as a <see cref="F:Microsoft.Extensions.DependencyInjection.ServiceLifetime.Singleton">singleton</see>.
+            
+                 NOTE: Calling any of the <c>AddBot</c> overloads those will attempt to implicitly register this for you if there is no
+                 explicit <see cref="T:Microsoft.Bot.Builder.Integration.IAdapterIntegration"/> already registered in the <paramref name="services"/> collection.
+             </remarks>
+             <seealso cref="M:Microsoft.Bot.Builder.Integration.AspNet.Core.ServiceCollectionExtensions.AddBot``1(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Action{Microsoft.Bot.Builder.Integration.BotFrameworkOptions})"/>
+             <seealso cref="T:Microsoft.Bot.Builder.BotFrameworkAdapter"/>
+             <seealso cref="T:Microsoft.Bot.Builder.Integration.IAdapterIntegration"/>
+        </member>
+        <member name="T:Microsoft.Bot.Builder.Integration.AspNet.Core.Skills.SkillHttpClient">
+            <summary>
+            A <see cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.BotFrameworkHttpClient"/>specialized for Skills that encapsulates Conversation ID generation.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.Skills.SkillHttpClient.#ctor(System.Net.Http.HttpClient,Microsoft.Bot.Connector.Authentication.ICredentialProvider,Microsoft.Bot.Builder.Skills.SkillConversationIdFactoryBase,Microsoft.Bot.Connector.Authentication.IChannelProvider,Microsoft.Extensions.Logging.ILogger)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Microsoft.Bot.Builder.Integration.AspNet.Core.Skills.SkillHttpClient"/> class.
+            </summary>
+            <param name="httpClient">A HttpClient.</param>
+            <param name="credentialProvider">An instance of <see cref="T:Microsoft.Bot.Connector.Authentication.ICredentialProvider"/>.</param>
+            <param name="conversationIdFactory">An instance of a class derived from <see cref="T:Microsoft.Bot.Builder.Skills.SkillConversationIdFactoryBase"/>.</param>
+            <param name="channelProvider">An instance of <see cref="T:Microsoft.Bot.Connector.Authentication.IChannelProvider"/>.</param>
+            <param name="logger">An instance of <see cref="T:Microsoft.Extensions.Logging.ILogger"/>.</param>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.Skills.SkillHttpClient.PostActivityAsync``1(System.String,System.String,Microsoft.Bot.Builder.Skills.BotFrameworkSkill,System.Uri,Microsoft.Bot.Schema.Activity,System.Threading.CancellationToken)">
+            <summary>
+            Uses the SkillConversationIdFactory to create or retrieve a Skill Conversation Id, and sends the activity.
+            </summary>
+            <typeparam name="T">The type of body in the InvokeResponse.</typeparam>
+            <param name="originatingAudience">The oauth audience scope, used during token retrieval. (Either https://api.botframework.com or bot app id.)</param>
+            <param name="fromBotId">The MicrosoftAppId of the bot sending the activity.</param>
+            <param name="toSkill">The skill to create the conversation Id for.</param>
+            <param name="callbackUrl">The callback Url for the skill host.</param>
+            <param name="activity">The activity to send.</param>
+            <param name="cancellationToken">A cancellation token.</param>
+            <returns>Async task with invokeResponse.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.Skills.SkillHttpClient.PostActivityAsync(System.String,Microsoft.Bot.Builder.Skills.BotFrameworkSkill,System.Uri,Microsoft.Bot.Schema.Activity,System.Threading.CancellationToken)">
+            <summary>
+            Forwards an activity to a skill (bot).
+            </summary>
+            <param name="fromBotId">The MicrosoftAppId of the bot sending the activity.</param>
+            <param name="toSkill">An instance of <see cref="T:Microsoft.Bot.Builder.Skills.BotFrameworkSkill"/>.</param>
+            <param name="callbackUrl">The callback Uri.</param>
+            <param name="activity">activity to forward.</param>
+            <param name="cancellationToken">cancellation Token.</param>
+            <returns>Async task with optional invokeResponse.</returns>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.Integration.AspNet.Core.Skills.SkillHttpClient.PostActivityAsync``1(System.String,Microsoft.Bot.Builder.Skills.BotFrameworkSkill,System.Uri,Microsoft.Bot.Schema.Activity,System.Threading.CancellationToken)">
+            <summary>
+            Forwards an activity to a skill (bot).
+            </summary>
+            <param name="fromBotId">The MicrosoftAppId of the bot sending the activity.</param>
+            <param name="toSkill">An instance of <see cref="T:Microsoft.Bot.Builder.Skills.BotFrameworkSkill"/>.</param>
+            <param name="callbackUrl">The callback Uri.</param>
+            <param name="activity">activity to forward.</param>
+            <param name="cancellationToken">cancellation Token.</param>
+            <typeparam name="T">type of the <see cref="T:Microsoft.Bot.Builder.InvokeResponse"/> result.</typeparam>
+            <returns>Async task with optional invokeResponse of type T.</returns>
+        </member>
+        <member name="T:Microsoft.Bot.Builder.BotFramework.ConfigurationChannelProvider">
+             <summary>
+             Channel provider which uses <see cref="T:Microsoft.Extensions.Configuration.IConfiguration"/> to lookup the channel service property.
+             </summary>
+             <remarks>
+             This will populate the <see cref="P:Microsoft.Bot.Connector.Authentication.SimpleChannelProvider.ChannelService"/> from a configuration entry with the key of <see cref="F:Microsoft.Bot.Builder.BotFramework.ConfigurationChannelProvider.ChannelServiceKey"/>.
+            
+             NOTE: if the keys are not present, a <c>null</c> value will be used.
+             </remarks>
+        </member>
+        <member name="F:Microsoft.Bot.Builder.BotFramework.ConfigurationChannelProvider.ChannelServiceKey">
+            <summary>
+            The key for ChannelService.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.BotFramework.ConfigurationChannelProvider.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Microsoft.Bot.Builder.BotFramework.ConfigurationChannelProvider"/> class.
+            </summary>
+            <param name="configuration">An instance of <see cref="T:Microsoft.Extensions.Configuration.IConfiguration"/>.</param>
+        </member>
+        <member name="T:Microsoft.Bot.Builder.BotFramework.ConfigurationCredentialProvider">
+             <summary>
+             Credential provider which uses <see cref="T:Microsoft.Extensions.Configuration.IConfiguration"/> to lookup appId and password.
+             </summary>
+             <remarks>
+             This will populate the <see cref="P:Microsoft.Bot.Connector.Authentication.SimpleCredentialProvider.AppId"/> from an configuration entry with the key of <see cref="F:Microsoft.Bot.Connector.Authentication.MicrosoftAppCredentials.MicrosoftAppIdKey"/>
+             and the <see cref="P:Microsoft.Bot.Connector.Authentication.SimpleCredentialProvider.Password"/> from a configuration entry with the key of <see cref="F:Microsoft.Bot.Connector.Authentication.MicrosoftAppCredentials.MicrosoftAppPasswordKey"/>.
+            
+             NOTE: if the keys are not present, a <c>null</c> value will be used.
+             </remarks>
+        </member>
+        <member name="M:Microsoft.Bot.Builder.BotFramework.ConfigurationCredentialProvider.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Microsoft.Bot.Builder.BotFramework.ConfigurationCredentialProvider"/> class.
+            </summary>
+            <param name="configuration">An instance of <see cref="T:Microsoft.Extensions.Configuration.IConfiguration"/>.</param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,130 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_PLAYNORMAL          BITMAP  DISCARDABLE     "res\\playnormal.bmp"
+IDB_PLAYHOT             BITMAP  DISCARDABLE     "res\\playhot.bmp"
+IDB_PLAYDOWN            BITMAP  DISCARDABLE     "res\\playdown.bmp"
+IDB_CLOSENORMAL         BITMAP  DISCARDABLE     "res\\closenor.bmp"
+IDB_CLOSEDOWN           BITMAP  DISCARDABLE     "res\\closedown.bmp"
+IDB_CLOSEHOT            BITMAP  DISCARDABLE     "res\\closehot.bmp"
+IDB_OPENDOWN            BITMAP  DISCARDABLE     "res\\opendown.bmp"
+IDB_OPENHOT             BITMAP  DISCARDABLE     "res\\openhot.bmp"
+IDB_OPENNORMAL          BITMAP  DISCARDABLE     "res\\opennorm.bmp"
+IDB_STOPNORMAL          BITMAP  DISCARDABLE     "res\\stopnorm.bmp"
+IDB_PREVNORMAL          BITMAP  DISCARDABLE     "res\\prevnorm.bmp"
+IDB_NEXTNORMAL          BITMAP  DISCARDABLE     "res\\nextnorm.bmp"
+IDB_PLISTNORMAL         BITMAP  DISCARDABLE     "res\\plistnormal.bmp"
+IDB_PLISTDOWN           BITMAP  DISCARDABLE     "res\\plistdow.bmp"
+IDB_MINNORMAL           BITMAP  DISCARDABLE     "res\\minnorma.bmp"
+IDB_MINDOWN             BITMAP  DISCARDABLE     "res\\mindown.bmp"
+IDB_MINHOT              BITMAP  DISCARDABLE     "res\\minhot.bmp"
+IDB_NEXTHOT             BITMAP  DISCARDABLE     "res\\nexthot.bmp"
+IDB_NEXTDOWN            BITMAP  DISCARDABLE     "res\\nextdown.bmp"
+IDB_PREVHOT             BITMAP  DISCARDABLE     "res\\prevhot.bmp"
+IDB_PREVDOWN            BITMAP  DISCARDABLE     "res\\prevdown.bmp"
+IDB_STOPHOT             BITMAP  DISCARDABLE     "res\\stophot.bmp"
+IDB_STOPDOWN            BITMAP  DISCARDABLE     "res\\stopdown.bmp"
+IDB_MENUNORMAL          BITMAP  DISCARDABLE     "res\\optionno.bmp"
+IDB_MENUDOWN            BITMAP  DISCARDABLE     "res\\optiondo.bmp"
+IDB_MENUHOT             BITMAP  DISCARDABLE     "res\\optionho.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU DISCARDABLE 
+BEGIN
+    POPUP "옵션"
+    BEGIN
+        MENUITEM "순서대로",                    IDM_POPUP_REPSEQ
+        MENUITEM "한곡 반복",                   IDM_POPUP_REPONE
+        MENUITEM "전체 반복",                   IDM_POPUP_REPALL
+        MENUITEM "임의 순서",                   IDM_POPUP_RANDOM
+        MENUITEM SEPARATOR
+        MENUITEM "항상 위",                     IDM_POPUP_ATOP
+        MENUITEM "스팩트럼 보기",               IDM_POPUP_SPECTRUM
+        MENUITEM "프로그램 소개...",            IDM_POPUP_ABOUT
+    END
+    POPUP "드롭 옵션"
+    BEGIN
+        MENUITEM "모음 새로 작성",              IDM_POPUP_REMAKE
+        MENUITEM "기존 모음에 추가",            IDM_POPUP_ADDLIST
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON    DISCARDABLE     "icon1.ico"
+#endif    // Korean resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

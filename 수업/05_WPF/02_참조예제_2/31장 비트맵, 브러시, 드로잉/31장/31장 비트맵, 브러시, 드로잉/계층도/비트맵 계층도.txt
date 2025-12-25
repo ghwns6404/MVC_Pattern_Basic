@@ -1,0 +1,24 @@
+Object
+ DispatcherObject(abstract)
+  DependencyObject
+   Freezable(abstract)
+    Animatable(abstract)
+
+     -ImageSource(abstract)
+      BitmapSource(abstract)
+       BitmapFrame(abstract)
+       BitmapImage
+       CachedBitmap
+       ColorConvertedBitmap
+       CroppedBitmap
+       FormatConvertedBitmap
+       RenderTargetBitmap
+       TransformedBitmap
+      DrawingImage
+
+     -Drawing(abstract)    
+       DrawingGroup
+       GeometryDrawing
+       GlyphRunDrawing
+       ImageDrawing
+       VideoDrawing

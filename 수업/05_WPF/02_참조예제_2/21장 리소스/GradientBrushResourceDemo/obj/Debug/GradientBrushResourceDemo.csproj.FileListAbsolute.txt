@@ -1,0 +1,18 @@
+C:\Documents and Settings\woosong bit\바탕 화면\wpf\AppsCodeMarkup\Chapter 21\GradientBrushResourceDemo\bin\Debug\GradientBrushResourceDemo.exe
+C:\Documents and Settings\woosong bit\바탕 화면\wpf\AppsCodeMarkup\Chapter 21\GradientBrushResourceDemo\bin\Debug\GradientBrushResourceDemo.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\wpf\AppsCodeMarkup\Chapter 21\GradientBrushResourceDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\wpf\AppsCodeMarkup\Chapter 21\GradientBrushResourceDemo\obj\Debug\Window1.baml
+C:\Documents and Settings\woosong bit\바탕 화면\wpf\AppsCodeMarkup\Chapter 21\GradientBrushResourceDemo\obj\Debug\MyApp.baml
+C:\Documents and Settings\woosong bit\바탕 화면\wpf\AppsCodeMarkup\Chapter 21\GradientBrushResourceDemo\obj\Debug\Window1.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\wpf\AppsCodeMarkup\Chapter 21\GradientBrushResourceDemo\obj\Debug\MyApp.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\wpf\AppsCodeMarkup\Chapter 21\GradientBrushResourceDemo\obj\Debug\GradientBrushResourceDemo_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\wpf\AppsCodeMarkup\Chapter 21\GradientBrushResourceDemo\obj\Debug\GradientBrushResourceDemo.g.resources
+C:\Documents and Settings\woosong bit\바탕 화면\wpf\AppsCodeMarkup\Chapter 21\GradientBrushResourceDemo\obj\Debug\GradientBrushResourceDemo.Properties.Resources.resources
+C:\Documents and Settings\woosong bit\바탕 화면\wpf\AppsCodeMarkup\Chapter 21\GradientBrushResourceDemo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\woosong bit\바탕 화면\wpf\AppsCodeMarkup\Chapter 21\GradientBrushResourceDemo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\woosong bit\바탕 화면\wpf\AppsCodeMarkup\Chapter 21\GradientBrushResourceDemo\obj\Debug\GradientBrushResourceDemo.exe
+C:\Documents and Settings\woosong bit\바탕 화면\wpf\AppsCodeMarkup\Chapter 21\GradientBrushResourceDemo\obj\Debug\GradientBrushResourceDemo.pdb
+\\61.81.99.99\11_wpf\21장 리소스\GradientBrushResourceDemo\obj\Debug\GradientBrushResourceDemo.exe
+\\61.81.99.99\11_wpf\21장 리소스\GradientBrushResourceDemo\obj\Debug\GradientBrushResourceDemo.pdb
+\\61.81.99.99\woosong13\11_WPF\21장 리소스\GradientBrushResourceDemo\obj\Debug\GradientBrushResourceDemo.exe
+\\61.81.99.99\woosong13\11_WPF\21장 리소스\GradientBrushResourceDemo\obj\Debug\GradientBrushResourceDemo.pdb

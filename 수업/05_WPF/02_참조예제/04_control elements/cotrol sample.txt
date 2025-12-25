@@ -1,0 +1,251 @@
+<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    Title="Hello and Goodbye" Height="1000" Width="800"
+    >
+<StackPanel>
+
+<Button Width="75">Copy</Button>
+<Button Width="75" Command="Copy">Copy</Button>
+
+<StackPanel>
+<RadioButton GroupName="Fuel">Petrol</RadioButton>
+<RadioButton GroupName="Fuel">Diesel</RadioButton>
+
+<RadioButton GroupName="Induction">Unforced</RadioButton>
+<RadioButton GroupName="Induction">Mechanical supercharger</RadioButton>
+<RadioButton GroupName="Induction">Turbocharger</RadioButton>
+</StackPanel>
+
+<Button Width="75">
+<AccessText>_Button</AccessText>
+</Button>
+
+<ScrollViewer>
+<!-- Window content here -->
+</ScrollViewer>
+
+<StackPanel Orientation="Horizontal">
+<TextBox Margin="5" VerticalAlignment="Center" Text="Single line textbox" />
+<TextBox AcceptsReturn="True" Margin="5" Height="50"
+VerticalScrollBarVisibility="Visible"
+VerticalAlignment="Center" Text="Multiline textbox" />
+<PasswordBox Margin="5" VerticalAlignment="Center" Password="Un5ecure" />
+</StackPanel>
+
+<Label>this is a label</Label>
+
+<TextBox Width="100">
+<TextBox.ToolTip>
+<ToolTip Content="Type something here" />
+</TextBox.ToolTip>
+</TextBox>
+
+<TextBox Width="100">
+<TextBox.ToolTip>
+<TextBlock FontSize="25">
+<Ellipse Fill="Orange" Width="20" Height="20" />
+Plain text is <Italic>so</Italic>
+<Span FontFamily="Old English Text MT">last century</Span>
+<Ellipse Fill="Orange" Width="20" Height="20" />
+</TextBlock>
+</TextBox.ToolTip>
+</TextBox>
+
+<StackPanel Orientation="Horizontal">
+<GroupBox Header="Glass">
+<Border Margin="2" Background="White" Padding="3">
+<StackPanel>
+<RadioButton Content="Half-full" IsChecked="True" />
+<RadioButton Content="Half-empty" />
+</StackPanel>
+</Border>
+</GroupBox>
+<Expander Header="Glass" IsExpanded="True"
+Background="#def" VerticalAlignment="Center" MinWidth="90"
+Margin="10,0">
+<Border Margin="2" Background="White" Padding="3">
+<StackPanel>
+<RadioButton Content="Half-full" IsChecked="True" />
+<RadioButton Content="Half-empty" />
+</StackPanel>
+</Border>
+</Expander>
+</StackPanel>
+
+<GroupBox>
+<GroupBox.Header>
+<StackPanel Orientation="Horizontal">
+<TextBlock Text="Slightly " FontStyle="Italic" VerticalAlignment="Center" />
+<MediaElement Source="C:\Users\Public\Videos\Sample Videos\Butterfly.wmv"
+Width="80" />
+<TextBlock Text=" more " VerticalAlignment="Center" />
+<Ellipse Fill="Red" Width="20" Height="60" />
+<TextBlock Text=" interesting " VerticalAlignment="Center"
+FontWeight="Bold" />
+<Button Content="_header" VerticalAlignment="Center" />
+</StackPanel>
+</GroupBox.Header>
+<TextBlock Text="Boring content" />
+</GroupBox>
+
+<ComboBox>
+<Button>Click!</Button>
+<TextBlock>Hello, world</TextBlock>
+<StackPanel Orientation="Horizontal">
+<TextBlock>Ellipse:</TextBlock>
+<Ellipse Fill="Blue" Width="100" />
+</StackPanel>
+</ComboBox>
+
+
+<TabControl>
+<TabItem Header="_Button">
+<Button>Click!</Button>
+</TabItem>
+<TabItem>
+<TabItem.Header>
+<TextBlock FontSize="18" FontFamily="Palatino Linotype">
+<AccessText>_Text</AccessText>
+</TextBlock>
+</TabItem.Header>
+<TextBlock>Hello, world</TextBlock>
+</TabItem>
+<TabItem>
+<TabItem.Header>
+<Ellipse Fill="Blue" Width="30" Height="20" />
+</TabItem.Header>
+<StackPanel Orientation="Horizontal">
+<TextBlock>Ellipse:</TextBlock>
+<Ellipse Fill="Blue" Width="100" />
+</StackPanel>
+</TabItem>
+</TabControl>
+
+
+<ListView>
+<ListView.View>
+<GridView AllowsColumnReorder="true">
+<GridViewColumn Header="Name" />
+<GridViewColumn Header="Line Spacing" />
+<GridViewColumn Header="Sample" />
+</GridView>
+</ListView.View>
+</ListView>
+
+<TreeView>
+<TreeViewItem Header="First top-level item" IsExpanded="True">
+<TreeViewItem Header="Child" />
+<TreeViewItem Header="Another child" IsExpanded="True">
+<TreeViewItem Header="Grandchild" />
+<TreeViewItem Header="Grandchild 2" />
+</TreeViewItem>
+<TreeViewItem Header="A third child" />
+</TreeViewItem>
+<TreeViewItem Header="Second top-level item">
+<TreeViewItem Header="Child a" />
+<TreeViewItem Header="Child b" />
+<TreeViewItem Header="Child c" />
+</TreeViewItem>
+<TreeViewItem IsExpanded="True">
+<TreeViewItem.Header>
+<StackPanel Orientation="Horizontal">
+<Ellipse Fill="Blue" Width="15" Height="15" />
+<TextBlock Text="Third top-level item" />
+<Ellipse Fill="Blue" Width="15" Height="15" />
+</StackPanel>
+</TreeViewItem.Header>
+<TreeViewItem Header="Child a" />
+<TreeViewItem Header="Child b" />
+<TreeViewItem Header="Child c" />
+</TreeViewItem>
+</TreeView>
+
+<Menu>
+<MenuItem Header="_File">
+<MenuItem Header="_New" />
+<MenuItem Header="_Open..." />
+<MenuItem Header="_Save" />
+<MenuItem Header="Sa_ve As..." />
+<Separator />
+<MenuItem Header="Page Se_tup..." />
+<MenuItem Header="_Print..." />
+<Separator />
+<MenuItem Header="E_xit" />
+</MenuItem>
+<MenuItem Header="_Edit">
+<MenuItem Header="_Undo" Command="Undo"  />
+<MenuItem Header="_Redo" Command="Redo" />
+<Separator />
+<MenuItem Header="Cu_t" />
+<MenuItem Header="_Copy" />
+<MenuItem Header="_Paste" />
+<MenuItem Header="_Delete" />
+<Separator />
+<MenuItem Header="Select _All" />
+</MenuItem>
+<MenuItem Header="_Help">
+<MenuItem Header="Help _Topics" />
+<MenuItem Header="_About..." />
+</MenuItem>
+</Menu>
+
+<ToolBarTray>
+<ToolBar>
+<Button>
+<Canvas Width="16" Height="16" SnapsToDevicePixels="True">
+<Polygon Stroke="Black" StrokeThickness="0.5"
+Points="2.5,1.5 9.5,1.5 12.5,4.5 12.5,15 2.5,15">
+<Polygon.Fill>
+<LinearGradientBrush StartPoint="1,1" EndPoint="0.2,0.7">
+<GradientStop Offset="0" Color="#AAA" />
+<GradientStop Offset="1" Color="White" />
+</LinearGradientBrush>
+</Polygon.Fill>
+</Polygon>
+<Polygon Stroke="Black" Fill="DarkGray" StrokeThickness="0.5"
+StrokeLineJoin="Bevel"
+Points="9.5,1.5 9.5,4.5 12.5,4.5" />
+</Canvas>
+</Button>
+<Button>
+<Canvas Width="16" Height="16" >
+<Polygon Stroke="Black" StrokeThickness="0.5" Fill="Khaki"
+SnapsToDevicePixels="True"
+Points="0.5,14.5 0.5,4.5 1.5,3.5 6.5,3.5 8.5,5.5
+12.5,5.5 12.5,14.5" />
+<Polygon Stroke="Black" SnapsToDevicePixels="True"
+StrokeThickness="0.5"
+Points="1.5,14.5 4.5,7.5 15.5,7.5 12.5,14.5" >
+<Polygon.Fill>
+<LinearGradientBrush StartPoint="0.25,0" EndPoint="0.5,1">
+<GradientStop Offset="0" Color="#FF4" />
+<GradientStop Offset="1" Color="#CA7" />
+</LinearGradientBrush>
+</Polygon.Fill>
+</Polygon>
+<Path Stroke="Blue" StrokeThickness="1"
+Data="M 8,2 C 9,1 12,1 14,3" />
+<Polygon Fill="Blue" Points="15,1 15.5,4.5 12,4" />
+</Canvas>
+</Button>
+</ToolBar>
+<ToolBar>
+<Button>Second toolbar</Button>
+<CheckBox IsChecked="True">Choice</CheckBox>
+</ToolBar>
+</ToolBarTray>
+
+<Grid Height="100" Width="400">
+<Grid.ColumnDefinitions>
+<ColumnDefinition Width="1*" />
+<ColumnDefinition Width="6" />
+<ColumnDefinition Width="2*" />
+</Grid.ColumnDefinitions>
+<Ellipse Grid.Column="0" Fill="Red" />
+<GridSplitter Grid.Column="1" HorizontalAlignment="Stretch" />
+<Ellipse Grid.Column="2" Fill="Blue" />
+</Grid>
+
+</StackPanel>
+
+</Window >

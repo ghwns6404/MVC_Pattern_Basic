@@ -1,0 +1,5 @@
+bin\Debug\ToolTipExam.exe
+bin\Debug\ToolTipExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ToolTipExam.exe
+obj\Debug\ToolTipExam.pdb

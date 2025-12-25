@@ -1,0 +1,5 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 17\PrintaBunchaButtons\bin\Debug\PrintaBunchaButtons.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 17\PrintaBunchaButtons\bin\Debug\PrintaBunchaButtons.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 17\PrintaBunchaButtons\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 17\PrintaBunchaButtons\obj\Debug\PrintaBunchaButtons.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 17\PrintaBunchaButtons\obj\Debug\PrintaBunchaButtons.pdb

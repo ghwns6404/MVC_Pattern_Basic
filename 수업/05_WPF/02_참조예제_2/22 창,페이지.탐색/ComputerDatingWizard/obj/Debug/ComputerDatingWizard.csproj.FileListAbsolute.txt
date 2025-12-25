@@ -1,0 +1,44 @@
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\bin\Debug\ComputerDatingWizard.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\bin\Debug\ComputerDatingWizard.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\ComputerDatingWizard.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\WizardPage0.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\WizardPage1.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\WizardPage2.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\WizardPage3.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\WizardPage4.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\ComputerDatingWizard.g.cs
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\DirectoryPage.g.cs
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\WizardPage0.g.cs
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\WizardPage1.g.cs
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\WizardPage2.g.cs
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\WizardPage3.g.cs
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\WizardPage4.g.cs
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\ComputerDatingWizard_MarkupCompile.cache
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\ComputerDatingWizard_MarkupCompile.lref
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\DirectoryPage.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\ComputerDatingWizard.g.resources
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\ComputerDatingWizard.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\ComputerDatingWizard\obj\Debug\ComputerDatingWizard.pdb
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\ComputerDatingWizard.exe
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\ComputerDatingWizard.pdb
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\ResolveAssemblyReference.cache
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\ComputerDatingWizard.baml
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\WizardPage0.baml
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\WizardPage1.baml
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\WizardPage2.baml
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\WizardPage3.baml
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\WizardPage4.baml
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\ComputerDatingWizard.g.cs
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\DirectoryPage.g.cs
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\WizardPage0.g.cs
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\WizardPage1.g.cs
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\WizardPage2.g.cs
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\WizardPage3.g.cs
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\WizardPage4.g.cs
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\ComputerDatingWizard_MarkupCompile.cache
+D:\WOOSONG13\11_WPF\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\ComputerDatingWizard_MarkupCompile.lref
+\\61.81.99.99\c#\11_WPF 발표자료\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\ComputerDatingWizard.exe
+\\61.81.99.99\c#\11_WPF 발표자료\22 창,페이지.탐색\ComputerDatingWizard\obj\Debug\ComputerDatingWizard.pdb

@@ -1,0 +1,42 @@
+C:\Users\user\OneDrive\바탕 화면\BingoGameSample\BingoGameSample\bin\Debug\BingoGameSample.exe.config
+C:\Users\user\OneDrive\바탕 화면\BingoGameSample\BingoGameSample\bin\Debug\BingoGameSample.exe
+C:\Users\user\OneDrive\바탕 화면\BingoGameSample\BingoGameSample\bin\Debug\BingoGameSample.pdb
+C:\Users\user\OneDrive\바탕 화면\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\바탕 화면\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.Properties.Resources.resources
+C:\Users\user\OneDrive\바탕 화면\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\바탕 화면\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\바탕 화면\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.exe
+C:\Users\user\OneDrive\바탕 화면\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.pdb
+C:\Users\user\Desktop\BingoGameSample\BingoGameSample\BingoGameSample\bin\Debug\BingoGameSample.exe.config
+C:\Users\user\Desktop\BingoGameSample\BingoGameSample\BingoGameSample\bin\Debug\BingoGameSample.exe
+C:\Users\user\Desktop\BingoGameSample\BingoGameSample\BingoGameSample\bin\Debug\BingoGameSample.pdb
+C:\Users\user\Desktop\BingoGameSample\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BingoGameSample\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.BingoSingleBoard.resources
+C:\Users\user\Desktop\BingoGameSample\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.Form1.resources
+C:\Users\user\Desktop\BingoGameSample\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.Properties.Resources.resources
+C:\Users\user\Desktop\BingoGameSample\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.csproj.GenerateResource.cache
+C:\Users\user\Desktop\BingoGameSample\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BingoGameSample\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.exe
+C:\Users\user\Desktop\BingoGameSample\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.pdb
+C:\Users\user\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\bin\Debug\BingoGameSample.exe.config
+C:\Users\user\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\bin\Debug\BingoGameSample.exe
+C:\Users\user\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\bin\Debug\BingoGameSample.pdb
+C:\Users\user\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.BingoSingleBoard.resources
+C:\Users\user\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.Form1.resources
+C:\Users\user\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.Properties.Resources.resources
+C:\Users\user\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.csproj.GenerateResource.cache
+C:\Users\user\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.exe
+C:\Users\user\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.pdb
+C:\Users\bit1\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\bin\Debug\BingoGameSample.exe.config
+C:\Users\bit1\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\bin\Debug\BingoGameSample.exe
+C:\Users\bit1\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\bin\Debug\BingoGameSample.pdb
+C:\Users\bit1\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.BingoSingleBoard.resources
+C:\Users\bit1\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.Form1.resources
+C:\Users\bit1\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.Properties.Resources.resources
+C:\Users\bit1\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.csproj.GenerateResource.cache
+C:\Users\bit1\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.exe
+C:\Users\bit1\Desktop\BingoGameSample_ver1.0\BingoGameSample\BingoGameSample\obj\Debug\BingoGameSample.pdb

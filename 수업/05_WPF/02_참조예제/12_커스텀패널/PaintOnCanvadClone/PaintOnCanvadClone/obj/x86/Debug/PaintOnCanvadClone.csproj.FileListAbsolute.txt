@@ -1,0 +1,26 @@
+C:\Documents and Settings\woosong bit\바탕 화면\12chapter\PaintOnCanvadClone\PaintOnCanvadClone\bin\Debug\PaintOnCanvadClone.exe
+C:\Documents and Settings\woosong bit\바탕 화면\12chapter\PaintOnCanvadClone\PaintOnCanvadClone\bin\Debug\PaintOnCanvadClone.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\12chapter\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\12chapter\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\PaintOnCanvadClone.exe
+C:\Documents and Settings\woosong bit\바탕 화면\12chapter\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\PaintOnCanvadClone.pdb
+D:\WOOSONG13\11_WPF\12chapter\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\PaintOnCanvadClone.exe
+D:\WOOSONG13\11_WPF\12chapter\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\PaintOnCanvadClone.pdb
+D:\WOOSONG13\11_WPF\12chapter\PaintOnCanvadClone\PaintOnCanvadClone\bin\Debug\PaintOnCanvadClone.exe
+D:\WOOSONG13\11_WPF\12chapter\PaintOnCanvadClone\PaintOnCanvadClone\bin\Debug\PaintOnCanvadClone.pdb
+D:\WOOSONG13\11_WPF\12chapter\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12chapter\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\PaintOnCanvadClone.exe
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12chapter\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\PaintOnCanvadClone.pdb
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12chapter\PaintOnCanvadClone\PaintOnCanvadClone\bin\Debug\PaintOnCanvadClone.exe
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12chapter\PaintOnCanvadClone\PaintOnCanvadClone\bin\Debug\PaintOnCanvadClone.pdb
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12chapter\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12_커스텀패널\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\PaintOnCanvadClone.exe
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12_커스텀패널\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\PaintOnCanvadClone.pdb
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12커스텀패널\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\PaintOnCanvadClone.exe
+C:\Users\Administrator\Desktop\C#\WPF 발표자료\12커스텀패널\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\PaintOnCanvadClone.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\12_커스텀패널\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\PaintOnCanvadClone.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\12_커스텀패널\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\PaintOnCanvadClone.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\12_커스텀패널\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\PaintOnCanvadClone.exe
+\\61.81.99.99\c#\11_WPF 발표자료\12_커스텀패널\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\PaintOnCanvadClone.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\12_커스텀패널\PaintOnCanvadClone\PaintOnCanvadClone\bin\Debug\PaintOnCanvadClone.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\12_커스텀패널\PaintOnCanvadClone\PaintOnCanvadClone\bin\Debug\PaintOnCanvadClone.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\12_커스텀패널\PaintOnCanvadClone\PaintOnCanvadClone\obj\x86\Debug\ResolveAssemblyReference.cache

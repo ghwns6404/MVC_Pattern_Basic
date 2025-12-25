@@ -1,0 +1,12 @@
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListWithListBoxItems\bin\Debug\ListWithListBoxItems.exe
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListWithListBoxItems\bin\Debug\ListWithListBoxItems.pdb
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListWithListBoxItems\obj\Debug\ResolveAssemblyReference.cache
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListWithListBoxItems\obj\Debug\ListWithListBoxItems.exe
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListWithListBoxItems\obj\Debug\ListWithListBoxItems.pdb
+C:\Users\kingup\Desktop\07_리스트박스\07_ListWithListBoxItems\obj\Debug\ListWithListBoxItems.exe
+C:\Users\kingup\Desktop\07_리스트박스\07_ListWithListBoxItems\obj\Debug\ListWithListBoxItems.pdb
+C:\Users\kingup\Desktop\07_리스트박스\07_ListWithListBoxItems\bin\Debug\ListWithListBoxItems.exe
+C:\Users\kingup\Desktop\07_리스트박스\07_ListWithListBoxItems\bin\Debug\ListWithListBoxItems.pdb
+C:\Users\kingup\Desktop\07_리스트박스\07_ListWithListBoxItems\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\13_리스트박스\07_ListWithListBoxItems\obj\Debug\ListWithListBoxItems.exe
+C:\Documents and Settings\woosong bit\바탕 화면\13_리스트박스\07_ListWithListBoxItems\obj\Debug\ListWithListBoxItems.pdb

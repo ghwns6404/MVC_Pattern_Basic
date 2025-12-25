@@ -1,0 +1,162 @@
+#include <windows.h>
+
+LRESULT CALLBACK WndProc(HWND,UINT,WPARAM,LPARAM);
+HINSTANCE g_hInst;
+HWND hWndMain;
+LPCTSTR lpszClass=TEXT("TLS");
+
+int APIENTRY WinMain(HINSTANCE hInstance,HINSTANCE hPrevInstance
+	  ,LPSTR lpszCmdParam,int nCmdShow)
+{
+	HWND hWnd;
+	MSG Message;
+	WNDCLASS WndClass;
+	g_hInst=hInstance;
+
+	WndClass.cbClsExtra=0;
+	WndClass.cbWndExtra=0;
+	WndClass.hbrBackground=(HBRUSH)(COLOR_WINDOW+1);
+	WndClass.hCursor=LoadCursor(NULL,IDC_ARROW);
+	WndClass.hIcon=LoadIcon(NULL,IDI_APPLICATION);
+	WndClass.hInstance=hInstance;
+	WndClass.lpfnWndProc=WndProc;
+	WndClass.lpszClassName=lpszClass;
+	WndClass.lpszMenuName=NULL;
+	WndClass.style=CS_HREDRAW | CS_VREDRAW;
+	RegisterClass(&WndClass);
+
+	hWnd=CreateWindow(lpszClass,lpszClass,WS_OVERLAPPEDWINDOW,
+		CW_USEDEFAULT,CW_USEDEFAULT,CW_USEDEFAULT,CW_USEDEFAULT,
+		NULL,(HMENU)NULL,hInstance,NULL);
+	ShowWindow(hWnd,nCmdShow);
+
+	while (GetMessage(&Message,NULL,0,0)) {
+		TranslateMessage(&Message);
+		DispatchMessage(&Message);
+	}
+	return (int)Message.wParam;
+}
+
+//* TLS를 쓰지 않았을 때
+int GetCount()
+{
+	static int count=0;
+	return ++count;
+}
+
+DWORD WINAPI ThreadFunc(LPVOID temp)
+{
+	TCHAR str[128];
+	HDC hdc;
+	hdc=GetDC(hWndMain);
+	for (;;) {
+		wsprintf(str,"count=%d",GetCount());
+		TextOut(hdc,10,(int)temp,str,lstrlen(str));
+		Sleep(1000);
+	}
+	ReleaseDC(hWndMain, hdc);
+	return 0;
+}
+
+LRESULT CALLBACK WndProc(HWND hWnd,UINT iMessage,WPARAM wParam,LPARAM lParam)
+{
+	DWORD ThreadID;
+
+	switch (iMessage) {
+	case WM_CREATE:
+		hWndMain=hWnd;
+		CloseHandle(CreateThread(NULL, 0, ThreadFunc, (LPVOID)50, 0, &ThreadID));
+		CloseHandle(CreateThread(NULL, 0, ThreadFunc, (LPVOID)100, 0, &ThreadID));
+		return 0;
+	case WM_DESTROY:
+		PostQuitMessage(0);
+		return 0;
+	}
+	return(DefWindowProc(hWnd,iMessage,wParam,lParam));
+}
+//*/
+
+/* 동적 TLS 사용
+DWORD TlsIndex;
+int GetCount()
+{
+	int tcount;
+
+	tcount=(int)TlsGetValue(TlsIndex)+1;
+	TlsSetValue(TlsIndex,(LPVOID)(tcount));
+	return tcount;
+}
+
+DWORD WINAPI ThreadFunc(LPVOID temp)
+{
+	TCHAR str[128];
+	HDC hdc;
+	hdc=GetDC(hWndMain);
+	TlsSetValue(TlsIndex,(LPVOID)0);
+	for (;;) {
+		wsprintf(str,"count=%d",GetCount());
+		TextOut(hdc,10,(int)temp,str,lstrlen(str));
+		Sleep(1000);
+	}
+	ReleaseDC(hWndMain, hdc);
+	return 0;
+}
+
+LRESULT CALLBACK WndProc(HWND hWnd,UINT iMessage,WPARAM wParam,LPARAM lParam)
+{
+	DWORD ThreadID;
+
+	switch (iMessage) {
+	case WM_CREATE:
+		hWndMain=hWnd;
+		TlsIndex=TlsAlloc();
+		CloseHandle(CreateThread(NULL, 0, ThreadFunc, (LPVOID)50, 0, &ThreadID));
+		CloseHandle(CreateThread(NULL, 0, ThreadFunc, (LPVOID)100, 0, &ThreadID));
+		return 0;
+	case WM_DESTROY:
+		TlsFree(TlsIndex);
+		PostQuitMessage(0);
+		return 0;
+	}
+	return(DefWindowProc(hWnd,iMessage,wParam,lParam));
+}
+//*/
+
+/* 정적 TLS 사용
+int GetCount()
+{
+	__declspec(thread) static int count=0;
+	return ++count;
+}
+
+DWORD WINAPI ThreadFunc(LPVOID temp)
+{
+	TCHAR str[128];
+	HDC hdc;
+	hdc=GetDC(hWndMain);
+	for (;;) {
+		wsprintf(str,"count=%d",GetCount());
+		TextOut(hdc,10,(int)temp,str,lstrlen(str));
+		Sleep(1000);
+	}
+	ReleaseDC(hWndMain, hdc);
+	return 0;
+}
+
+LRESULT CALLBACK WndProc(HWND hWnd,UINT iMessage,WPARAM wParam,LPARAM lParam)
+{
+	DWORD ThreadID;
+
+	switch (iMessage) {
+	case WM_CREATE:
+		hWndMain=hWnd;
+		CloseHandle(CreateThread(NULL, 0, ThreadFunc, (LPVOID)50, 0, &ThreadID));
+		CloseHandle(CreateThread(NULL, 0, ThreadFunc, (LPVOID)100, 0, &ThreadID));
+		return 0;
+	case WM_DESTROY:
+		PostQuitMessage(0);
+		return 0;
+	}
+	return(DefWindowProc(hWnd,iMessage,wParam,lParam));
+}
+//*/

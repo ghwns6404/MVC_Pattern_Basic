@@ -1,0 +1,5 @@
+bin\Debug\SplitterExam.exe
+bin\Debug\SplitterExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SplitterExam.exe
+obj\Debug\SplitterExam.pdb

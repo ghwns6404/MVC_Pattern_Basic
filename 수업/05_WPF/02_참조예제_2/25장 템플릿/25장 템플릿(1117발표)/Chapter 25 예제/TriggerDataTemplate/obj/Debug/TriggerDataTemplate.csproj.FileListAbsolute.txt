@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\TriggerDataTemplate\bin\Debug\TriggerDataTemplate.exe
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\TriggerDataTemplate\bin\Debug\TriggerDataTemplate.pdb
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\TriggerDataTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\TriggerDataTemplate\obj\Debug\TriggerDataTemplate.g.cs
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\TriggerDataTemplate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\TriggerDataTemplate\obj\Debug\TriggerDataTemplate_MarkupCompile.cache
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\TriggerDataTemplate\obj\Debug\TriggerDataTemplate_MarkupCompile.lref
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\TriggerDataTemplate\obj\Debug\TriggerDataTemplate.baml
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\TriggerDataTemplate\obj\Debug\TriggerDataTemplate.g.resources
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\TriggerDataTemplate\obj\Debug\TriggerDataTemplate.exe
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\TriggerDataTemplate\obj\Debug\TriggerDataTemplate.pdb

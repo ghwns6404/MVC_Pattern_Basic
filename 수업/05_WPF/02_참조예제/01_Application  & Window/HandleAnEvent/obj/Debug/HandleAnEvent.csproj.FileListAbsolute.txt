@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\HandleAnEvent\bin\Debug\HandleAnEvent.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\HandleAnEvent\bin\Debug\HandleAnEvent.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\HandleAnEvent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\HandleAnEvent\obj\Debug\HandleAnEvent.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\01_Chapter\HandleAnEvent\obj\Debug\HandleAnEvent.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\01_Chapter\HandleAnEvent\obj\Debug\HandleAnEvent.exe
+\\61.81.99.99\c#\11_WPF 발표자료\01_Chapter\HandleAnEvent\obj\Debug\HandleAnEvent.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\01_Chapter\HandleAnEvent\bin\Debug\HandleAnEvent.exe
+\\61.81.99.99\c#\11_WPF 발표자료\01_Chapter\HandleAnEvent\bin\Debug\HandleAnEvent.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\01_Chapter\HandleAnEvent\obj\Debug\ResolveAssemblyReference.cache

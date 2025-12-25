@@ -1,0 +1,16 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 25\EmployeeWheel\bin\Debug\EmployeeWheel.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 25\EmployeeWheel\bin\Debug\EmployeeWheel.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheelWindow.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheelApp.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheel_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheel_MarkupCompile.lref
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheelWindow.baml
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheel.g.resources
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheel.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheel.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\25장 템플릿\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheel.exe
+C:\Documents and Settings\woosong bit\바탕 화면\25장 템플릿\Chapter 25\EmployeeWheel\obj\Debug\EmployeeWheel.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\25장 템플릿\EmployeeWheel\obj\Debug\EmployeeWheel.exe
+C:\Documents and Settings\woosong bit\바탕 화면\25장 템플릿\EmployeeWheel\obj\Debug\EmployeeWheel.pdb

@@ -1,0 +1,12 @@
+C:\TEST\Chapter 20\XamlCruncher\bin\Debug\XamlCruncher.exe
+C:\TEST\Chapter 20\XamlCruncher\bin\Debug\XamlCruncher.pdb
+C:\TEST\Chapter 20\XamlCruncher\obj\Debug\ResolveAssemblyReference.cache
+C:\TEST\Chapter 20\XamlCruncher\obj\Debug\XamlTabSpacesDialog.baml
+C:\TEST\Chapter 20\XamlCruncher\obj\Debug\XamlTabSpacesDialog.g.cs
+C:\TEST\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher_Content.g.cs
+C:\TEST\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher_MarkupCompile.cache
+C:\TEST\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher.g.resources
+C:\TEST\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher.exe
+C:\TEST\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher.pdb
+C:\Users\Administrator\Desktop\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher.exe
+C:\Users\Administrator\Desktop\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher.pdb

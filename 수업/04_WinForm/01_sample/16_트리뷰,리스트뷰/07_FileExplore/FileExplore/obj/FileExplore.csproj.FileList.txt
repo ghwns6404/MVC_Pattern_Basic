@@ -1,0 +1,9 @@
+bin\Debug\FileExplore.exe
+bin\Debug\FileExplore.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FileExplore.Properties.Resources.resources
+obj\Debug\FileExplore.csproj.GenerateResource.Cache
+obj\Debug\FileExplore.exe
+obj\Debug\FileExplore.pdb
+obj\Debug\FileExplore.MainWnd.resources
+obj\Debug\FileExplore.LoadingWnd.resources

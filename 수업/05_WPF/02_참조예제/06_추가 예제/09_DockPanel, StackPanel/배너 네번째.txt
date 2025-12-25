@@ -1,0 +1,21 @@
+<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    Title="Employee Directory" Height="480" Width="640"
+    >
+<Grid>
+
+   <Border
+      DockPanel.Dock="Top"
+      BorderBrush="Black"
+      BorderThickness="1"
+      Height="70">
+      <Label 
+         FontFamily="Verdana"  
+         FontSize="32" 
+         HorizontalAlignment="Center">
+	ACME Software Employee Directory
+	</Label>
+   </Border>
+
+</Grid>
+</Window>

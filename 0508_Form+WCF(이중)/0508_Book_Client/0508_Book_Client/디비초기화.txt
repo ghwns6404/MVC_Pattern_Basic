@@ -1,0 +1,8 @@
+﻿DB날리기
+
+ALTER TABLE Book NOCHECK CONSTRAINT ALL;
+DELETE FROM Book;
+DBCC CHECKIDENT ('Book', RESEED, 0);
+ALTER TABLE Book CHECK CONSTRAINT ALL;
+
+-----------------------------------------------

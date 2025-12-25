@@ -1,0 +1,18 @@
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\XamlClock\bin\Debug\XamlClock.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\XamlClock\bin\Debug\XamlClock.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\XamlClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\XamlClock\obj\Debug\XamlClock.baml
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\XamlClock\obj\Debug\XamlClock.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\XamlClock\obj\Debug\XamlClock_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\XamlClock\obj\Debug\XamlClock.g.resources
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\XamlClock\obj\Debug\XamlClock.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Chapter 30\XamlClock\obj\Debug\XamlClock.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\22 - p1180\obj\Debug\XamlClock.exe
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\22 - p1180\obj\Debug\XamlClock.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\22 - p1180\bin\Debug\XamlClock.exe
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\22 - p1180\bin\Debug\XamlClock.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\22 - p1180\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\22 - p1180\obj\Debug\XamlClock.baml
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\22 - p1180\obj\Debug\XamlClock.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\22 - p1180\obj\Debug\XamlClock_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\22 - p1180\obj\Debug\XamlClock.g.resources

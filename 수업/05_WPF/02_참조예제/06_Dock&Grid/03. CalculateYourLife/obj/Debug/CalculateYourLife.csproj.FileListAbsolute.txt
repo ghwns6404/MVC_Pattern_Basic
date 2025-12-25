@@ -1,0 +1,5 @@
+\\61.81.99.99\c#\11_WPF 발표자료\06_Dock&Grid\03. CalculateYourLife\bin\Debug\LifeYears.exe
+\\61.81.99.99\c#\11_WPF 발표자료\06_Dock&Grid\03. CalculateYourLife\bin\Debug\LifeYears.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\06_Dock&Grid\03. CalculateYourLife\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\06_Dock&Grid\03. CalculateYourLife\obj\Debug\LifeYears.exe
+\\61.81.99.99\c#\11_WPF 발표자료\06_Dock&Grid\03. CalculateYourLife\obj\Debug\LifeYears.pdb

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{821054D2-BC38-42F5-A1B1-622DB8830E99}|0507_PictureService\\0507_PictureService.csproj|c:\\users\\bit1\\desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_pictureservice\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821054D2-BC38-42F5-A1B1-622DB8830E99}|0507_PictureService\\0507_PictureService.csproj|solutionrelative:0507_pictureservice\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821054D2-BC38-42F5-A1B1-622DB8830E99}|0507_PictureService\\0507_PictureService.csproj|C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_pictureservice\\cbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821054D2-BC38-42F5-A1B1-622DB8830E99}|0507_PictureService\\0507_PictureService.csproj|solutionrelative:0507_pictureservice\\cbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821054D2-BC38-42F5-A1B1-622DB8830E99}|0507_PictureService\\0507_PictureService.csproj|C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_pictureservice\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821054D2-BC38-42F5-A1B1-622DB8830E99}|0507_PictureService\\0507_PictureService.csproj|solutionrelative:0507_pictureservice\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821054D2-BC38-42F5-A1B1-622DB8830E99}|0507_PictureService\\0507_PictureService.csproj|C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_pictureservice\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821054D2-BC38-42F5-A1B1-622DB8830E99}|0507_PictureService\\0507_PictureService.csproj|solutionrelative:0507_pictureservice\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821054D2-BC38-42F5-A1B1-622DB8830E99}|0507_PictureService\\0507_PictureService.csproj|C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_pictureservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821054D2-BC38-42F5-A1B1-622DB8830E99}|0507_PictureService\\0507_PictureService.csproj|solutionrelative:0507_pictureservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821054D2-BC38-42F5-A1B1-622DB8830E99}|0507_PictureService\\0507_PictureService.csproj|C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_pictureservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{821054D2-BC38-42F5-A1B1-622DB8830E99}|0507_PictureService\\0507_PictureService.csproj|solutionrelative:0507_pictureservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_PictureService\\Book.cs",
+              "RelativeDocumentMoniker": "0507_PictureService\\Book.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_PictureService\\Book.cs",
+              "RelativeToolTip": "0507_PictureService\\Book.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:15:26.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CBook.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_PictureService\\CBook.cs",
+              "RelativeDocumentMoniker": "0507_PictureService\\CBook.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_PictureService\\CBook.cs",
+              "RelativeToolTip": "0507_PictureService\\CBook.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:12:04.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_PictureService\\IBook.cs",
+              "RelativeDocumentMoniker": "0507_PictureService\\IBook.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_PictureService\\IBook.cs",
+              "RelativeToolTip": "0507_PictureService\\IBook.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:04:45.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_PictureService\\Program.cs",
+              "RelativeDocumentMoniker": "0507_PictureService\\Program.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_PictureService\\Program.cs",
+              "RelativeToolTip": "0507_PictureService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:00:45.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_PictureService\\App.config",
+              "RelativeDocumentMoniker": "0507_PictureService\\App.config",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_PictureService\\App.config",
+              "RelativeToolTip": "0507_PictureService\\App.config",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-07T05:23:52.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDB.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_PictureService\\MyDB.cs",
+              "RelativeDocumentMoniker": "0507_PictureService\\MyDB.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0507_\uB3C4\uC11C_\uC11C\uBE44\uC2A4\\0507_PictureService\\MyDB.cs",
+              "RelativeToolTip": "0507_PictureService\\MyDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:41:09.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

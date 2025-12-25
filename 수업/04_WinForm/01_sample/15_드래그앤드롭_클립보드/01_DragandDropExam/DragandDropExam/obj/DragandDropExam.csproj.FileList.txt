@@ -1,0 +1,8 @@
+bin\Debug\DragandDropExam.exe
+bin\Debug\DragandDropExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DragandDropExam.Form1.resources
+obj\Debug\DragandDropExam.Properties.Resources.resources
+obj\Debug\DragandDropExam.csproj.GenerateResource.Cache
+obj\Debug\DragandDropExam.exe
+obj\Debug\DragandDropExam.pdb

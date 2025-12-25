@@ -1,0 +1,43 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\ColorScroll\bin\Debug\ColorScroll.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\ColorScroll\bin\Debug\ColorScroll.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\ColorScroll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\ColorScroll\obj\Debug\ColorScrollApp.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\ColorScroll\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\ColorScroll\obj\Debug\ColorScroll_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\ColorScroll\obj\Debug\ColorScroll_MarkupCompile.lref
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\ColorScroll\obj\Debug\ColorScrollPage.baml
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\ColorScroll\obj\Debug\ColorScroll.g.resources
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\ColorScroll\obj\Debug\ColorScroll.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\ColorScroll\obj\Debug\ColorScroll.pdb
+C:\Users\Administrator\Desktop\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScroll.exe
+C:\Users\Administrator\Desktop\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScroll.pdb
+C:\Users\Administrator\Desktop\23장 데이터바인딩\ColorScroll\bin\Debug\ColorScroll.exe
+C:\Users\Administrator\Desktop\23장 데이터바인딩\ColorScroll\bin\Debug\ColorScroll.pdb
+C:\Users\Administrator\Desktop\23장 데이터바인딩\ColorScroll\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScrollApp.g.cs
+C:\Users\Administrator\Desktop\23장 데이터바인딩\ColorScroll\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScroll_MarkupCompile.cache
+C:\Users\Administrator\Desktop\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScroll_MarkupCompile.lref
+C:\Users\Administrator\Desktop\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScrollPage.baml
+C:\Users\Administrator\Desktop\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScroll.g.resources
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScroll.exe
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScroll.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\bin\Debug\ColorScroll.exe
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\bin\Debug\ColorScroll.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScrollApp.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScroll_MarkupCompile.cache
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScroll_MarkupCompile.lref
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScrollPage.baml
+\\61.81.99.99\c#\11_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScroll.g.resources
+C:\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScroll.exe
+C:\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScroll.pdb
+C:\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\bin\Debug\ColorScroll.exe
+C:\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\bin\Debug\ColorScroll.pdb
+C:\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScrollApp.g.cs
+C:\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScroll_MarkupCompile.cache
+C:\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScroll_MarkupCompile.lref
+C:\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScrollPage.baml
+C:\Users\공유폴더\고급17기\08.NET3.5발표자료\02_WPF\00_WPF 발표자료\23장 데이터바인딩\23장 데이터바인딩\ColorScroll\obj\Debug\ColorScroll.g.resources

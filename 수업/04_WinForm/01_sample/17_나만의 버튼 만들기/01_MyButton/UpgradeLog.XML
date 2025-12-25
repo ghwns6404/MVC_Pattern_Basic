@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MyButton">
+</Property><Property Name="솔루션 파일" Value="E:\C#Bible2006\소스코드\ch10\10-17\MyButton\MyButton.sln">
+</Property><Property Name="사용자 옵션 파일" Value="E:\C#Bible2006\소스코드\ch10\10-17\MyButton\MyButton.suo">
+</Property><Property Name="Date" Value="2006년 9월 6일 수요일">
+</Property><Property Name="Time" Value="오전 5:49">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MyButton.sln" Description="파일을 E:\C#Bible2006\소스코드\ch10\10-17\MyButton\Backup\MyButton.sln(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="MyButton.suo" Description="파일을 E:\C#Bible2006\소스코드\ch10\10-17\MyButton\Backup\MyButton.suo(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MyButton" Source="MyButton.csproj" Description="프로젝트 파일을 E:\C#Bible2006\소스코드\ch10\10-17\MyButton\Backup\MyButton.csproj(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MyButton" Source="MyButton.csproj.user" Description="프로젝트 사용자 파일을 E:\C#Bible2006\소스코드\ch10\10-17\MyButton\Backup\MyButton.csproj.user(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MyButton" Source="AssemblyInfo.cs" Description="파일을 E:\C#Bible2006\소스코드\ch10\10-17\MyButton\Backup\AssemblyInfo.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MyButton" Source="Form1.cs" Description="파일을 E:\C#Bible2006\소스코드\ch10\10-17\MyButton\Backup\Form1.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MyButton" Source="RainbowButton.cs" Description="파일을 E:\C#Bible2006\소스코드\ch10\10-17\MyButton\Backup\RainbowButton.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MyButton" Source="RainbowButton2.cs" Description="파일을 E:\C#Bible2006\소스코드\ch10\10-17\MyButton\Backup\RainbowButton2.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MyButton" Source="RainbowButton3.cs" Description="파일을 E:\C#Bible2006\소스코드\ch10\10-17\MyButton\Backup\RainbowButton3.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MyButton" Source="App.ico" Description="파일을 E:\C#Bible2006\소스코드\ch10\10-17\MyButton\Backup\App.ico(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MyButton" Source="Form1.resx" Description="파일을 E:\C#Bible2006\소스코드\ch10\10-17\MyButton\Backup\Form1.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MyButton" Source="MyButton.csproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="MyButton" Source="MyButton.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MyButton.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="MyButton.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyButton" Source="MyButton.csproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>

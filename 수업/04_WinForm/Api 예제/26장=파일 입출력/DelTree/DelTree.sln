@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DelTree", "DelTree.vcproj", "{8D5FBEF9-522E-4127-B26D-73C412110655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D5FBEF9-522E-4127-B26D-73C412110655}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8D5FBEF9-522E-4127-B26D-73C412110655}.Debug|Win32.Build.0 = Debug|Win32
+		{8D5FBEF9-522E-4127-B26D-73C412110655}.Release|Win32.ActiveCfg = Release|Win32
+		{8D5FBEF9-522E-4127-B26D-73C412110655}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Moving", "Moving.vcproj", "{EE378E0B-69C4-4E5C-9C66-A7FE226CFAB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE378E0B-69C4-4E5C-9C66-A7FE226CFAB0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE378E0B-69C4-4E5C-9C66-A7FE226CFAB0}.Debug|Win32.Build.0 = Debug|Win32
+		{EE378E0B-69C4-4E5C-9C66-A7FE226CFAB0}.Release|Win32.ActiveCfg = Release|Win32
+		{EE378E0B-69C4-4E5C-9C66-A7FE226CFAB0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

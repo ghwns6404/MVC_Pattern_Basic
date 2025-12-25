@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DDEExam1", "DDEExam1\DDEExam1.vcproj", "{8A798283-4E6E-425D-8CDC-28071908CD01}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DDEExam2", "DDEExam2\DDEExam2.vcproj", "{6AB5E277-E1FA-46A1-9BE6-284D7F9ACCD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A798283-4E6E-425D-8CDC-28071908CD01}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8A798283-4E6E-425D-8CDC-28071908CD01}.Debug|Win32.Build.0 = Debug|Win32
+		{8A798283-4E6E-425D-8CDC-28071908CD01}.Release|Win32.ActiveCfg = Release|Win32
+		{8A798283-4E6E-425D-8CDC-28071908CD01}.Release|Win32.Build.0 = Release|Win32
+		{6AB5E277-E1FA-46A1-9BE6-284D7F9ACCD0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6AB5E277-E1FA-46A1-9BE6-284D7F9ACCD0}.Debug|Win32.Build.0 = Debug|Win32
+		{6AB5E277-E1FA-46A1-9BE6-284D7F9ACCD0}.Release|Win32.ActiveCfg = Release|Win32
+		{6AB5E277-E1FA-46A1-9BE6-284D7F9ACCD0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

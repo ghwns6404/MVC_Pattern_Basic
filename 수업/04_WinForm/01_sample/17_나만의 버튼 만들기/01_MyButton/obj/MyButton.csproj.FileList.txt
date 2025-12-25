@@ -1,0 +1,7 @@
+obj\Debug\MyButton.exe
+obj\Debug\MyButton.pdb
+bin\Debug\MyButton.exe
+bin\Debug\MyButton.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyButton.Form1.resources
+obj\Debug\MyButton.csproj.GenerateResource.Cache

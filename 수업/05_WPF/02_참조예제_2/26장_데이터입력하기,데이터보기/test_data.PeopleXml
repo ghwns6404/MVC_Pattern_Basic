@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <FirstName>긔요미</FirstName>
+    <MiddleName />
+    <LastName>소영님</LastName>
+    <BirthDate>1802-07-01</BirthDate>
+    <DeathDate>1901-12-02</DeathDate>
+  </Person>
+  <Person>
+    <FirstName>찰스</FirstName>
+    <MiddleName />
+    <LastName>페졸드</LastName>
+    <BirthDate>1800-01-01</BirthDate>
+    <DeathDate xsi:nil="true" />
+  </Person>
+  <Person>
+    <FirstName>살빼면 탑</FirstName>
+    <MiddleName>소가</MiddleName>
+    <LastName>밥먹으면 소식</LastName>
+    <BirthDate>1803-01-27</BirthDate>
+    <DeathDate xsi:nil="true" />
+  </Person>
+  <Person>
+    <FirstName>&lt;first name&gt;</FirstName>
+    <MiddleName />
+    <LastName>&lt;last name&gt;</LastName>
+    <BirthDate>1800-01-01</BirthDate>
+    <DeathDate>1900-12-31</DeathDate>
+  </Person>
+</ArrayOfPerson>

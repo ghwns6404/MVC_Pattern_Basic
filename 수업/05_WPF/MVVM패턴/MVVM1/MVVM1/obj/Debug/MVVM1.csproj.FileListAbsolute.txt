@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\바탕 화면\MVVM1\MVVM1\bin\Debug\MVVM1.exe.config
+C:\Users\user\OneDrive\바탕 화면\MVVM1\MVVM1\bin\Debug\MVVM1.exe
+C:\Users\user\OneDrive\바탕 화면\MVVM1\MVVM1\bin\Debug\MVVM1.pdb
+C:\Users\user\OneDrive\바탕 화면\MVVM1\MVVM1\obj\Debug\MVVM1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\바탕 화면\MVVM1\MVVM1\obj\Debug\View\MainWindow.g.cs
+C:\Users\user\OneDrive\바탕 화면\MVVM1\MVVM1\obj\Debug\App.g.cs
+C:\Users\user\OneDrive\바탕 화면\MVVM1\MVVM1\obj\Debug\MVVM1_MarkupCompile.cache
+C:\Users\user\OneDrive\바탕 화면\MVVM1\MVVM1\obj\Debug\MVVM1_MarkupCompile.lref
+C:\Users\user\OneDrive\바탕 화면\MVVM1\MVVM1\obj\Debug\View\MainWindow.baml
+C:\Users\user\OneDrive\바탕 화면\MVVM1\MVVM1\obj\Debug\MVVM1.g.resources
+C:\Users\user\OneDrive\바탕 화면\MVVM1\MVVM1\obj\Debug\MVVM1.Properties.Resources.resources
+C:\Users\user\OneDrive\바탕 화면\MVVM1\MVVM1\obj\Debug\MVVM1.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\바탕 화면\MVVM1\MVVM1\obj\Debug\MVVM1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\바탕 화면\MVVM1\MVVM1\obj\Debug\MVVM1.exe
+C:\Users\user\OneDrive\바탕 화면\MVVM1\MVVM1\obj\Debug\MVVM1.pdb
+C:\Users\user\OneDrive\바탕 화면\MVVM1\MVVM1\obj\Debug\GeneratedInternalTypeHelper.g.cs

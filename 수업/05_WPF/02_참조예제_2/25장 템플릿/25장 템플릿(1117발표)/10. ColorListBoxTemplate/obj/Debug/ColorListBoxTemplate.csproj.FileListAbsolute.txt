@@ -1,0 +1,28 @@
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\bin\Debug\ColorListBoxTemplate.exe
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\bin\Debug\ColorListBoxTemplate.pdb
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\obj\Debug\ColorListBoxTemplateApp.g.cs
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate_MarkupCompile.cache
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate_MarkupCompile.lref
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\obj\Debug\ColorListBoxTemplateWindow.baml
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate.g.resources
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate.exe
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate.pdb
+C:\Users\Administrator\Desktop\25장 템플릿\10. ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate.exe
+C:\Users\Administrator\Desktop\25장 템플릿\10. ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\10. ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate.exe
+\\61.81.99.99\c#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\10. ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\10. ColorListBoxTemplate\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\10. ColorListBoxTemplate\obj\Debug\ColorListBoxTemplateApp.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\10. ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate_MarkupCompile.cache
+\\61.81.99.99\c#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\10. ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate_MarkupCompile.lref
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\10. ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\10. ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\10. ColorListBoxTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\10. ColorListBoxTemplate\obj\Debug\ColorListBoxTemplateApp.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\10. ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate_MarkupCompile.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\10. ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate_MarkupCompile.lref
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\10. ColorListBoxTemplate\bin\Debug\ColorListBoxTemplate.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\10. ColorListBoxTemplate\bin\Debug\ColorListBoxTemplate.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\10. ColorListBoxTemplate\obj\Debug\ColorListBoxTemplateWindow.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\10. ColorListBoxTemplate\obj\Debug\ColorListBoxTemplate.g.resources

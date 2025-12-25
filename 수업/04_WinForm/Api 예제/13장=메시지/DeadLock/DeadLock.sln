@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Send1", "Send1\Send1.vcproj", "{4697720C-98B3-4F02-A080-2D80FD041D36}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Send2", "Send2\Send2.vcproj", "{022E6A5E-DF55-49CB-985D-B77DE351F297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4697720C-98B3-4F02-A080-2D80FD041D36}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4697720C-98B3-4F02-A080-2D80FD041D36}.Debug|Win32.Build.0 = Debug|Win32
+		{4697720C-98B3-4F02-A080-2D80FD041D36}.Release|Win32.ActiveCfg = Release|Win32
+		{4697720C-98B3-4F02-A080-2D80FD041D36}.Release|Win32.Build.0 = Release|Win32
+		{022E6A5E-DF55-49CB-985D-B77DE351F297}.Debug|Win32.ActiveCfg = Debug|Win32
+		{022E6A5E-DF55-49CB-985D-B77DE351F297}.Debug|Win32.Build.0 = Debug|Win32
+		{022E6A5E-DF55-49CB-985D-B77DE351F297}.Release|Win32.ActiveCfg = Release|Win32
+		{022E6A5E-DF55-49CB-985D-B77DE351F297}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

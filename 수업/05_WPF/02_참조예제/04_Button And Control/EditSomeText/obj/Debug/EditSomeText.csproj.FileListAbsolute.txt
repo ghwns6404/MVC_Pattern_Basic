@@ -1,0 +1,19 @@
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\EditSomeText\bin\Debug\EditSomeText.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\EditSomeText\bin\Debug\EditSomeText.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\EditSomeText\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\EditSomeText\obj\Debug\EditSomeText.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 04\EditSomeText\obj\Debug\EditSomeText.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\4과 발표 자료\EditSomeText\obj\Debug\EditSomeText.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\4과 발표 자료\EditSomeText\obj\Debug\EditSomeText.pdb
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\자료\04_Button And Control\EditSomeText\obj\Debug\EditSomeText.exe
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\자료\04_Button And Control\EditSomeText\obj\Debug\EditSomeText.pdb
+D:\WOOSONG13\11_WPF\04_Button And Control\EditSomeText\obj\Debug\EditSomeText.exe
+D:\WOOSONG13\11_WPF\04_Button And Control\EditSomeText\obj\Debug\EditSomeText.pdb
+D:\WOOSONG13\11_WPF\04_Button And Control\EditSomeText\bin\Debug\EditSomeText.exe
+D:\WOOSONG13\11_WPF\04_Button And Control\EditSomeText\bin\Debug\EditSomeText.pdb
+D:\WOOSONG13\11_WPF\04_Button And Control\EditSomeText\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\11_wpf\04_Button And Control\EditSomeText\obj\Debug\EditSomeText.exe
+\\61.81.99.99\11_wpf\04_Button And Control\EditSomeText\obj\Debug\EditSomeText.pdb
+\\61.81.99.99\11_wpf\04_Button And Control\EditSomeText\bin\Debug\EditSomeText.exe
+\\61.81.99.99\11_wpf\04_Button And Control\EditSomeText\bin\Debug\EditSomeText.pdb
+\\61.81.99.99\11_wpf\04_Button And Control\EditSomeText\obj\Debug\ResolveAssemblyReference.cache

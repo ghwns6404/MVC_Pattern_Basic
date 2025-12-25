@@ -1,0 +1,10 @@
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListColorsElegantly\bin\Debug\ListColorsElegantly.exe
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListColorsElegantly\bin\Debug\ListColorsElegantly.pdb
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListColorsElegantly\obj\Debug\ResolveAssemblyReference.cache
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListColorsElegantly\obj\Debug\ListColorsElegantly.exe
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListColorsElegantly\obj\Debug\ListColorsElegantly.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\13_리스트박스\08_ListColorsElegantly(356)\obj\Debug\ListColorsElegantly.exe
+C:\Documents and Settings\woosong bit\바탕 화면\13_리스트박스\08_ListColorsElegantly(356)\obj\Debug\ListColorsElegantly.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\13_리스트박스\08_ListColorsElegantly(356)\bin\Debug\ListColorsElegantly.exe
+C:\Documents and Settings\woosong bit\바탕 화면\13_리스트박스\08_ListColorsElegantly(356)\bin\Debug\ListColorsElegantly.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\13_리스트박스\08_ListColorsElegantly(356)\obj\Debug\ResolveAssemblyReference.cache

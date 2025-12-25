@@ -1,0 +1,52 @@
+C:\Users\bit1\Desktop\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\_관리프로그램Vol_5.Form1.resources
+C:\Users\bit1\Desktop\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\_관리프로그램Vol_5.LoginForm.resources
+C:\Users\bit1\Desktop\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\_관리프로그램Vol_5.Logs.resources
+C:\Users\bit1\Desktop\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\_관리프로그램Vol_5.SearchForm.resources
+C:\Users\bit1\Desktop\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.Properties.Resources.resources
+C:\Users\bit1\Desktop\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.csproj.GenerateResource.cache
+C:\Users\bit1\Desktop\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\관리프로그램Vol_5\관리프로그램Vol_5\bin\Debug\관리프로그램Vol_5.exe.config
+C:\Users\bit1\Desktop\관리프로그램Vol_5\관리프로그램Vol_5\bin\Debug\관리프로그램Vol_5.exe
+C:\Users\bit1\Desktop\관리프로그램Vol_5\관리프로그램Vol_5\bin\Debug\관리프로그램Vol_5.pdb
+C:\Users\bit1\Desktop\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.exe
+C:\Users\bit1\Desktop\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.pdb
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5\관리프로그램Vol_5\bin\Debug\관리프로그램Vol_5.exe.config
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5\관리프로그램Vol_5\bin\Debug\관리프로그램Vol_5.exe
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5\관리프로그램Vol_5\bin\Debug\관리프로그램Vol_5.pdb
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\_관리프로그램Vol_5.Form1.resources
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\_관리프로그램Vol_5.LoginForm.resources
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\_관리프로그램Vol_5.Logs.resources
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\_관리프로그램Vol_5.SearchForm.resources
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.Properties.Resources.resources
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.csproj.GenerateResource.cache
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.exe
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.pdb
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5 - 수정본\관리프로그램Vol_5\bin\Debug\관리프로그램Vol_5.exe.config
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5 - 수정본\관리프로그램Vol_5\bin\Debug\관리프로그램Vol_5.exe
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5 - 수정본\관리프로그램Vol_5\bin\Debug\관리프로그램Vol_5.pdb
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5 - 수정본\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5 - 수정본\관리프로그램Vol_5\obj\Debug\_관리프로그램Vol_5.Form1.resources
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5 - 수정본\관리프로그램Vol_5\obj\Debug\_관리프로그램Vol_5.LoginForm.resources
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5 - 수정본\관리프로그램Vol_5\obj\Debug\_관리프로그램Vol_5.SearchForm.resources
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5 - 수정본\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.Properties.Resources.resources
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5 - 수정본\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.csproj.GenerateResource.cache
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5 - 수정본\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5 - 수정본\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.exe
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5 - 수정본\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.pdb
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5 - 수정본\관리프로그램Vol_5\obj\Debug\_관리프로그램Vol_5.LogsForm.resources
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5_Server\관리프로그램Vol_5\bin\Debug\관리프로그램Vol_5.exe.config
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5_Server\관리프로그램Vol_5\bin\Debug\관리프로그램Vol_5.exe
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5_Server\관리프로그램Vol_5\bin\Debug\관리프로그램Vol_5.pdb
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5_Server\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5_Server\관리프로그램Vol_5\obj\Debug\_관리프로그램Vol_5.Form1.resources
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5_Server\관리프로그램Vol_5\obj\Debug\_관리프로그램Vol_5.LoginForm.resources
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5_Server\관리프로그램Vol_5\obj\Debug\_관리프로그램Vol_5.LogsForm.resources
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5_Server\관리프로그램Vol_5\obj\Debug\_관리프로그램Vol_5.SearchForm.resources
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5_Server\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.Properties.Resources.resources
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5_Server\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.csproj.GenerateResource.cache
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5_Server\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5_Server\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.exe
+C:\Users\bit1\Desktop\내가만든거\관리프로그램Vol_5_Server\관리프로그램Vol_5\obj\Debug\관리프로그램Vol_5.pdb

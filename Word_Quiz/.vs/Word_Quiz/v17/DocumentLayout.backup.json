@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|c:\\users\\bit1\\desktop\\word_quiz\\word_quiz\\forms\\ggform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|solutionrelative:word_quiz\\forms\\ggform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|c:\\users\\bit1\\desktop\\word_quiz\\word_quiz\\forms\\ggform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|solutionrelative:word_quiz\\forms\\ggform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|C:\\Users\\bit1\\Desktop\\Word_Quiz\\word_quiz\\forms\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|solutionrelative:word_quiz\\forms\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|C:\\Users\\bit1\\Desktop\\Word_Quiz\\word_quiz\\forms\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|solutionrelative:word_quiz\\forms\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|c:\\users\\bit1\\desktop\\word_quiz\\word_quiz\\forms\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|solutionrelative:word_quiz\\forms\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|C:\\Users\\bit1\\Desktop\\Word_Quiz\\word_quiz\\forms\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|solutionrelative:word_quiz\\forms\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|C:\\Users\\bit1\\Desktop\\Word_Quiz\\word_quiz\\database\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|solutionrelative:word_quiz\\database\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|C:\\Users\\bit1\\Desktop\\Word_Quiz\\word_quiz\\forms\\startform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|solutionrelative:word_quiz\\forms\\startform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|C:\\Users\\bit1\\Desktop\\Word_Quiz\\word_quiz\\data\\quizdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|solutionrelative:word_quiz\\data\\quizdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|C:\\Users\\bit1\\Desktop\\Word_Quiz\\word_quiz\\forms\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|solutionrelative:word_quiz\\forms\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|C:\\Users\\bit1\\Desktop\\Word_Quiz\\word_quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7DE9EC-3F22-4FA7-A549-69592CA99344}|Word_Quiz\\Word_Quiz.csproj|solutionrelative:word_quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartForm.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Forms\\StartForm.cs",
+              "RelativeDocumentMoniker": "Word_Quiz\\Forms\\StartForm.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Forms\\StartForm.cs",
+              "RelativeToolTip": "Word_Quiz\\Forms\\StartForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:19:43.835Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GGForm.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Forms\\GGForm.cs",
+              "RelativeDocumentMoniker": "Word_Quiz\\Forms\\GGForm.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Forms\\GGForm.cs",
+              "RelativeToolTip": "Word_Quiz\\Forms\\GGForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA3wDoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:09:57.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Forms\\GameForm.cs",
+              "RelativeDocumentMoniker": "Word_Quiz\\Forms\\GameForm.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Forms\\GameForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Word_Quiz\\Forms\\GameForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T04:23:16.923Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuizData.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Data\\QuizData.cs",
+              "RelativeDocumentMoniker": "Word_Quiz\\Data\\QuizData.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Data\\QuizData.cs",
+              "RelativeToolTip": "Word_Quiz\\Data\\QuizData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:57:45.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Forms\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "Word_Quiz\\Forms\\GameForm.Designer.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Forms\\GameForm.Designer.cs",
+              "RelativeToolTip": "Word_Quiz\\Forms\\GameForm.Designer.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAWwOsAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:05:56.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Program.cs",
+              "RelativeDocumentMoniker": "Word_Quiz\\Program.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Program.cs",
+              "RelativeToolTip": "Word_Quiz\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:05:07.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Forms\\GameForm.cs",
+              "RelativeDocumentMoniker": "Word_Quiz\\Forms\\GameForm.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Forms\\GameForm.cs",
+              "RelativeToolTip": "Word_Quiz\\Forms\\GameForm.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:03:09.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Forms\\StartForm.Designer.cs",
+              "RelativeDocumentMoniker": "Word_Quiz\\Forms\\StartForm.Designer.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Forms\\StartForm.Designer.cs",
+              "RelativeToolTip": "Word_Quiz\\Forms\\StartForm.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAtwDgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:57:05.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GGForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Forms\\GGForm.cs",
+              "RelativeDocumentMoniker": "Word_Quiz\\Forms\\GGForm.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Forms\\GGForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Word_Quiz\\Forms\\GGForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:49:52.887Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Forms\\StartForm.cs",
+              "RelativeDocumentMoniker": "Word_Quiz\\Forms\\StartForm.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Forms\\StartForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Word_Quiz\\Forms\\StartForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:49:52.04Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyDB.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Database\\MyDB.cs",
+              "RelativeDocumentMoniker": "Word_Quiz\\Database\\MyDB.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\Word_Quiz\\Word_Quiz\\Database\\MyDB.cs",
+              "RelativeToolTip": "Word_Quiz\\Database\\MyDB.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:29:24.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

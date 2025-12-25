@@ -1,0 +1,14 @@
+C:\Users\bit1\Desktop\회원관리+DB\회원관리+DB\bin\Debug\회원관리+DB.exe.config
+C:\Users\bit1\Desktop\회원관리+DB\회원관리+DB\bin\Debug\회원관리+DB.exe
+C:\Users\bit1\Desktop\회원관리+DB\회원관리+DB\bin\Debug\회원관리+DB.pdb
+C:\Users\bit1\Desktop\회원관리+DB\회원관리+DB\obj\Debug\회원관리+DB.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\회원관리+DB\회원관리+DB\obj\Debug\회원관리+DB.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\회원관리+DB\회원관리+DB\obj\Debug\회원관리+DB.exe
+C:\Users\bit1\Desktop\회원관리+DB\회원관리+DB\obj\Debug\회원관리+DB.pdb
+C:\Users\bit1\Desktop\내가만든거\002_회원관리+DB\회원관리+DB\bin\Debug\회원관리+DB.exe.config
+C:\Users\bit1\Desktop\내가만든거\002_회원관리+DB\회원관리+DB\bin\Debug\회원관리+DB.exe
+C:\Users\bit1\Desktop\내가만든거\002_회원관리+DB\회원관리+DB\bin\Debug\회원관리+DB.pdb
+C:\Users\bit1\Desktop\내가만든거\002_회원관리+DB\회원관리+DB\obj\Debug\회원관리+DB.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\내가만든거\002_회원관리+DB\회원관리+DB\obj\Debug\회원관리+DB.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\내가만든거\002_회원관리+DB\회원관리+DB\obj\Debug\회원관리+DB.exe
+C:\Users\bit1\Desktop\내가만든거\002_회원관리+DB\회원관리+DB\obj\Debug\회원관리+DB.pdb

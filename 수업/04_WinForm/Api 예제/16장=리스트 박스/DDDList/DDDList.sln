@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DDDList", "DDDList.vcproj", "{6409A4E8-EFEB-4700-94B8-BBCAAB283E44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6409A4E8-EFEB-4700-94B8-BBCAAB283E44}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6409A4E8-EFEB-4700-94B8-BBCAAB283E44}.Debug|Win32.Build.0 = Debug|Win32
+		{6409A4E8-EFEB-4700-94B8-BBCAAB283E44}.Release|Win32.ActiveCfg = Release|Win32
+		{6409A4E8-EFEB-4700-94B8-BBCAAB283E44}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

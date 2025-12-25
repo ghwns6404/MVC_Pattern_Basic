@@ -1,0 +1,197 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITDAUL1            BITMAP  DISCARDABLE     "ban_powerdaul1.bmp"
+IDB_BITDAUL2            BITMAP  DISCARDABLE     "ban_powerdaul2.bmp"
+IDB_BITDAUL3            BITMAP  DISCARDABLE     "ban_powerdaul3.bmp"
+IDB_BITDAUL4            BITMAP  DISCARDABLE     "ban_powerdaul4.bmp"
+IDB_BITDAUL5            BITMAP  DISCARDABLE     "ban_powerdaul5.bmp"
+IDB_BITMAP1             BITMAP  DISCARDABLE     "이승우.bmp"
+IDB_BITMAP10            BITMAP  DISCARDABLE     "최봉우.bmp"
+IDB_BITMAP2             BITMAP  DISCARDABLE     "김상형.bmp"
+IDB_BITMAP3             BITMAP  DISCARDABLE     "김지연.bmp"
+IDB_BITMAP4             BITMAP  DISCARDABLE     "김태경.bmp"
+IDB_BITMAP5             BITMAP  DISCARDABLE     "박대희.bmp"
+IDB_BITMAP6             BITMAP  DISCARDABLE     "조기봉.bmp"
+IDB_BITMAP7             BITMAP  DISCARDABLE     "손정욱.bmp"
+IDB_BITMAP8             BITMAP  DISCARDABLE     "양철승.bmp"
+IDB_BITMAP9             BITMAP  DISCARDABLE     "오광섭.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOG DISCARDABLE  0, 0, 359, 215
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "다울 스크린 세이버 설정"
+FONT 10, "굴림"
+BEGIN
+    LTEXT           "미등장인물",IDC_STATIC,10,10,34,8
+    LISTBOX         IDC_LIST1,10,20,45,190,LBS_NOINTEGRALHEIGHT | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "등장인물",IDC_STATIC,80,10,27,8
+    LISTBOX         IDC_LIST2,80,20,45,190,LBS_NOINTEGRALHEIGHT | WS_VSCROLL | 
+                    WS_TABSTOP
+    PUSHBUTTON      "->>",IDC_BTNSELALL,60,75,15,15
+    PUSHBUTTON      "->",IDC_BTNSELONE,60,95,15,15
+    PUSHBUTTON      "<-",IDC_BTNDESELONE,60,115,15,15
+    PUSHBUTTON      "<<-",IDC_BTNDESELALL,60,135,15,15
+    GROUPBOX        "확대비율",IDC_STATIC,135,10,105,55
+    CONTROL         "사진 원래 크기대로만",IDC_RASCALE1,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,140,20,75,10
+    CONTROL         "최대 1.5배까지 확대",IDC_RASCALE2,"Button",
+                    BS_AUTORADIOBUTTON,140,30,75,10
+    CONTROL         "최대 2배까지 확대",IDC_RASCALE3,"Button",
+                    BS_AUTORADIOBUTTON,140,40,69,10
+    CONTROL         "최대 3배까지 확대",IDC_RASCALE4,"Button",
+                    BS_AUTORADIOBUTTON,140,50,69,10
+    GROUPBOX        "화면지우기",IDC_STATIC,250,10,105,55
+    CONTROL         "지우지 않음",IDC_RARESET1,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,255,20,51,10
+    CONTROL         "사진 30개 출력후 지움",IDC_RARESET2,"Button",
+                    BS_AUTORADIOBUTTON,255,30,81,10
+    CONTROL         "사진 100개 출력후 지움",IDC_RARESET3,"Button",
+                    BS_AUTORADIOBUTTON,255,40,80,10
+    CONTROL         "심심할때마다 지우기",IDC_RARESET4,"Button",
+                    BS_AUTORADIOBUTTON,255,50,77,10
+    GROUPBOX        "사진 출력 속도",IDC_STATIC,135,70,105,55
+    CONTROL         "느리게",IDC_RASPEED1,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,140,80,36,10
+    CONTROL         "보통",IDC_RASPEED2,"Button",BS_AUTORADIOBUTTON,140,90,
+                    29,10
+    CONTROL         "빠르게",IDC_RASPEED3,"Button",BS_AUTORADIOBUTTON,140,
+                    100,36,10
+    CONTROL         "엄청 빠르게",IDC_RASPEED4,"Button",BS_AUTORADIOBUTTON,
+                    140,110,51,10
+    GROUPBOX        "음향효과",IDC_STATIC,250,70,105,55
+    CONTROL         "항상",IDC_RASOUND1,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,255,80,29,10
+    CONTROL         "5번에 한번꼴",IDC_RASOUND2,"Button",BS_AUTORADIOBUTTON,
+                    255,90,54,10
+    CONTROL         "10번에 한번꼴",IDC_RASOUND3,"Button",BS_AUTORADIOBUTTON,
+                    255,100,58,10
+    CONTROL         "조용히 해",IDC_RASOUND4,"Button",BS_AUTORADIOBUTTON,255,
+                    110,44,10
+    CONTROL         "사진 밑에 사람 이름 보여주기",IDC_CHECKPRINTNAME,"Button",
+                    BS_AUTOCHECKBOX | WS_GROUP | WS_TABSTOP,135,135,95,10
+    DEFPUSHBUTTON   "확인",IDOK,305,130,50,14
+    PUSHBUTTON      "취소",IDCANCEL,305,150,50,14
+    PUSHBUTTON      "프로그램 소개",IDC_BTNABOUT,305,190,50,15
+    PUSHBUTTON      "디폴트",IDC_BTNDEFAULT,305,170,50,14
+    CONTROL         "마우스 이동 무시(종료하지 않음)",
+                    IDC_CHECKIGNOREMOUSEMOVE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,135,150,112,10
+    CONTROL         "마우스 클릭 무시(종료하지 않음)",
+                    IDC_CHECKIGNOREMOUSECLICK,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,135,165,112,10
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// WAVE
+//
+
+IDR_WAVE1               WAVE    DISCARDABLE     "Bat.wav"
+IDR_WAVE2               WAVE    DISCARDABLE     "Bird2.wav"
+IDR_WAVE3               WAVE    DISCARDABLE     "Cork.wav"
+IDR_WAVE4               WAVE    DISCARDABLE     "Empty.wav"
+IDR_WAVE5               WAVE    DISCARDABLE     "Reload.wav"
+IDR_WAVE6               WAVE    DISCARDABLE     "Splat.wav"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 352
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 208
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_STRING1             "다울 스크린세이버"
+END
+
+#endif    // Korean resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

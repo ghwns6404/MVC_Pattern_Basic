@@ -1,0 +1,26 @@
+<Window
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+Title="Hello and Goodbye" Height="300" Width="300"
+>
+<StackPanel
+Name="HelloWorldGrid"
+Background="AntiqueWhite"
+>
+<Menu
+Height="21" Margin="0,0,0,0">
+<MenuItem Header="Say Hello">
+<MenuItem Header="Hello Jesse" InputGestureText="Ctrl+X" />
+<MenuItem Header="Hello Alex" />
+</MenuItem>
+<MenuItem Header="Say Goodbye">
+<MenuItem Header="Goodbye Jesse" />
+<MenuItem Header="Goodbye Alex" />
+</MenuItem>
+</Menu>
+<Label
+Content="Hello Goodbye"
+FontFamily="Verdana"
+FontSize="32"
+/>
+</StackPanel>
+</Window>

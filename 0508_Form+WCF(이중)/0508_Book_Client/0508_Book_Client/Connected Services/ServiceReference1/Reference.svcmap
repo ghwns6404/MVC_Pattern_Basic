@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="5a606f8f-db13-4761-9b9b-9b748a3a97db" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://220.90.180.108:9000/GetService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BookService.wsdl" MetadataType="Wsdl" ID="749b836f-1973-456e-a62f-05b07430a8d6" SourceId="1" SourceUrl="http://220.90.180.108:9000/GetService?wsdl" />
+    <MetadataFile FileName="GetService.xsd" MetadataType="Schema" ID="68640757-901a-4425-b08c-9df5f8ae0fce" SourceId="1" SourceUrl="http://220.90.180.108:9000/GetService?xsd=xsd1" />
+    <MetadataFile FileName="GetService1.xsd" MetadataType="Schema" ID="1f3dff87-edb5-4157-88e7-c1ab8a2d6cdc" SourceId="1" SourceUrl="http://220.90.180.108:9000/GetService?xsd=xsd2" />
+    <MetadataFile FileName="GetService2.xsd" MetadataType="Schema" ID="3643712c-0a67-4981-a512-ec4d9e25b99a" SourceId="1" SourceUrl="http://220.90.180.108:9000/GetService?xsd=xsd0" />
+    <MetadataFile FileName="GetService3.xsd" MetadataType="Schema" ID="6b800c24-ed76-4a3e-9d13-288fedc9d8ba" SourceId="1" SourceUrl="http://220.90.180.108:9000/GetService?xsd=xsd3" />
+    <MetadataFile FileName="GetService.disco" MetadataType="Disco" ID="f26c6154-6be4-49c2-ba1b-c5d00ecaeb30" SourceId="1" SourceUrl="http://220.90.180.108:9000/GetService?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

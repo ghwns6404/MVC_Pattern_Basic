@@ -1,0 +1,19 @@
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 10\RenderTheBetterEllipse\bin\Debug\RenderTheEllipse.exe
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 10\RenderTheBetterEllipse\bin\Debug\RenderTheEllipse.pdb
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 10\RenderTheBetterEllipse\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 10\RenderTheBetterEllipse\obj\Debug\RenderTheEllipse.exe
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 10\RenderTheBetterEllipse\obj\Debug\RenderTheEllipse.pdb
+C:\Users\Administrator\Desktop\오용택\11_WPF 발표자료\10_커스텀 엘리먼트\RenderTheBetterEllipse\obj\Debug\RenderTheEllipse.exe
+C:\Users\Administrator\Desktop\오용택\11_WPF 발표자료\10_커스텀 엘리먼트\RenderTheBetterEllipse\obj\Debug\RenderTheEllipse.pdb
+C:\Users\Administrator\Desktop\오용택\11_WPF 발표자료\10_커스텀 엘리먼트\02_RenderTheBetterEllipse\bin\Debug\RenderTheEllipse.exe
+C:\Users\Administrator\Desktop\오용택\11_WPF 발표자료\10_커스텀 엘리먼트\02_RenderTheBetterEllipse\bin\Debug\RenderTheEllipse.pdb
+C:\Users\Administrator\Desktop\오용택\11_WPF 발표자료\10_커스텀 엘리먼트\02_RenderTheBetterEllipse\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\오용택\11_WPF 발표자료\10_커스텀 엘리먼트\02_RenderTheBetterEllipse\obj\Debug\RenderTheEllipse.exe
+C:\Users\Administrator\Desktop\오용택\11_WPF 발표자료\10_커스텀 엘리먼트\02_RenderTheBetterEllipse\obj\Debug\RenderTheEllipse.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\10_커스텀 엘리먼트\02_RenderTheBetterEllipse\obj\Debug\RenderTheEllipse.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\10_커스텀 엘리먼트\02_RenderTheBetterEllipse\obj\Debug\RenderTheEllipse.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\10_커스텀 엘리먼트\02_RenderTheBetterEllipse\bin\Debug\RenderTheEllipse.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\10_커스텀 엘리먼트\02_RenderTheBetterEllipse\bin\Debug\RenderTheEllipse.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\10_커스텀 엘리먼트\02_RenderTheBetterEllipse\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\10_커스텀 엘리먼트\02_RenderTheBetterEllipse\obj\Debug\RenderTheEllipse.exe
+\\61.81.99.99\c#\11_WPF 발표자료\10_커스텀 엘리먼트\02_RenderTheBetterEllipse\obj\Debug\RenderTheEllipse.pdb

@@ -1,0 +1,18 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 15\CraftTheToolbar\bin\Debug\CraftTheToolbar.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 15\CraftTheToolbar\bin\Debug\CraftTheToolbar.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 15\CraftTheToolbar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 15\CraftTheToolbar\obj\Debug\CraftTheToolbar.g.resources
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 15\CraftTheToolbar\obj\Debug\CraftTheToolbar.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 15\CraftTheToolbar\obj\Debug\CraftTheToolbar.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\15장 툴바와 상태바\Chapter 15\CraftTheToolbar\obj\Debug\CraftTheToolbar.exe
+C:\Documents and Settings\woosong bit\바탕 화면\15장 툴바와 상태바\Chapter 15\CraftTheToolbar\obj\Debug\CraftTheToolbar.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\15장 툴바와 상태바\Chapter 15\CraftTheToolbar\bin\Debug\CraftTheToolbar.exe
+C:\Documents and Settings\woosong bit\바탕 화면\15장 툴바와 상태바\Chapter 15\CraftTheToolbar\bin\Debug\CraftTheToolbar.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\15장 툴바와 상태바\Chapter 15\CraftTheToolbar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\15장 툴바와 상태바\Chapter 15\CraftTheToolbar\obj\Debug\CraftTheToolbar.g.resources
+D:\WOOSONG13\11_WPF\15장 툴바와 상태바\Chapter 15\CraftTheToolbar\obj\Debug\CraftTheToolbar.exe
+D:\WOOSONG13\11_WPF\15장 툴바와 상태바\Chapter 15\CraftTheToolbar\obj\Debug\CraftTheToolbar.pdb
+D:\WOOSONG13\11_WPF\15장 툴바와 상태바\Chapter 15\CraftTheToolbar\obj\Debug\ResolveAssemblyReference.cache
+D:\WOOSONG13\11_WPF\15장 툴바와 상태바\Chapter 15\CraftTheToolbar\obj\Debug\CraftTheToolbar.g.resources
+D:\WOOSONG13\11_WPF\15장 툴바와 상태바\Chapter 15\CraftTheToolbar\bin\Debug\CraftTheToolbar.exe
+D:\WOOSONG13\11_WPF\15장 툴바와 상태바\Chapter 15\CraftTheToolbar\bin\Debug\CraftTheToolbar.pdb

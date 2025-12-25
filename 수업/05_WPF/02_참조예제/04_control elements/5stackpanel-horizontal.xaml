@@ -1,0 +1,16 @@
+<Window
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+Title="Stack Panel" Height="100" Width="400"
+>
+<Grid Name="StuffToBuy">
+<StackPanel Orientation="Horizontal">
+<Image
+Source="http://www.oreilly.com/images/oreilly/add_to_cart.gif"
+Height="33" Width="142" />
+<Button Height="30" Width="150" Background="Transparent">
+<TextBox>Click to type in here</TextBox>
+</Button>
+</StackPanel>
+</Grid>
+</Window>

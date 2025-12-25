@@ -1,0 +1,208 @@
+[ 인쇄하기 ]
+
+*) 6개의 인쇄 관련 클래스 존재
+
+   - Dialog 관련 클래스
+      PageSetupDialog : 페이지 설정을 처리하는 대화상자
+                                  - 용지의 크기 및 공급, 방향, 여백 등을 설정
+
+     PrintDialog           : 컴퓨터에 설치된 프린터를 선택할 수 있는 대화상자
+                                  프린터 속성과 인쇄 범위 및 매수를 설정할 수 있슴
+
+     PrintPreviewDialog : 프린터에 인쇄할 내용을 미리 화면에 보여주는 대화상자
+                                   인쇄될 내용을 확대/축소해 출력하는 기능과 스크롤링 등의 인쇄 
+                                   미리보기 기능 지원
+
+  - 인쇄 과정 제어 클래스 
+     PageSettings      : 인쇄될 특정 페이지에 대한 속성을 설정
+                                속성을 제어하는 PageSetupDialog 클래스의 속성으로 사용됨
+ 
+     PrintDocument    : 인쇄될 내용을 담고 있는 개체
+                                 이 개체에 담긴 내용은 인쇄나 미리보기 기능에 사용됨
+ 
+     PrintSettings       : 프린터의 색, 급지 방식, 가로 인쇄 등의 프린터 속성을 설정
+                                이 개체는 PageSetupDialog 또는 PrintDialog 클래스의 속성으로 사용됨
+
+
+*) 인쇄 관련 내용
+   - 인쇄 과정에 대한 이해 
+   - 인쇄 미리보기
+   - 인쇄 페이지 설정
+   - 프린터 설정
+
+
+
+[ 인쇄 진행 과정 ]
+
+인쇄 과정 자체는 System.Drawing.Printing.PrintDocument 클래스에 의해 처리됨 
+
+   - 이 클래스에 인쇄 방법을 설명하는 속성을 설정하고, 
+     인쇄 프로세스를 시작하는 Print() 메서드를 호출하면 바로 인쇄가 시작됨
+
+   - Print 메서드는 PrintPage 이벤트를 처리하고 PrintPageEventArgs에 포함된
+     Graphics 를 이용해 인쇄할 페이지 영역에 앞서, GDI+그리기 내용을 출력할 수 있다.
+
+
+/*
+ * 
+ * 인쇄 진행 과정 확인(사용자가 인쇄를 시작하면 발생하는 일)
+*    즉 PrintDocument 클래스의 Print 메서드 호출하면 아래 4개의 이벤트가
+      순차적으로 실행되게 됨
+
+ * 
+ * 1) BeginPrint 이벤트 : 인쇄 중에 사용되는 글꼴, 파일 스트림 및 기타 
+ *    리소스를 초기화 함
+ * 
+ *     - 전달 인자 : PrintEventArgs
+ *                   속성 : Cancel  : 이벤트 취소 유무 설정or 가져옴
+ * 
+ * 2) QueryPageSettings 이벤트 : 현재 인쇄할 페이지에 관련된 프린터 설정 변경
+ *     
+ *     - 전달 인자 : QueryPageSettingsEventArgs
+ *                   속성 : Cancel : 이벤트 취소 유무를 설정하거나 가져옴
+ *                          PageSettings : 인쇄 페이지에 대한 페이지 설정을 가져오거나
+ *                                         설정
+ * 
+ * 3) PrintPage 이벤트 : 인쇄할 내용을 PrintPageEventArgs 인자를 갖고 출력 페이지에 
+ *    실제 인쇄를 진행하는 부분
+ * 
+ *     - 전달인자 : PrintPageEventArgs
+                  속성 : Cancel : 인쇄 작업을 취소할지 여부를 나타내는 값
+                           Graphics : 페이지를 그릴때 사용하는 Graphics 개체
+                           HasMorePages : 추가 페이지 인쇄 여부를 설정하거나 가져옴
+                           MarginBounds : 여백 내의 페이지 부분의 사각형 영역을 가져옴
+                           PageBounds  : 페이지 전체 영역을 나타내는 사각형 영역을 가져옴
+                           PageSettings : 인쇄 페이지에 대한 페이지 설정을 가져오거나 설정
+
+ * 
+ * 4) EndPrint 이벤트  : 인쇄 중에 사용된 글꼴, 파일 스트림 및 기타 리소스를 해제 
+ *    
+ *    - 전달 인자 : PrintEventArgs
+ * 
+ */
+==> 보통의 인쇄 과정은 1, 2, 3,4 과정을 거치면서 진행됨
+       만약 3단계에서 HasMorePages 속성이 true값을 갖는다면(인쇄할 페이지가 남아있슴)
+       2번 단계를 다시 반복하고 3번 단계에서 다시 HasMorePages 속성 값을 체크하게 됨
+
+
+
+using System;
+using System.Drawing;
+using System.Windows.Forms;
+using System.Drawing.Printing;
+
+
+namespace SimplePrinting
+{
+    public partial class Form1 : Form
+    {
+        int count;		// 프린트의 지속 유무를 알려줄 변수 
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            PrintDocument pd = new PrintDocument();
+            pd.BeginPrint += new PrintEventHandler(pd_BeginPrint);
+            pd.QueryPageSettings += new QueryPageSettingsEventHandler(pd_QueryPageSettings);
+            pd.PrintPage += new PrintPageEventHandler(pd_PrintPage);
+            pd.EndPrint += new PrintEventHandler(pd_EndPrint);
+
+            pd.Print();
+        }
+
+        private void pd_BeginPrint(object sender, PrintEventArgs ev)
+        {
+            Console.WriteLine("### 프린팅 BeginPrint 단계");
+            this.count = 1;
+        }
+
+        private void pd_QueryPageSettings(object sender, QueryPageSettingsEventArgs ev)
+        {
+            Console.WriteLine("### 프린팅 QueryPageSettings 단계");
+        }
+
+        private void pd_PrintPage(object sender, PrintPageEventArgs ev)
+        {
+            Console.WriteLine("### [{0}] 프린팅 PrintPage 단계", this.count);
+
+            if (this.count < 3)
+                ev.HasMorePages = true;
+            else
+                ev.HasMorePages = false;
+
+            this.count++;
+
+            int leftMargin = ev.MarginBounds.Left;	// 인쇄 용지의 왼쪽 마진
+            int topMargin = ev.MarginBounds.Top;	// 인쇄 용지의 위쪽 마진
+
+            int yPos = topMargin + 50;		// 인쇄 용지의 위쪽 마진에서 50인 위치에 출력
+
+            string str = this.count + " 번째 문장입니다...";	// 용지에 출력할 문장 
+            ev.Graphics.DrawString(str, this.Font, Brushes.Black, leftMargin, yPos, new StringFormat());
+        }
+
+        private void pd_EndPrint(object sender, PrintEventArgs ev)
+        {
+            Console.WriteLine("### 프린팅 EndPrint 단계");
+        }
+
+    }
+}
+
+
+
+
+
+[ 인쇄 미리보기의 처리 과정 ]
+
+Sample02 인쇄 미리 보기 )
+
+PrintPreviewDialog 클래스를 이용해 구현
+
+  - PrintDocument개체를 PrintPreviewDialog 클래스의 Document속성에 넣어주면, 
+    해당 페이지에 대한 인쇄 미리보기 기능이 작동함
+
+  - 이 상태에서 PrintPreviewDialog 개체의 ShowDialog() 메서드를 호출하면 [인쇄 미리보기]
+    창이 출력됨
+
+  - 미리보기 화면이 출력된 직후에 PrintPreviewDialog.Document 속성에 설정한 
+    PrintDocuemtn 개체의 Print() 메서드도 호출됨 
+
+
+[ 페이지 설정 사용하기 ]
+
+Sample03 프린터 페이지 설정 사용하기)
+
+PageSetupDialog 와 PageSettings 클래스를 사용하여 구현함
+
+   PageSetupDialog 클래스를 이용하면 프린팅 용지의 크기, 공급 방식, 출력 방향, 여백
+  에 대한 각종 설정 가능
+
+   PageSettings : PageSetupDialog클래스에서 설정한 페이지 정보를 담는 그릇 역할 수행
+
+  인쇄할 페이지의 속성을 담은 pageSettings 개체를 PrintDocument 클래스의 DefaultPageSettings
+   속성에 대입하면 인쇄 페이지의 속성이 변경되게 됨
+
+
+[ 프린터 설정하기 ]
+
+PrintDialog와 PrinterSettings 클래스를 이용해 처리 
+
+PrintDialog클래스 : 시스템에 설치된 프린터의 이름, 상태, 종류, 위치 및 속성 정보를 설정하거나
+                            출력할 때 사용
+		또한 인쇄 범위와 인쇄 매수 설정 가능
+
+PrintDocument 클래스의 PrinterSettings 속성을 이용하여 프린터 설정에 관한 정보를 설정한다.
+
+
+[ 인쇄 관련 클래스 응용 ]
+
+Sample5 최종 확인 )
+
+.NET이 제공하는 6개의 클래스를 모두 사용한 간단한 일기장 프로그램 
+
+

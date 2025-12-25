@@ -1,0 +1,47 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\DesignXamlButton\bin\Debug\DesignXamlButton.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\DesignXamlButton\bin\Debug\DesignXamlButton.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\DesignXamlButton\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\DesignXamlButton\obj\Debug\DesignXamlButtonWindow.baml
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\DesignXamlButton\obj\Debug\DesignXamlButtonApp.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\DesignXamlButton\obj\Debug\DesignXamlButton_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\DesignXamlButton\obj\Debug\DesignXamlButton.g.resources
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\DesignXamlButton\obj\Debug\DesignXamlButton.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\DesignXamlButton\obj\Debug\DesignXamlButton.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\11번 예제\obj\Debug\DesignXamlButton.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 19\11번 예제\obj\Debug\DesignXamlButton.pdb
+D:\WOOSONG13\11_WPF\19장\Chapter 19\11번 예제\obj\Debug\DesignXamlButton.exe
+D:\WOOSONG13\11_WPF\19장\Chapter 19\11번 예제\obj\Debug\DesignXamlButton.pdb
+D:\WOOSONG13\11_WPF\19장\Chapter 19\11번 예제\bin\Debug\DesignXamlButton.exe
+D:\WOOSONG13\11_WPF\19장\Chapter 19\11번 예제\bin\Debug\DesignXamlButton.pdb
+D:\WOOSONG13\11_WPF\19장\Chapter 19\11번 예제\obj\Debug\ResolveAssemblyReference.cache
+D:\WOOSONG13\11_WPF\19장\Chapter 19\11번 예제\obj\Debug\DesignXamlButtonWindow.baml
+D:\WOOSONG13\11_WPF\19장\Chapter 19\11번 예제\obj\Debug\DesignXamlButtonApp.g.cs
+D:\WOOSONG13\11_WPF\19장\Chapter 19\11번 예제\obj\Debug\DesignXamlButton_MarkupCompile.cache
+D:\WOOSONG13\11_WPF\19장\Chapter 19\11번 예제\obj\Debug\DesignXamlButton.g.resources
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButton.exe
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButton.pdb
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\bin\Debug\DesignXamlButton.exe
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\bin\Debug\DesignXamlButton.pdb
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\ResolveAssemblyReference.cache
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButtonWindow.baml
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButtonApp.g.cs
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButton_MarkupCompile.cache
+D:\WPF\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButton.g.resources
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButton.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButton.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButton.exe
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButton.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\bin\Debug\DesignXamlButton.exe
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\bin\Debug\DesignXamlButton.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButtonWindow.baml
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButtonApp.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButton_MarkupCompile.cache
+\\61.81.99.99\c#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButton.g.resources
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\bin\Debug\DesignXamlButton.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\bin\Debug\DesignXamlButton.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButtonWindow.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButtonApp.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButton_MarkupCompile.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\19장 XAML\Chapter 19\11번 예제\obj\Debug\DesignXamlButton.g.resources

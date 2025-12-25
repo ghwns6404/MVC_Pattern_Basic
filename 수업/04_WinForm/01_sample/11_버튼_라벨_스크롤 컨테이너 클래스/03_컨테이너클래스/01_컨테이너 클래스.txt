@@ -1,0 +1,133 @@
+[ 컨테이너 클래스 ]
+
+다른 컴포넌트를 담을 수 있는 클래스 
+- 컨테이너 안에 포함된 컨트롤들은 컨테이너가 움직일 때 같이 움직인다.
+- 출력할 컨트롤이 많고 컨트롤 간의 구성이 복잡할 때 사용하게 됨
+- 비주얼 스튜디오 항목에 포함해서 등록되어 있슴
+
+   - Panel
+   - GroupBox
+   - TabControl
+   - SplitContainer
+   - FlowLayoutPanel
+   - TableLayoutPanel
+
+
+1) GroupBox
+    다른 컨트롤을 구별할 수 있도록 그룹화하는데 사용
+
+2) Panel
+    다른 컨트롤을 구별할 수 있도록 그룹화하는데 사용
+    GroupBox 컨트롤과 비슷하지만 Panel 컨트롤은 스크롤 막대가 있고,
+    GroupBox 컨트롤은 캡션을 표시할 수 있다는 차이점이 있슴
+
+3) SplitContainer
+    이동 가능한 막대로 구분된 두 개의 패널로 구성
+    마우스 포인터를 막대 위에 놓으면 포인터가 바뀌면서 막대를
+    이동할 수 있음을 표시, 컨테이너 자체의 크기가 동적으로 변함
+
+4) TabControl
+    여러 개의 탭을 이용해 Panel을 겹쳐놓은 것과 같은 효과를 주는 컨트롤
+
+5) FlowLayoutPanel
+    내용을 가로 또는 세로로 동적 배열하는 패널
+
+6) TableLayoutPanel
+    행과 열로 구성된 표 형태로 내용을 동적으로 배열하는 패널
+
+
+
+[ Panel / FlowLayoutPanel 클래스 ]
+
+*) Panel 
+
+컨테이너 클래스중 가장 많이 사용되는 컨트롤 : Panel , GroupBox
+
+panel.BackColor = Color.Red;
+panel.Backgroundimage = Image.FromFile("회벽.bmp");
+panel.BorderStype = BorderStype.Fixed3D;
+
+
+예제 확인
+
+*) FlowLayoutPanel
+
+해당 컨트롤이 포함된 윈도우 크기가 변할 경우, 컨트롤은 포함된 컨트롤에 대해 
+가로 또는 세로로 컨트롤의 위치를 동적 배열하게 됨
+
+- 디자이너 사용시 폼 위로 드레그인 하여 Dock 속성을 Fill로 변경하면 됨 
+   Fill : FlowLayoutPanel컨트롤은 윈도우 폼 클라이언트 영역에 가득차게 됨
+
+예제 확인
+
+
+
+
+[ TabControl / TableLayoutPanel 클래스 ]
+
+*)TabControl
+TabPages 클래스를 여러 장 겹쳐놓은 컨테이너 클래스로, 각각의 텝을
+클릭하면 TabPags 개체에 대한 Click 이벤트가 발생하게 됨
+
+
+속성		자료형	설명
+----------------------------------------------------------
+SelectedIndex	int	현재 선택된 탭 페이지의 인덱스를 가져오거나 설정
+SelectedTab	TabPage	현재 선택된 탭 페이지를 가져오거나 설정
+
+
+이벤트		설명
+-------------------------------------------------------
+Deselecting	탭 변경을 취소할 수 있도록 탭의 선택이 취소되기 전에 발생
+Deselected	탭 선택이 취소되면 발생
+Selecting		탭 변경을 취소할 수 있도록 탭이 선택되기 전에 발생
+Selected		탭이 선택되면 발생
+
+TabControl 클래스는 .NET2.0이상에서 지원된다.
+
+
+*)TabPage 클래스 
+
+Panel 클래스를 상속받았으며, TabControl에 있는 하나의 페이지를 나타내는 컨트롤임
+
+예제 확인
+
+디자이너를 이용한 구현
+- TabControl을 추가하면 TabPage는 자동으로 생성되게 됨
+- 개수 조절 가능
+
+
+
+
+
+*)  TableLayoutPanel 
+
+닷넷 2.0 이상에서 포함된 컨트롤
+
+행과 열로 구성된 표 형태의 내용을 보여주는 레이아웃 패널 
+- 부모 컨트롤의 크기가 조정되면 자식 컨트롤의 비율이 적절하게  조절됨
+
+- 디자이너를 사용하여 쉽게 제어 가능 확인
+
+
+
+[ Splitter / SplitContainer 클래스 ]
+
+*)Splitter 
+- 사용자가 도킹된 컨트롤의 크기를 조정할 때 Splitter 클래스가 사용됨
+- 이를 통해 화면의 좌우 크기를 적절히 조절할 수 있게 됨
+- 닷넷 2.0 이상에서는 Splitter 클래스의 기능을 SplitContainer가 대체함 
+
+
+*)SplitContainer
+- 컨테이너 표시 영역에 대해 크기를 조정할 수 있는 두개의 패널과 
+  이동가능한 막대로 구성된 컨틀로이다.
+
+- Splitter와의 차이점
+   왼쪽 오른쪽 구간이 처음부터 패널로 나뉘어 있어, 더 쉽게 프로그램을
+   작성할 수 있다.
+
+- 디자이너 사용시 도구상자에서 생성시켜 Dock 속성을 변경하여
+   화면을 구성할 수 있다.
+   MiniSize 속성 : 페널간 사이즈 조절
+   Orientation 속성 : 페널의 배치가 수평 또는 수직으로 변경

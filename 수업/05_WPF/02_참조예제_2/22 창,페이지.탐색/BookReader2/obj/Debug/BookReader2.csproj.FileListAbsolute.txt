@@ -1,0 +1,13 @@
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\BookReader2\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\BookReader2\obj\Debug\AliceChapter01.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\BookReader2\obj\Debug\AliceChapter02.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\BookReader2\obj\Debug\AliceChapter03.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\BookReader2\obj\Debug\AliceInWonderland.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\BookReader2\obj\Debug\BookList.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\BookReader2\obj\Debug\BookReaderPage.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\BookReader2\obj\Debug\LookingGlassChapter01.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\BookReader2\obj\Debug\LookingGlassChapter02.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\BookReader2\obj\Debug\ThroughTheLookingGlass.baml
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\BookReader2\obj\Debug\BookReaderApp.g.cs
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\BookReader2\obj\Debug\BookReader2_MarkupCompile.cache
+D:\Study\S1 Bit Study\S1 C#&.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\BookReader2\obj\Debug\BookReader2.g.resources

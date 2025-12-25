@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="YellowPad">
+</Property><Property Name="솔루션 파일" Value="D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\YellowPad.sln">
+</Property><Property Name="Date" Value="2011년 5월 18일 수요일">
+</Property><Property Name="Time" Value="오후 14:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="YellowPad.sln" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\YellowPad.sln(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="YellowPad.csproj" Description="프로젝트 파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\YellowPad.csproj(으)로 백업했습니다.">
+</Event><Event ErrorLevel="1" Project="YellowPad" Source="..\..\Chapter 13\ListColorsElegantly\ColorListBox.cs" Description="백업된 프로젝트를 빌드할 수 없습니다. 프로젝트에 링크된 파일이 있습니다. D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\ColorListBox.cs">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="..\..\Chapter 13\ListColorsElegantly\ColorListBox.cs" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\ColorListBox.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="1" Project="YellowPad" Source="..\..\Chapter 13\ListColorsElegantly\ColorListBoxItem.cs" Description="백업된 프로젝트를 빌드할 수 없습니다. 프로젝트에 링크된 파일이 있습니다. D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\ColorListBoxItem.cs">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="..\..\Chapter 13\ListColorsElegantly\ColorListBoxItem.cs" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\ColorListBoxItem.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="YellowPadAboutDialog.cs" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\YellowPadAboutDialog.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="EraserToolDialog.cs" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\EraserToolDialog.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="StylusToolDialog.cs" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\StylusToolDialog.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="YellowPadHelp.cs" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\YellowPadHelp.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="YellowPadWindow.cs" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\YellowPadWindow.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="YellowPadWindow.Edit.cs" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\YellowPadWindow.Edit.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="YellowPadWindow.File.cs" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\YellowPadWindow.File.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="YellowPadWindow.Help.cs" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\YellowPadWindow.Help.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="YellowPadWindow.Mode.cs" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\YellowPadWindow.Mode.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="YellowPadWindow.Tools.cs" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\YellowPadWindow.Tools.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="Help\Copyright.xaml" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\Help\Copyright.xaml(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="Help\EditMenu.xaml" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\Help\EditMenu.xaml(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="Help\EraserModeMenu.xaml" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\Help\EraserModeMenu.xaml(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="Help\EraserToolDialog.xaml" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\Help\EraserToolDialog.xaml(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="Help\FileMenu.xaml" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\Help\FileMenu.xaml(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="Help\Overview.xaml" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\Help\Overview.xaml(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="Help\HelpMenu.xaml" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\Help\HelpMenu.xaml(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="Help\StylusModeMenu.xaml" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\Help\StylusModeMenu.xaml(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="Help\StylusToolDialog.xaml" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\Help\StylusToolDialog.xaml(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="StylusToolDialog.xaml" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\StylusToolDialog.xaml(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="YellowPadAboutDialog.xaml" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\YellowPadAboutDialog.xaml(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="YellowPadHelp.xaml" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\YellowPadHelp.xaml(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="YellowPadWindow.xaml" Description="파일을 D:\Study\S1 Bit Study\S1 C#&amp;.NET Works\S1 WPF Works\AppsCodeMarkup\Chapter 22\YellowPad\Backup\YellowPadWindow.xaml(으)로 백업했습니다.">
+</Event><Event ErrorLevel="1" Project="YellowPad" Source="YellowPad.csproj" Description="프로젝트가 .NET Framework 2.0 또는 3.0을 대상으로 합니다. 프로젝트에서 최신 .NET Framework를 필요로 하는 어셈블리를 사용하는 경우 프로젝트를 빌드할 수 없습니다. 프로젝트 메뉴에서 [속성]을 클릭하고 '.NET Framework' 드롭다운 상자에서 새 버전을 선택하면 .NET Framework 버전을 변경할 수 있습니다. Visual Basic의 경우 이 옵션이 '고급 컴파일러 옵션...' 단추를 클릭하면 나타나는 [컴파일] 탭에 있습니다.">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="YellowPad.csproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="YellowPad" Source="YellowPad.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="YellowPad.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="YellowPad.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="YellowPad" Source="YellowPad.csproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>

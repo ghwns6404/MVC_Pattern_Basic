@@ -1,0 +1,127 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE MOVEABLE PURE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE MOVEABLE PURE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE MOVEABLE PURE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOG DISCARDABLE  0, 0, 237, 146
+STYLE WS_CHILD | WS_VISIBLE | WS_SYSMENU
+FONT 9, "굴림"
+BEGIN
+    CONTROL         "점심 먹고 신발 끈 묶기",IDC_CHECK1,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,6,36,108,10
+    COMBOBOX        IDC_COMBO1,42,12,90,84,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "점심메뉴",IDC_STATIC,6,18,28,8
+    GROUPBOX        "점심 먹은 후 할 일",IDC_STATIC,12,60,216,78
+    CONTROL         "당구장에 가서 신나게 당구 한 판 치기",IDC_RADIO1,"Button",
+                    BS_AUTORADIOBUTTON,24,78,133,10
+    CONTROL         "나무 그늘에 짱박혀서 늘어지게 자기",IDC_RADIO2,"Button",
+                    BS_AUTORADIOBUTTON,24,90,128,10
+    CONTROL         "박대리랑 다방에 가서 사장님 욕하기",IDC_RADIO3,"Button",
+                    BS_AUTORADIOBUTTON,24,102,128,10
+    CONTROL         "그냥 사무실에 들어가서 열심히 일하는 척 하기",
+                    IDC_RADIO4,"Button",BS_AUTORADIOBUTTON,24,114,160,10
+    PUSHBUTTON      "눌러봐",IDC_BUTTON1,150,12,50,14
+END
+
+IDD_DIALOG2 DIALOGEX 0, 0, 207, 134
+STYLE WS_CHILD | WS_VISIBLE | WS_SYSMENU
+FONT 9, "굴림", 400
+BEGIN
+    GROUPBOX        "Static",IDC_STATIC,12,42,84,84
+    EDITTEXT        IDC_EDIT1,12,12,186,18,ES_AUTOHSCROLL
+    LISTBOX         IDC_LIST2,102,48,96,78,LBS_SORT | LBS_NOINTEGRALHEIGHT | 
+                    WS_VSCROLL | WS_TABSTOP
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO MOVEABLE PURE 
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 230
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 139
+    END
+
+    IDD_DIALOG2, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 200
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 127
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Korean resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

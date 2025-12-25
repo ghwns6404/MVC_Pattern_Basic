@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClipCursor", "ClipCursor.vcproj", "{BF0C80A9-D3C1-4874-8195-D5B8F0760E0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF0C80A9-D3C1-4874-8195-D5B8F0760E0C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF0C80A9-D3C1-4874-8195-D5B8F0760E0C}.Debug|Win32.Build.0 = Debug|Win32
+		{BF0C80A9-D3C1-4874-8195-D5B8F0760E0C}.Release|Win32.ActiveCfg = Release|Win32
+		{BF0C80A9-D3C1-4874-8195-D5B8F0760E0C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,30 @@
+C:\Users\bit1\Desktop\Zoo_Client\Zoo_Client\bin\Debug\Zoo_Client.exe.config
+C:\Users\bit1\Desktop\Zoo_Client\Zoo_Client\bin\Debug\Zoo_Client.exe
+C:\Users\bit1\Desktop\Zoo_Client\Zoo_Client\bin\Debug\Zoo_Client.pdb
+C:\Users\bit1\Desktop\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.Form1.resources
+C:\Users\bit1\Desktop\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.Properties.Resources.resources
+C:\Users\bit1\Desktop\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.csproj.GenerateResource.cache
+C:\Users\bit1\Desktop\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.exe
+C:\Users\bit1\Desktop\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.pdb
+C:\Users\bit1\Desktop\0508_Form + WCF (노이중)_zoo수정\Zoo_Client\Zoo_Client\bin\Debug\Zoo_Client.exe.config
+C:\Users\bit1\Desktop\0508_Form + WCF (노이중)_zoo수정\Zoo_Client\Zoo_Client\bin\Debug\Zoo_Client.exe
+C:\Users\bit1\Desktop\0508_Form + WCF (노이중)_zoo수정\Zoo_Client\Zoo_Client\bin\Debug\Zoo_Client.pdb
+C:\Users\bit1\Desktop\0508_Form + WCF (노이중)_zoo수정\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\0508_Form + WCF (노이중)_zoo수정\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.Form1.resources
+C:\Users\bit1\Desktop\0508_Form + WCF (노이중)_zoo수정\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.Properties.Resources.resources
+C:\Users\bit1\Desktop\0508_Form + WCF (노이중)_zoo수정\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.csproj.GenerateResource.cache
+C:\Users\bit1\Desktop\0508_Form + WCF (노이중)_zoo수정\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\0508_Form + WCF (노이중)_zoo수정\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.exe
+C:\Users\bit1\Desktop\0508_Form + WCF (노이중)_zoo수정\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.pdb
+C:\Users\bit1\Desktop\내가만든거\0508_Form + WCF (노이중)_찐\Zoo_Client\Zoo_Client\bin\Debug\Zoo_Client.exe.config
+C:\Users\bit1\Desktop\내가만든거\0508_Form + WCF (노이중)_찐\Zoo_Client\Zoo_Client\bin\Debug\Zoo_Client.exe
+C:\Users\bit1\Desktop\내가만든거\0508_Form + WCF (노이중)_찐\Zoo_Client\Zoo_Client\bin\Debug\Zoo_Client.pdb
+C:\Users\bit1\Desktop\내가만든거\0508_Form + WCF (노이중)_찐\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\내가만든거\0508_Form + WCF (노이중)_찐\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.Form1.resources
+C:\Users\bit1\Desktop\내가만든거\0508_Form + WCF (노이중)_찐\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.Properties.Resources.resources
+C:\Users\bit1\Desktop\내가만든거\0508_Form + WCF (노이중)_찐\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.csproj.GenerateResource.cache
+C:\Users\bit1\Desktop\내가만든거\0508_Form + WCF (노이중)_찐\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\내가만든거\0508_Form + WCF (노이중)_찐\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.exe
+C:\Users\bit1\Desktop\내가만든거\0508_Form + WCF (노이중)_찐\Zoo_Client\Zoo_Client\obj\Debug\Zoo_Client.pdb

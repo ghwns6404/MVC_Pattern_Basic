@@ -1,0 +1,129 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOG DISCARDABLE  0, 0, 334, 255
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "에디트의 스타일"
+FONT 9, "굴림"
+BEGIN
+    EDITTEXT        IDC_EDIT1,85,20,40,14
+    EDITTEXT        IDC_EDIT2,225,20,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT4,13,65,65,61,ES_MULTILINE | ES_WANTRETURN
+    EDITTEXT        IDC_EDIT5,88,65,65,61,ES_MULTILINE | ES_AUTOVSCROLL | 
+                    ES_WANTRETURN
+    EDITTEXT        IDC_EDIT6,163,65,65,61,ES_MULTILINE | ES_AUTOVSCROLL | 
+                    ES_WANTRETURN | WS_VSCROLL
+    EDITTEXT        IDC_EDIT7,238,65,80,61,ES_MULTILINE
+    EDITTEXT        IDC_EDIT8,53,151,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT9,53,175,40,14,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT10,53,201,40,14,ES_RIGHT | ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT11,162,151,40,14,ES_AUTOHSCROLL | ES_NUMBER
+    EDITTEXT        IDC_EDIT12,162,175,40,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT13,162,201,40,14,ES_PASSWORD | ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT14,277,151,40,14,ES_AUTOHSCROLL | ES_NOHIDESEL
+    EDITTEXT        IDC_EDIT15,277,175,40,14,ES_UPPERCASE | ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT16,277,201,40,14,ES_LOWERCASE | ES_AUTOHSCROLL
+    LTEXT           "스타일 없음",IDC_STATIC,10,25,38,8
+    LTEXT           "ES_AUTOHSCROLL",IDC_STATIC,150,26,64,8
+    DEFPUSHBUTTON   "닫기",IDOK,104,230,50,14
+    LTEXT           "ES_MUTTILINE",IDC_STATIC,13,55,51,8
+    LTEXT           "ES_AUTOVSCROLL",IDC_STATIC,88,55,64,8
+    LTEXT           "WS_VSCROLL",IDC_STATIC,163,55,47,8
+    LTEXT           "ES_WANTRETURN 없음",IDC_STATIC,238,55,78,8
+    RTEXT           "ES_LEFT",IDC_STATIC,16,155,31,8
+    RTEXT           "ES_CENTER",IDC_STATIC,5,181,42,8
+    RTEXT           "ES_RIGHT",IDC_STATIC,13,207,34,8
+    RTEXT           "ES_NUMBER",IDC_STATIC,111,155,43,8
+    RTEXT           "ES_PASSWORD",IDC_STATIC,103,205,52,8
+    RTEXT           "ES_READONLY",IDC_STATIC,103,181,51,8
+    RTEXT           "ES_NOHIDESEL",IDC_STATIC,222,155,52,8
+    RTEXT           "ES_UPPERCASE",IDC_STATIC,219,181,55,8
+    RTEXT           "ES_LOWERCASE",IDC_STATIC,218,207,56,8
+    PUSHBUTTON      "패스워드 읽기",IDC_BTNREADPASS,179,230,50,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 327
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 248
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Korean resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

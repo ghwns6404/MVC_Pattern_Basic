@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SplitContainerExam.Form1.resources
+obj\Debug\SplitContainerExam.Properties.Resources.resources
+obj\Debug\SplitContainerExam.csproj.GenerateResource.Cache
+bin\Debug\SplitContainerExam.exe
+bin\Debug\SplitContainerExam.pdb
+obj\Debug\SplitContainerExam.exe
+obj\Debug\SplitContainerExam.pdb

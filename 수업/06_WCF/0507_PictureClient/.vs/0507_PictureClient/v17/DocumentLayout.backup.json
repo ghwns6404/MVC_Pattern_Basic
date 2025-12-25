@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bit1\\Desktop\\0507_PictureClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{919CCC04-0234-4101-8790-8113B93270EF}|0507_PictureClient\\0507_PictureClient.csproj|C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_pictureclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{919CCC04-0234-4101-8790-8113B93270EF}|0507_PictureClient\\0507_PictureClient.csproj|solutionrelative:0507_pictureclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919CCC04-0234-4101-8790-8113B93270EF}|0507_PictureClient\\0507_PictureClient.csproj|C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_pictureclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919CCC04-0234-4101-8790-8113B93270EF}|0507_PictureClient\\0507_PictureClient.csproj|solutionrelative:0507_pictureclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919CCC04-0234-4101-8790-8113B93270EF}|0507_PictureClient\\0507_PictureClient.csproj|C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_pictureclient\\piclistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919CCC04-0234-4101-8790-8113B93270EF}|0507_PictureClient\\0507_PictureClient.csproj|solutionrelative:0507_pictureclient\\piclistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919CCC04-0234-4101-8790-8113B93270EF}|0507_PictureClient\\0507_PictureClient.csproj|C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_pictureclient\\piclistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{919CCC04-0234-4101-8790-8113B93270EF}|0507_PictureClient\\0507_PictureClient.csproj|solutionrelative:0507_pictureclient\\piclistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919CCC04-0234-4101-8790-8113B93270EF}|0507_PictureClient\\0507_PictureClient.csproj|c:\\users\\bit1\\desktop\\0507_pictureclient\\0507_pictureclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919CCC04-0234-4101-8790-8113B93270EF}|0507_PictureClient\\0507_PictureClient.csproj|solutionrelative:0507_pictureclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919CCC04-0234-4101-8790-8113B93270EF}|0507_PictureClient\\0507_PictureClient.csproj|c:\\users\\bit1\\desktop\\0507_pictureclient\\0507_pictureclient\\cleardb.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{919CCC04-0234-4101-8790-8113B93270EF}|0507_PictureClient\\0507_PictureClient.csproj|solutionrelative:0507_pictureclient\\cleardb.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919CCC04-0234-4101-8790-8113B93270EF}|0507_PictureClient\\0507_PictureClient.csproj|c:\\users\\bit1\\desktop\\0507_pictureclient\\0507_pictureclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{919CCC04-0234-4101-8790-8113B93270EF}|0507_PictureClient\\0507_PictureClient.csproj|solutionrelative:0507_pictureclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClearDB.txt",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_PictureClient\\ClearDB.txt",
+              "RelativeDocumentMoniker": "0507_PictureClient\\ClearDB.txt",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_PictureClient\\ClearDB.txt",
+              "RelativeToolTip": "0507_PictureClient\\ClearDB.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-07T06:36:28.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_PictureClient\\Program.cs",
+              "RelativeDocumentMoniker": "0507_PictureClient\\Program.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_PictureClient\\Program.cs",
+              "RelativeToolTip": "0507_PictureClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:17:20.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PicListForm.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_PictureClient\\PicListForm.cs",
+              "RelativeDocumentMoniker": "0507_PictureClient\\PicListForm.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_PictureClient\\PicListForm.cs",
+              "RelativeToolTip": "0507_PictureClient\\PicListForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:40:33.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PicListForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_PictureClient\\PicListForm.cs",
+              "RelativeDocumentMoniker": "0507_PictureClient\\PicListForm.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_PictureClient\\PicListForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "0507_PictureClient\\PicListForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:32:17.952Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_PictureClient\\App.config",
+              "RelativeDocumentMoniker": "0507_PictureClient\\App.config",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_PictureClient\\App.config",
+              "RelativeToolTip": "0507_PictureClient\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-07T05:26:54.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_PictureClient\\Form1.cs",
+              "RelativeDocumentMoniker": "0507_PictureClient\\Form1.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_PictureClient\\Form1.cs",
+              "RelativeToolTip": "0507_PictureClient\\Form1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:26:33.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_PictureClient\\Form1.cs",
+              "RelativeDocumentMoniker": "0507_PictureClient\\Form1.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\0507_PictureClient\\0507_PictureClient\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "0507_PictureClient\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:26:31.054Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

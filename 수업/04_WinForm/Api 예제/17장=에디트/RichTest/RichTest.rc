@@ -1,0 +1,143 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DLGPARA DIALOG DISCARDABLE  100, 150, 223, 95
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "문단 설정"
+FONT 9, "굴림"
+BEGIN
+    CONTROL         "왼쪽",IDC_ALLEFT,"Button",BS_AUTORADIOBUTTON | WS_GROUP,
+                    10,15,32,10
+    CONTROL         "오른쪽",IDC_ALRIGHT,"Button",BS_AUTORADIOBUTTON,10,30,
+                    40,10
+    CONTROL         "중앙",IDC_ALCENTER,"Button",BS_AUTORADIOBUTTON,10,45,32,
+                    10
+    CONTROL         "1줄",IDC_LINE1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,
+                    73,15,28,10
+    CONTROL         "1.5줄",IDC_LINE1P5,"Button",BS_AUTORADIOBUTTON,73,30,34,
+                    10
+    CONTROL         "2줄",IDC_LINE2,"Button",BS_AUTORADIOBUTTON,73,45,28,10
+    EDITTEXT        IDC_INFIRST,169,15,40,12,ES_AUTOHSCROLL | ES_NUMBER | 
+                    WS_GROUP
+    EDITTEXT        IDC_INLEFT,169,30,40,12,ES_AUTOHSCROLL | ES_NUMBER
+    EDITTEXT        IDC_INRIGHT,169,45,40,12,ES_AUTOHSCROLL | ES_NUMBER
+    DEFPUSHBUTTON   "확인",IDOK,55,70,50,14
+    PUSHBUTTON      "취소",IDCANCEL,119,70,50,14
+    GROUPBOX        "문단 정렬",IDC_STATIC,5,5,55,55
+    GROUPBOX        "줄간",IDC_STATIC,65,5,53,55
+    GROUPBOX        "들여쓰기",IDC_STATIC,129,5,90,55
+    RTEXT           "첫줄",IDC_STATIC,142,17,17,8
+    RTEXT           "왼쪽",IDC_STATIC,142,32,17,8
+    RTEXT           "오른쪽",IDC_STATIC,134,47,25,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU DISCARDABLE 
+BEGIN
+    POPUP "파일"
+    BEGIN
+        MENUITEM "종료",                        IDM_EXIT
+    END
+    POPUP "편집"
+    BEGIN
+        MENUITEM "잘라내기",                    IDM_CUT
+        MENUITEM "복사",                        IDM_COPY
+        MENUITEM "붙여넣기",                    IDM_PASTE
+    END
+    POPUP "서식"
+    BEGIN
+        MENUITEM "글자 서식...",                IDM_SETCHAR
+        MENUITEM "문단 서식",                   IDM_SETPARA
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_DLGPARA, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 216
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 88
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Korean resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

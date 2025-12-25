@@ -1,0 +1,12 @@
+C:\Users\bit1\Desktop\Word_Quiz\Word_Quiz\bin\Debug\Word_Quiz.exe.config
+C:\Users\bit1\Desktop\Word_Quiz\Word_Quiz\bin\Debug\Word_Quiz.exe
+C:\Users\bit1\Desktop\Word_Quiz\Word_Quiz\bin\Debug\Word_Quiz.pdb
+C:\Users\bit1\Desktop\Word_Quiz\Word_Quiz\obj\Debug\Word_Quiz.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\Word_Quiz\Word_Quiz\obj\Debug\Word_Quiz.Properties.Resources.resources
+C:\Users\bit1\Desktop\Word_Quiz\Word_Quiz\obj\Debug\Word_Quiz.StartForm.resources
+C:\Users\bit1\Desktop\Word_Quiz\Word_Quiz\obj\Debug\Word_Quiz.csproj.GenerateResource.cache
+C:\Users\bit1\Desktop\Word_Quiz\Word_Quiz\obj\Debug\Word_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\Word_Quiz\Word_Quiz\obj\Debug\Word_Quiz.exe
+C:\Users\bit1\Desktop\Word_Quiz\Word_Quiz\obj\Debug\Word_Quiz.pdb
+C:\Users\bit1\Desktop\Word_Quiz\Word_Quiz\obj\Debug\Word_Quiz.Forms.GameForm.resources
+C:\Users\bit1\Desktop\Word_Quiz\Word_Quiz\obj\Debug\Word_Quiz.GGForm.resources

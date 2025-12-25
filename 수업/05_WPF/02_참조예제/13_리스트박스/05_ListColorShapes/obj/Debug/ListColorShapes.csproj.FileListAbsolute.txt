@@ -1,0 +1,22 @@
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListColorShapes\bin\Debug\ListColorShapes.exe
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListColorShapes\bin\Debug\ListColorShapes.pdb
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListColorShapes\obj\Debug\ResolveAssemblyReference.cache
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListColorShapes\obj\Debug\ListColorShapes.exe
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListColorShapes\obj\Debug\ListColorShapes.pdb
+C:\Users\kingup\Desktop\07_리스트박스\05_ListColorShapes\obj\Debug\ListColorShapes.exe
+C:\Users\kingup\Desktop\07_리스트박스\05_ListColorShapes\obj\Debug\ListColorShapes.pdb
+C:\Users\kingup\Desktop\07_리스트박스\05_ListColorShapes\bin\Debug\ListColorShapes.exe
+C:\Users\kingup\Desktop\07_리스트박스\05_ListColorShapes\bin\Debug\ListColorShapes.pdb
+C:\Users\kingup\Desktop\07_리스트박스\05_ListColorShapes\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\05_ListColorShapes\obj\Debug\ListColorShapes.exe
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\05_ListColorShapes\obj\Debug\ListColorShapes.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\05_ListColorShapes\bin\Debug\ListColorShapes.exe
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\05_ListColorShapes\bin\Debug\ListColorShapes.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\05_ListColorShapes\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\11_WPF\13_리스트박스\05_ListColorShapes\obj\Debug\ListColorShapes.exe
+C:\Documents and Settings\woosong bit\바탕 화면\11_WPF\13_리스트박스\05_ListColorShapes\obj\Debug\ListColorShapes.pdb
+D:\WOOSONG13\11_WPF\13_리스트박스\05_ListColorShapes\obj\Debug\ListColorShapes.exe
+D:\WOOSONG13\11_WPF\13_리스트박스\05_ListColorShapes\obj\Debug\ListColorShapes.pdb
+D:\WOOSONG13\11_WPF\13_리스트박스\05_ListColorShapes\bin\Debug\ListColorShapes.exe
+D:\WOOSONG13\11_WPF\13_리스트박스\05_ListColorShapes\bin\Debug\ListColorShapes.pdb
+D:\WOOSONG13\11_WPF\13_리스트박스\05_ListColorShapes\obj\Debug\ResolveAssemblyReference.cache

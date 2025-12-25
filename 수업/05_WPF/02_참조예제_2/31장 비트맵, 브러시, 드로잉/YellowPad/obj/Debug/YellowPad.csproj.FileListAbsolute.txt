@@ -1,0 +1,52 @@
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\bin\Debug\YellowPad.exe
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\bin\Debug\YellowPad.pdb
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\Help\Copyright.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\Help\EditMenu.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\Help\EraserModeMenu.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\Help\EraserToolDialog.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\Help\FileMenu.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\Help\Overview.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\Help\HelpMenu.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\Help\StylusModeMenu.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\Help\StylusToolDialog.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\YellowPadAboutDialog.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\YellowPadHelp.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\StylusToolDialog.g.cs
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\YellowPadAboutDialog.g.cs
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\YellowPadHelp.g.cs
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\YellowPadWindow.g.cs
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\YellowPad_MarkupCompile.cache
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\YellowPad_MarkupCompile.lref
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\StylusToolDialog.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\YellowPadWindow.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\YellowPad.g.resources
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\YellowPad.exe
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\Chapter 22\YellowPad\obj\Debug\YellowPad.pdb
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\YellowPad.exe
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\YellowPad.pdb
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\bin\Debug\YellowPad.exe
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\bin\Debug\YellowPad.pdb
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\Help\Copyright.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\Help\EditMenu.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\Help\EraserModeMenu.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\Help\EraserToolDialog.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\Help\FileMenu.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\Help\Overview.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\Help\HelpMenu.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\Help\StylusModeMenu.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\Help\StylusToolDialog.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\YellowPadAboutDialog.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\YellowPadHelp.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\StylusToolDialog.g.cs
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\YellowPadAboutDialog.g.cs
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\YellowPadHelp.g.cs
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\YellowPadWindow.g.cs
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\YellowPad_MarkupCompile.cache
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\YellowPad_MarkupCompile.lref
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\StylusToolDialog.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\YellowPadWindow.baml
+C:\Users\lee\Desktop\WPF 실습\wpf\AppsCodeMarkup\발표자료\YellowPad\obj\Debug\YellowPad.g.resources

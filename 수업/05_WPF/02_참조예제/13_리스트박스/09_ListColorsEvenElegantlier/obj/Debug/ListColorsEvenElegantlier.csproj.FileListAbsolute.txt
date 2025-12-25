@@ -1,0 +1,15 @@
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListColorsEvenElegantlier\bin\Debug\ListColorsEvenElegantlier.exe
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListColorsEvenElegantlier\bin\Debug\ListColorsEvenElegantlier.pdb
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListColorsEvenElegantlier\obj\Debug\ResolveAssemblyReference.cache
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.exe
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.pdb
+C:\Users\kingup\Desktop\07_리스트박스\ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.exe
+C:\Users\kingup\Desktop\07_리스트박스\ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.pdb
+C:\Users\kingup\Desktop\07_리스트박스\ListColorsEvenElegantlier\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\09_ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.exe
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\09_ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\09_ListColorsEvenElegantlier\bin\Debug\ListColorsEvenElegantlier.exe
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\09_ListColorsEvenElegantlier\bin\Debug\ListColorsEvenElegantlier.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\09_ListColorsEvenElegantlier\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\13_리스트박스\09_ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.exe
+C:\Documents and Settings\woosong bit\바탕 화면\13_리스트박스\09_ListColorsEvenElegantlier\obj\Debug\ListColorsEvenElegantlier.pdb

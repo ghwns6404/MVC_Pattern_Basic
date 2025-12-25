@@ -1,0 +1,22 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\DigitalClock\bin\Debug\DigitalClock.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\DigitalClock\bin\Debug\DigitalClock.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\DigitalClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\DigitalClock\obj\Debug\DigitalClockApp.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\DigitalClock\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\DigitalClock\obj\Debug\DigitalClock_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\DigitalClock\obj\Debug\DigitalClock_MarkupCompile.lref
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\DigitalClock\obj\Debug\DigitalClockWindow.baml
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\DigitalClock\obj\Debug\DigitalClock.g.resources
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\DigitalClock\obj\Debug\DigitalClock.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 23\DigitalClock\obj\Debug\DigitalClock.pdb
+C:\Users\Administrator\Desktop\23장 데이터바인딩\DigitalClock\obj\Debug\DigitalClock.exe
+C:\Users\Administrator\Desktop\23장 데이터바인딩\DigitalClock\obj\Debug\DigitalClock.pdb
+C:\Users\Administrator\Desktop\23장 데이터바인딩\DigitalClock\bin\Debug\DigitalClock.exe
+C:\Users\Administrator\Desktop\23장 데이터바인딩\DigitalClock\bin\Debug\DigitalClock.pdb
+C:\Users\Administrator\Desktop\23장 데이터바인딩\DigitalClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\23장 데이터바인딩\DigitalClock\obj\Debug\DigitalClockApp.g.cs
+C:\Users\Administrator\Desktop\23장 데이터바인딩\DigitalClock\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\23장 데이터바인딩\DigitalClock\obj\Debug\DigitalClock_MarkupCompile.cache
+C:\Users\Administrator\Desktop\23장 데이터바인딩\DigitalClock\obj\Debug\DigitalClock_MarkupCompile.lref
+C:\Users\Administrator\Desktop\23장 데이터바인딩\DigitalClock\obj\Debug\DigitalClockWindow.baml
+C:\Users\Administrator\Desktop\23장 데이터바인딩\DigitalClock\obj\Debug\DigitalClock.g.resources

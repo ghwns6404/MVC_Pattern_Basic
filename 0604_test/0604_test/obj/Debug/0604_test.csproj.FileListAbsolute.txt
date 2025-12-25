@@ -1,0 +1,7 @@
+C:\Users\bit1\Desktop\0604_test\0604_test\bin\Debug\0604_test.exe.config
+C:\Users\bit1\Desktop\0604_test\0604_test\bin\Debug\0604_test.exe
+C:\Users\bit1\Desktop\0604_test\0604_test\bin\Debug\0604_test.pdb
+C:\Users\bit1\Desktop\0604_test\0604_test\obj\Debug\0604_test.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\0604_test\0604_test\obj\Debug\0604_test.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\0604_test\0604_test\obj\Debug\0604_test.exe
+C:\Users\bit1\Desktop\0604_test\0604_test\obj\Debug\0604_test.pdb

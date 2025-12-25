@@ -1,0 +1,7 @@
+C:\Users\bit1\Desktop\Physical\Physical\obj\Debug\Physical.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\Physical\Physical\obj\Debug\Physical.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\Physical\Physical\bin\Debug\Physical.exe.config
+C:\Users\bit1\Desktop\Physical\Physical\bin\Debug\Physical.exe
+C:\Users\bit1\Desktop\Physical\Physical\bin\Debug\Physical.pdb
+C:\Users\bit1\Desktop\Physical\Physical\obj\Debug\Physical.exe
+C:\Users\bit1\Desktop\Physical\Physical\obj\Debug\Physical.pdb

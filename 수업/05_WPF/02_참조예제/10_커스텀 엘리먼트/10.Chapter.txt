@@ -1,0 +1,52 @@
+엘리먼트와 컨트롤의 차이
+
+UIElement
+- Focusable 기본값: false
+
+Control 
+- Focusable 기본값: true
+
+
+using System;
+using System.Windows;
+using System.Windows.Media;
+
+namespace Petzold.RenderTheGraphic
+{
+    class SimpleEllipse : FrameworkElement
+    {
+	//DrawingContext : 가장 낮은 수준의 그리기와 관련 메소드
+	//또 다른 의미는 dc
+        protected override void OnRender(DrawingContext drawingContext)
+        {
+            drawingContext.DrawEllipse(Brushes.Blue, 			//타원의 내부
+                new Pen(Brushes.Red, 24),				//타원의 경계선
+                new Point(RenderSize.Width / 2, RenderSize.Height / 2),	//타원의 중심을 가리키는 Point객체
+                RenderSize.Width / 2, RenderSize.Height / 2);		//수평 반경과 수직 반경
+        }    }
+}
+
+HorizontalAlignment : 패널 또는 항목 컨트롤 등의 레이아웃 부모에서 작성하는 경우 
+			요소에 적용되는 가로 맞춤 특성을 가져오거나 설정합니다.
+
+VerticalAlignment : 패널 또는 항목 컨트롤 등의 부모 요소에서 작성하는 경우 
+			요소에 적용되는 세로 맞춤 특성을 가져오거나 설정합니다.
+
+
+엘리먼트에 필요한 최소 크기 -> 요구 크기
+
+-주의사항
+ - 요구 크기 정의를 위해 아무 public 프로퍼티를 사용해서는 안된다.
+ - 엘리먼트 클래스에서는 Width, Height, MinWidth, MaxWidth, MinHeight, MaxHeight 프로퍼티를 설정해서도 안된다.
+ - 커스텀 엘리먼트 클래스의 인스턴스를 만드는 클래스에서 사용하는 프로퍼티들이어스 그대로 유지해야한다.
+
+
+
+MeasureOverride 메소드 오버라이딩해서 요구 크기 선언
+
+MeasureOverride가 호출되면 항상 그 뒤에 OnRender가 한번 호출된다
+그 후에 엘리먼트가 갱신돼야 할 필요가 있다면 추가적으로 OnRender가 호출된다. 
+ - 단 엘리먼트의 크기에 영향을 미칠 경우에 한해서다.
+강제호출 : InvalidateMeasure
+
+엘리먼트의 자연스럽고 적절한 크기를 지정하기 위해서는 MeaswureOverride메소드를 오버라이딩 해야한다.

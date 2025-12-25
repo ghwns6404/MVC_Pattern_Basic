@@ -1,0 +1,10 @@
+C:\Documents and Settings\woosong bit\바탕 화면\Hyun\DESKTOP\Tile\Tile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\Hyun\DESKTOP\Tile\Tile\bin\Debug\Tile.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Hyun\DESKTOP\Tile\Tile\bin\Debug\Tile.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\Hyun\DESKTOP\Tile\Tile\obj\x86\Debug\Tile.exe
+C:\Documents and Settings\woosong bit\바탕 화면\Hyun\DESKTOP\Tile\Tile\obj\x86\Debug\Tile.pdb
+D:\WOOSONG13\11_WPF\7장_Canvas\Tile\Tile\obj\x86\Debug\Tile.exe
+D:\WOOSONG13\11_WPF\7장_Canvas\Tile\Tile\obj\x86\Debug\Tile.pdb
+D:\WOOSONG13\11_WPF\7장_Canvas\Tile\Tile\bin\Debug\Tile.exe
+D:\WOOSONG13\11_WPF\7장_Canvas\Tile\Tile\bin\Debug\Tile.pdb
+D:\WOOSONG13\11_WPF\7장_Canvas\Tile\Tile\obj\x86\Debug\ResolveAssemblyReference.cache

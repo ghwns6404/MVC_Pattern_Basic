@@ -1,0 +1,84 @@
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\1.LineGeometryDemo.baml
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\10.PolyLineSegmentDemo.baml
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\11.OverlappingStars.baml
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\12.ArcPossibilities.baml
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\13.ArcPossibilities2.baml
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\14.FigureWithArcs.baml
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\15.SingleBezier.baml
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\2.RectangleGeometryDemo.baml
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\3.EllipseGeometryDemo.baml
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\4.OverlappingRectangles.baml
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\5.FourOverlappingCircles.baml
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\6.CombinedGeometryModes.baml
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\7.Dumbbell.baml
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\8.TrivialPath.baml
+C:\Users\Administrator\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\9.MultipleLineSegments.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\1.LineGeometryDemo.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\10.PolyLineSegmentDemo.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\11.OverlappingStars.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\12.ArcPossibilities.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\13.ArcPossibilities2.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\14.FigureWithArcs.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\15.SingleBezier.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\2.RectangleGeometryDemo.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\3.EllipseGeometryDemo.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\4.OverlappingRectangles.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\5.FourOverlappingCircles.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\6.CombinedGeometryModes.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\7.Dumbbell.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\8.TrivialPath.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\9.MultipleLineSegments.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+\\61.81.99.99\c#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\1.LineGeometryDemo.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\10.PolyLineSegmentDemo.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\11.OverlappingStars.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\12.ArcPossibilities.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\13.ArcPossibilities2.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\14.FigureWithArcs.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\15.SingleBezier.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\2.RectangleGeometryDemo.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\3.EllipseGeometryDemo.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\4.OverlappingRectangles.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\5.FourOverlappingCircles.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\6.CombinedGeometryModes.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\7.Dumbbell.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\8.TrivialPath.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\9.MultipleLineSegments.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\28_지오메트리와 패스\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

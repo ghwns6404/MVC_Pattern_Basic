@@ -1,0 +1,8 @@
+bin\Debug\FlowLayoutExam.exe
+bin\Debug\FlowLayoutExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FlowLayoutExam.Form1.resources
+obj\Debug\FlowLayoutExam.Properties.Resources.resources
+obj\Debug\FlowLayoutExam.csproj.GenerateResource.Cache
+obj\Debug\FlowLayoutExam.exe
+obj\Debug\FlowLayoutExam.pdb

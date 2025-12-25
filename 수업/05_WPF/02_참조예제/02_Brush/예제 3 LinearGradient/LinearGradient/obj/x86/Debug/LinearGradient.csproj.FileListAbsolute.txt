@@ -1,0 +1,26 @@
+C:\Users\소민호\Documents\비트자료\13_WPF\LinearGradient\bin\Debug\LinearGradient.exe
+C:\Users\소민호\Documents\비트자료\13_WPF\LinearGradient\bin\Debug\LinearGradient.pdb
+C:\Users\소민호\Documents\비트자료\13_WPF\LinearGradient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\소민호\Documents\비트자료\13_WPF\LinearGradient\obj\x86\Debug\MainWindow.baml
+C:\Users\소민호\Documents\비트자료\13_WPF\LinearGradient\obj\x86\Debug\MainWindow.g.cs
+C:\Users\소민호\Documents\비트자료\13_WPF\LinearGradient\obj\x86\Debug\App.g.cs
+C:\Users\소민호\Documents\비트자료\13_WPF\LinearGradient\obj\x86\Debug\LinearGradient_MarkupCompile.cache
+C:\Users\소민호\Documents\비트자료\13_WPF\LinearGradient\obj\x86\Debug\LinearGradient.g.resources
+C:\Users\소민호\Documents\비트자료\13_WPF\LinearGradient\obj\x86\Debug\LinearGradient.Properties.Resources.resources
+C:\Users\소민호\Documents\비트자료\13_WPF\LinearGradient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\소민호\Documents\비트자료\13_WPF\LinearGradient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\소민호\Documents\비트자료\13_WPF\LinearGradient\obj\x86\Debug\LinearGradient.exe
+C:\Users\소민호\Documents\비트자료\13_WPF\LinearGradient\obj\x86\Debug\LinearGradient.pdb
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\LinearGradient\obj\x86\Debug\LinearGradient.exe
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\LinearGradient\bin\Debug\LinearGradient.exe
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\LinearGradient\bin\Debug\LinearGradient.pdb
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\LinearGradient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\LinearGradient\obj\x86\Debug\MainWindow.baml
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\LinearGradient\obj\x86\Debug\MainWindow.g.cs
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\LinearGradient\obj\x86\Debug\App.g.cs
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\LinearGradient\obj\x86\Debug\LinearGradient_MarkupCompile.cache
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\LinearGradient\obj\x86\Debug\LinearGradient.g.resources
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\LinearGradient\obj\x86\Debug\LinearGradient.Properties.Resources.resources
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\LinearGradient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\LinearGradient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\소민호\Documents\비트자료\실습 자료\7) WPF 실습\LinearGradient\obj\x86\Debug\LinearGradient.pdb

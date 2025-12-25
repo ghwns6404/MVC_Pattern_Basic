@@ -1,0 +1,5 @@
+bin\Debug\MultiMenuSelect.exe
+bin\Debug\MultiMenuSelect.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MultiMenuSelect.exe
+obj\Debug\MultiMenuSelect.pdb

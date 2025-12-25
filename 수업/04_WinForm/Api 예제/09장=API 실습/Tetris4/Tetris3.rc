@@ -1,0 +1,139 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU DISCARDABLE 
+BEGIN
+    POPUP "게임(&G)"
+    BEGIN
+        MENUITEM "시작(&S)\tS",                 IDM_GAME_START
+        MENUITEM "중지(&P)\tP",                 IDM_GAME_PAUSE
+        MENUITEM SEPARATOR
+        MENUITEM "공백 보이기(&E)\tE",          IDM_GAME_VIEWSPACE
+        MENUITEM "조용히(&Q)\tQ",               IDM_GAME_QUIET
+        MENUITEM SEPARATOR
+        MENUITEM "&8*15",                       IDM_GAME_SIZE1
+        MENUITEM "&10*20",                      IDM_GAME_SIZE2
+        MENUITEM "1&2*25",                      IDM_GAME_SIZE3
+        MENUITEM "1&5*30",                      IDM_GAME_SIZE4
+        MENUITEM "20*&32",                      IDM_GAME_SIZE5
+        MENUITEM SEPARATOR
+        MENUITEM "종료(&E)\tAlt+F4",            IDM_GAME_EXIT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_ACCELERATOR1 ACCELERATORS DISCARDABLE 
+BEGIN
+    "E",            IDM_GAME_VIEWSPACE,     VIRTKEY, NOINVERT
+    "P",            IDM_GAME_PAUSE,         VIRTKEY, NOINVERT
+    "Q",            IDM_GAME_QUIET,         VIRTKEY, NOINVERT
+    "S",            IDM_GAME_START,         VIRTKEY, NOINVERT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP1             BITMAP  DISCARDABLE     "bitmap1.bmp"
+IDB_BITMAP2             BITMAP  DISCARDABLE     "bitmap2.bmp"
+IDB_BITMAP3             BITMAP  DISCARDABLE     "bitmap3.bmp"
+IDB_BITMAP4             BITMAP  DISCARDABLE     "bitmap4.bmp"
+IDB_BITMAP5             BITMAP  DISCARDABLE     "bitmap5.bmp"
+IDB_BITMAP6             BITMAP  DISCARDABLE     "bitmap6.bmp"
+IDB_BITMAP7             BITMAP  DISCARDABLE     "bitmap7.bmp"
+IDB_BITMAP8             BITMAP  DISCARDABLE     "bitmap8.bmp"
+IDB_BITMAP9             BITMAP  DISCARDABLE     "bitmap9.bmp"
+IDB_BITMAP10            BITMAP  DISCARDABLE     "bitmap10.bmp"
+IDB_BITMAP11            BITMAP  DISCARDABLE     "bitmap11.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON    DISCARDABLE     "icon1.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// WAVE
+//
+
+IDR_WAVE2               WAVE    DISCARDABLE     "제거.wav"
+IDR_WAVE3               WAVE    DISCARDABLE     "내림.wav"
+IDR_WAVE4               WAVE    DISCARDABLE     "이동.wav"
+IDR_WAVE1               WAVE    DISCARDABLE     "회전.wav"
+#endif    // Korean resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

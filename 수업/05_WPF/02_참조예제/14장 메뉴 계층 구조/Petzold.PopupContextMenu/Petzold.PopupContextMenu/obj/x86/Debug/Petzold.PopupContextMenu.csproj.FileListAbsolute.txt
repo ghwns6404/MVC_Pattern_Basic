@@ -1,0 +1,10 @@
+C:\14장 메뉴\Petzold.PopupContextMenu\Petzold.PopupContextMenu\bin\Debug\Petzold.PopupContextMenu.exe
+C:\14장 메뉴\Petzold.PopupContextMenu\Petzold.PopupContextMenu\bin\Debug\Petzold.PopupContextMenu.pdb
+C:\14장 메뉴\Petzold.PopupContextMenu\Petzold.PopupContextMenu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\14장 메뉴\Petzold.PopupContextMenu\Petzold.PopupContextMenu\obj\x86\Debug\Petzold.PopupContextMenu.exe
+C:\14장 메뉴\Petzold.PopupContextMenu\Petzold.PopupContextMenu\obj\x86\Debug\Petzold.PopupContextMenu.pdb
+C:\Users\Administrator\Desktop\WPF\14장 메뉴 계층 구조\Petzold.PopupContextMenu\Petzold.PopupContextMenu\obj\x86\Debug\Petzold.PopupContextMenu.exe
+C:\Users\Administrator\Desktop\WPF\14장 메뉴 계층 구조\Petzold.PopupContextMenu\Petzold.PopupContextMenu\obj\x86\Debug\Petzold.PopupContextMenu.pdb
+C:\Users\Administrator\Desktop\WPF\14장 메뉴 계층 구조\Petzold.PopupContextMenu\Petzold.PopupContextMenu\bin\Debug\Petzold.PopupContextMenu.exe
+C:\Users\Administrator\Desktop\WPF\14장 메뉴 계층 구조\Petzold.PopupContextMenu\Petzold.PopupContextMenu\bin\Debug\Petzold.PopupContextMenu.pdb
+C:\Users\Administrator\Desktop\WPF\14장 메뉴 계층 구조\Petzold.PopupContextMenu\Petzold.PopupContextMenu\obj\x86\Debug\ResolveAssemblyReference.cache

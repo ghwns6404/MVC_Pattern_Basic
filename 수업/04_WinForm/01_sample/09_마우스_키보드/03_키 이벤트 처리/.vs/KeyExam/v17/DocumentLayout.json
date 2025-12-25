@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bit1\\Desktop\\01_sample\\09_\uB9C8\uC6B0\uC2A4_\uD0A4\uBCF4\uB4DC\\03_\uD0A4 \uC774\uBCA4\uD2B8 \uCC98\uB9AC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10FA448E-D6BB-475B-9992-6583286A36CA}|KeyExam\\KeyExam.csproj|c:\\users\\bit1\\desktop\\01_sample\\09_\uB9C8\uC6B0\uC2A4_\uD0A4\uBCF4\uB4DC\\03_\uD0A4 \uC774\uBCA4\uD2B8 \uCC98\uB9AC\\keyexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FA448E-D6BB-475B-9992-6583286A36CA}|KeyExam\\KeyExam.csproj|solutionrelative:keyexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FA448E-D6BB-475B-9992-6583286A36CA}|KeyExam\\KeyExam.csproj|c:\\users\\bit1\\desktop\\01_sample\\09_\uB9C8\uC6B0\uC2A4_\uD0A4\uBCF4\uB4DC\\03_\uD0A4 \uC774\uBCA4\uD2B8 \uCC98\uB9AC\\keyexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10FA448E-D6BB-475B-9992-6583286A36CA}|KeyExam\\KeyExam.csproj|solutionrelative:keyexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\01_sample\\09_\uB9C8\uC6B0\uC2A4_\uD0A4\uBCF4\uB4DC\\03_\uD0A4 \uC774\uBCA4\uD2B8 \uCC98\uB9AC\\KeyExam\\Program.cs",
+              "RelativeDocumentMoniker": "KeyExam\\Program.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\01_sample\\09_\uB9C8\uC6B0\uC2A4_\uD0A4\uBCF4\uB4DC\\03_\uD0A4 \uC774\uBCA4\uD2B8 \uCC98\uB9AC\\KeyExam\\Program.cs",
+              "RelativeToolTip": "KeyExam\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:18:52.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\01_sample\\09_\uB9C8\uC6B0\uC2A4_\uD0A4\uBCF4\uB4DC\\03_\uD0A4 \uC774\uBCA4\uD2B8 \uCC98\uB9AC\\KeyExam\\Program.cs",
+              "RelativeDocumentMoniker": "KeyExam\\Program.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\01_sample\\09_\uB9C8\uC6B0\uC2A4_\uD0A4\uBCF4\uB4DC\\03_\uD0A4 \uC774\uBCA4\uD2B8 \uCC98\uB9AC\\KeyExam\\Program.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "KeyExam\\Program.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:18:40.555Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

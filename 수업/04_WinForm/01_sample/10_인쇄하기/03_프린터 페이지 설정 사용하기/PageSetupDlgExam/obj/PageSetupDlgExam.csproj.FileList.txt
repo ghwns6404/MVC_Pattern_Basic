@@ -1,0 +1,8 @@
+bin\Debug\PageSetupDlgExam.exe
+bin\Debug\PageSetupDlgExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PageSetupDlgExam.Form1.resources
+obj\Debug\PageSetupDlgExam.Properties.Resources.resources
+obj\Debug\PageSetupDlgExam.csproj.GenerateResource.Cache
+obj\Debug\PageSetupDlgExam.exe
+obj\Debug\PageSetupDlgExam.pdb

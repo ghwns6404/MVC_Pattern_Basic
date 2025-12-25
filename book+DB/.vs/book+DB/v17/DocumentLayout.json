@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bit1\\Desktop\\book\u002BDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D34E36C-1648-4AC5-87E7-4EFDEA3DB76D}|book\u002BDB\\book\u002BDB.csproj|c:\\users\\bit1\\desktop\\book\u002Bdb\\book\u002Bdb\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D34E36C-1648-4AC5-87E7-4EFDEA3DB76D}|book\u002BDB\\book\u002BDB.csproj|solutionrelative:book\u002Bdb\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D34E36C-1648-4AC5-87E7-4EFDEA3DB76D}|book\u002BDB\\book\u002BDB.csproj|c:\\users\\bit1\\desktop\\book\u002Bdb\\book\u002Bdb\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D34E36C-1648-4AC5-87E7-4EFDEA3DB76D}|book\u002BDB\\book\u002BDB.csproj|solutionrelative:book\u002Bdb\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D34E36C-1648-4AC5-87E7-4EFDEA3DB76D}|book\u002BDB\\book\u002BDB.csproj|c:\\users\\bit1\\desktop\\book\u002Bdb\\book\u002Bdb\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D34E36C-1648-4AC5-87E7-4EFDEA3DB76D}|book\u002BDB\\book\u002BDB.csproj|solutionrelative:book\u002Bdb\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D34E36C-1648-4AC5-87E7-4EFDEA3DB76D}|book\u002BDB\\book\u002BDB.csproj|c:\\users\\bit1\\desktop\\book\u002Bdb\\book\u002Bdb\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D34E36C-1648-4AC5-87E7-4EFDEA3DB76D}|book\u002BDB\\book\u002BDB.csproj|solutionrelative:book\u002Bdb\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D34E36C-1648-4AC5-87E7-4EFDEA3DB76D}|book\u002BDB\\book\u002BDB.csproj|c:\\users\\bit1\\desktop\\book\u002Bdb\\book\u002Bdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D34E36C-1648-4AC5-87E7-4EFDEA3DB76D}|book\u002BDB\\book\u002BDB.csproj|solutionrelative:book\u002Bdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D34E36C-1648-4AC5-87E7-4EFDEA3DB76D}|book\u002BDB\\book\u002BDB.csproj|c:\\users\\bit1\\desktop\\book\u002Bdb\\book\u002Bdb\\wblib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D34E36C-1648-4AC5-87E7-4EFDEA3DB76D}|book\u002BDB\\book\u002BDB.csproj|solutionrelative:book\u002Bdb\\wblib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\book\u002BDB\\book\u002BDB\\DB.cs",
+              "RelativeDocumentMoniker": "book\u002BDB\\DB.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\book\u002BDB\\book\u002BDB\\DB.cs",
+              "RelativeToolTip": "book\u002BDB\\DB.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAgwIEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:56:57.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WbLib.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\book\u002BDB\\book\u002BDB\\WbLib.cs",
+              "RelativeDocumentMoniker": "book\u002BDB\\WbLib.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\book\u002BDB\\book\u002BDB\\WbLib.cs",
+              "RelativeToolTip": "book\u002BDB\\WbLib.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:44:32.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Control.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\book\u002BDB\\book\u002BDB\\Control.cs",
+              "RelativeDocumentMoniker": "book\u002BDB\\Control.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\book\u002BDB\\book\u002BDB\\Control.cs",
+              "RelativeToolTip": "book\u002BDB\\Control.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAtwFkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:44:25.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\book\u002BDB\\book\u002BDB\\App.cs",
+              "RelativeDocumentMoniker": "book\u002BDB\\App.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\book\u002BDB\\book\u002BDB\\App.cs",
+              "RelativeToolTip": "book\u002BDB\\App.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAlwBsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:44:18.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\book\u002BDB\\book\u002BDB\\Book.cs",
+              "RelativeDocumentMoniker": "book\u002BDB\\Book.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\book\u002BDB\\book\u002BDB\\Book.cs",
+              "RelativeToolTip": "book\u002BDB\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:44:11.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\book\u002BDB\\book\u002BDB\\Program.cs",
+              "RelativeDocumentMoniker": "book\u002BDB\\Program.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\book\u002BDB\\book\u002BDB\\Program.cs",
+              "RelativeToolTip": "book\u002BDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:42:19.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

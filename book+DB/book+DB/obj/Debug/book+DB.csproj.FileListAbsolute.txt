@@ -1,0 +1,7 @@
+C:\Users\bit1\Desktop\book+DB\book+DB\bin\Debug\book+DB.exe.config
+C:\Users\bit1\Desktop\book+DB\book+DB\bin\Debug\book+DB.exe
+C:\Users\bit1\Desktop\book+DB\book+DB\bin\Debug\book+DB.pdb
+C:\Users\bit1\Desktop\book+DB\book+DB\obj\Debug\book+DB.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\book+DB\book+DB\obj\Debug\book+DB.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\book+DB\book+DB\obj\Debug\book+DB.exe
+C:\Users\bit1\Desktop\book+DB\book+DB\obj\Debug\book+DB.pdb

@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\printform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|solutionrelative:form\\printform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|e:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCado.net\u0026xml.net\\0423_form\uC5F0\uC2B5\\shapecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|solutionrelative:shapecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|solutionrelative:form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|solutionrelative:form\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|solutionrelative:form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\colorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|solutionrelative:form\\colorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\data\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|solutionrelative:data\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\printform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|solutionrelative:form\\printform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\colorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C80761-E162-4C8D-A437-3A7E4F0F96F6}|0423_FORM\uC5F0\uC2B5.csproj|solutionrelative:form\\colorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintForm.cs",
+              "DocumentMoniker": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\PrintForm.cs",
+              "RelativeDocumentMoniker": "form\\PrintForm.cs",
+              "ToolTip": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\PrintForm.cs",
+              "RelativeToolTip": "form\\PrintForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwBwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:32:45.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\MainForm.cs",
+              "RelativeDocumentMoniker": "form\\MainForm.cs",
+              "ToolTip": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\MainForm.cs",
+              "RelativeToolTip": "form\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:29:18.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShapeControl.cs",
+              "DocumentMoniker": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\ShapeControl.cs",
+              "RelativeDocumentMoniker": "ShapeControl.cs",
+              "ToolTip": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\ShapeControl.cs",
+              "RelativeToolTip": "ShapeControl.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwDYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:58:29.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrintForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\PrintForm.cs",
+              "RelativeDocumentMoniker": "form\\PrintForm.cs",
+              "ToolTip": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\PrintForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "form\\PrintForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:32:43.556Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\MainForm.cs",
+              "RelativeDocumentMoniker": "form\\MainForm.cs",
+              "ToolTip": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\MainForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "form\\MainForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:28:19.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\data\\Shape.cs",
+              "RelativeDocumentMoniker": "data\\Shape.cs",
+              "ToolTip": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\data\\Shape.cs",
+              "RelativeToolTip": "data\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:59:46.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColorForm.cs",
+              "DocumentMoniker": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\ColorForm.cs",
+              "RelativeDocumentMoniker": "form\\ColorForm.cs",
+              "ToolTip": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\ColorForm.cs",
+              "RelativeToolTip": "form\\ColorForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:32:25.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ColorForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\ColorForm.cs",
+              "RelativeDocumentMoniker": "form\\ColorForm.cs",
+              "ToolTip": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\ColorForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "form\\ColorForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:32:21.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "form\\MainForm.Designer.cs",
+              "ToolTip": "E:\\\uBE44\uD2B8\uACE0\uAE09\uD55C\uC2B9\uD5CCADO.NET\u0026XML.NET\\0423_FORM\uC5F0\uC2B5\\form\\MainForm.Designer.cs",
+              "RelativeToolTip": "form\\MainForm.Designer.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAowK4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:46:32.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

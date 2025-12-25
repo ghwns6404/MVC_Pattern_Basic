@@ -1,0 +1,20 @@
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\20_프로퍼티와 속성\Chapter 20\XamlCruncher\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\20_프로퍼티와 속성\Chapter 20\XamlCruncher\obj\Debug\XamlTabSpacesDialog.baml
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\20_프로퍼티와 속성\Chapter 20\XamlCruncher\obj\Debug\XamlTabSpacesDialog.g.cs
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\20_프로퍼티와 속성\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher_Content.g.cs
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\20_프로퍼티와 속성\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\20_프로퍼티와 속성\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher.g.resources
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\20_프로퍼티와 속성\Chapter 20\XamlCruncher\bin\Debug\XamlCruncher.exe
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\20_프로퍼티와 속성\Chapter 20\XamlCruncher\bin\Debug\XamlCruncher.pdb
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\20_프로퍼티와 속성\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher.exe
+C:\Documents and Settings\woosong bit\My Documents\비트 고급반\12_WPF\00_수업자료\20_프로퍼티와 속성\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher.pdb
+D:\WOOSONG13\11_WPF\20_프로퍼티와 속성\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher.exe
+D:\WOOSONG13\11_WPF\20_프로퍼티와 속성\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher.pdb
+D:\WOOSONG13\11_WPF\20_프로퍼티와 속성\Chapter 20\XamlCruncher\bin\Debug\XamlCruncher.exe
+D:\WOOSONG13\11_WPF\20_프로퍼티와 속성\Chapter 20\XamlCruncher\bin\Debug\XamlCruncher.pdb
+D:\WOOSONG13\11_WPF\20_프로퍼티와 속성\Chapter 20\XamlCruncher\obj\Debug\ResolveAssemblyReference.cache
+D:\WOOSONG13\11_WPF\20_프로퍼티와 속성\Chapter 20\XamlCruncher\obj\Debug\XamlTabSpacesDialog.baml
+D:\WOOSONG13\11_WPF\20_프로퍼티와 속성\Chapter 20\XamlCruncher\obj\Debug\XamlTabSpacesDialog.g.cs
+D:\WOOSONG13\11_WPF\20_프로퍼티와 속성\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher_Content.g.cs
+D:\WOOSONG13\11_WPF\20_프로퍼티와 속성\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher_MarkupCompile.cache
+D:\WOOSONG13\11_WPF\20_프로퍼티와 속성\Chapter 20\XamlCruncher\obj\Debug\XamlCruncher.g.resources

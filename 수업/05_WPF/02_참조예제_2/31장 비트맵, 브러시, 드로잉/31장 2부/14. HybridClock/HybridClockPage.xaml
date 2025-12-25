@@ -1,0 +1,161 @@
+﻿<!-- ==================================================
+      HybridClockPage.xaml (c) 2006 by Charles Petzold
+     ================================================== -->
+<Page x:Class="Petzold.HybridClock.HybridClockPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:src="clr-namespace:Petzold.HybridClock" 
+      WindowTitle="Hybrid Analog/Digital Clock"
+      Title="Hybrid Analog/Digital Clock" 
+      Background="Pink">
+
+    <!-- 현재 시간을 제공하는 클래스가 사용할 리소스. -->
+    <Page.Resources>
+        <src:ClockTicker x:Key="clock" />
+    </Page.Resources>
+
+    <!-- 프로그램 저작권에 대한 정보를 표시하는 ToolTip. -->
+    <Page.ToolTip>
+        <TextBlock TextAlignment="Center">
+            Hybrid Analog/Digital Clock
+            <LineBreak />&#x00A9; 2006 by Charles Petzold
+            <LineBreak />www.charlespetzold.com
+        </TextBlock>
+    </Page.ToolTip>
+
+    <Viewbox>
+        <!-- 시계 전체를 셀(cell)이 하나뿐인 외부 그리드(grid)가 감쌈. -->
+        <Grid>
+            <Ellipse>
+                <Ellipse.Fill>
+                    <SolidColorBrush Color="{x:Static 
+                        src:HybridClockPage.clrBackground}" />
+
+                    <!-- 불행하게도 RadialGradientBrush는 프로그램의 성능을 심각하게 떨어뜨림. -->
+                    <!-- RadialGradientBrush GradientOrigin="0.4, 0.4">
+                        <RadialGradientBrush.GradientStops>
+                            <GradientStop Offset="0" Color="White" />
+                            <GradientStop Offset="1" 
+                                Color="{x:Static 
+                                src:HybridClockPage.clrBackground}" />
+                        </RadialGradientBrush.GradientStops>
+                    </RadialGradientBrush -->
+                       
+                </Ellipse.Fill>
+            </Ellipse>
+
+            <!-- 다음의 안쪽 single-cell Grid는 문자열의 폭에 의해 크기 결정. -->
+            <Grid Name="grd" Margin="12">
+
+                <!-- 보이지 않는 가로 방향 날짜/시간 문자열 2개 생성. -->
+                <StackPanel Orientation="Horizontal" Opacity="0"
+                            VerticalAlignment="Center">
+                    <TextBlock Name="datetime"
+                               Text="{Binding Source={StaticResource clock},
+                                              Path=DateTime}" />
+                    <TextBlock Text="{Binding ElementName=datetime, 
+                                              Path=Text}" />
+                </StackPanel>
+
+                <!-- 보이지 않는 세로 방향 날짜/시간 문자열 2개 생성. -->
+                <StackPanel Orientation="Horizontal" Opacity="0"
+                            HorizontalAlignment="Center">
+                    <TextBlock Text="{Binding ElementName=datetime, 
+                                              Path=Text}" />
+                    <TextBlock Text="{Binding ElementName=datetime, 
+                                              Path=Text}" />
+                    <StackPanel.LayoutTransform>
+                        <RotateTransform Angle="90" />
+                    </StackPanel.LayoutTransform>
+                </StackPanel>
+
+                <!-- 회전하는 날짜/시간 문자열 2개 생성. -->
+                <StackPanel Orientation="Horizontal"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            StackPanel.RenderTransformOrigin="0.5 0.5">
+                    <TextBlock Text="{Binding ElementName=datetime, Path=Text}"
+                               Opacity="0" />
+                    <TextBlock Text="{Binding ElementName=datetime, Path=Text}"
+                               Name="txt1" Opacity="0.5"/>
+
+                    <StackPanel.RenderTransform>
+                        <RotateTransform x:Name="xform1"/>
+                    </StackPanel.RenderTransform>
+                </StackPanel>
+
+                <!-- 회전하는 날짜/시간 문자열 2개 더 생성. -->
+                <StackPanel Orientation="Horizontal"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            RenderTransformOrigin="0.5 0.5">
+                    <TextBlock Text="{Binding ElementName=datetime, Path=Text}"
+                               Name="txt2"
+                               Opacity="0.5" />
+                    <TextBlock Text="{Binding ElementName=datetime, Path=Text}"
+                               Opacity="0" />
+
+                    <StackPanel.RenderTransform>
+                        <RotateTransform x:Name="xform2"/>
+                    </StackPanel.RenderTransform>
+                </StackPanel>
+            </Grid>
+
+            <!-- 회전 가능한 마스크(코드에 의해 정의). -->
+            <Ellipse Name="mask"
+                     RenderTransformOrigin="0.5 0.5" >
+                <Ellipse.RenderTransform>
+                    <RotateTransform x:Name="xform3"/>
+                </Ellipse.RenderTransform>
+            </Ellipse>
+        </Grid>
+    </Viewbox>
+    
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="Page.Loaded">
+            <BeginStoryboard>
+                <Storyboard x:Name="storyboard">
+
+                    <!-- 문자열과 투명 마스크를 움직이는 Double 애니메이션. -->
+                    <DoubleAnimation Storyboard.TargetName="xform1"
+                                     Storyboard.TargetProperty="Angle"
+                                     From="-90" To="270" Duration="0:1:0"
+                                     RepeatBehavior="Forever" />
+
+                    <DoubleAnimation Storyboard.TargetName="xform2"
+                                     Storyboard.TargetProperty="Angle"
+                                     From="-270" To="90" Duration="0:1:0"
+                                     RepeatBehavior="Forever" />
+
+                    <DoubleAnimation Storyboard.TargetName="xform3"
+                                     Storyboard.TargetProperty="Angle"
+                                     From="-90" To="270" Duration="0:1:0"
+                                     RepeatBehavior="Forever" />
+
+                    <!-- 점차 사리즌 효과를 만드는 Key frame 애니메이션. -->
+                    <DoubleAnimationUsingKeyFrames 
+                            Storyboard.TargetName="txt1"
+                            Storyboard.TargetProperty="Opacity"
+                            Duration="0:1:0" RepeatBehavior="Forever">
+                        <LinearDoubleKeyFrame Value="1" KeyTime="0:0:0.5" />
+                        <DiscreteDoubleKeyFrame Value="1" KeyTime="0:0:29.5" />
+                        <LinearDoubleKeyFrame Value="0" KeyTime="0:0:30.5" />
+                        <DiscreteDoubleKeyFrame Value="0" KeyTime="0:0:59.5" />
+                        <LinearDoubleKeyFrame Value="0.5" KeyTime="0:1:0" />
+                    </DoubleAnimationUsingKeyFrames>
+
+                    <DoubleAnimationUsingKeyFrames 
+                            Storyboard.TargetName="txt2"
+                            Storyboard.TargetProperty="Opacity"
+                            Duration="0:1:0" RepeatBehavior="Forever">
+                        <LinearDoubleKeyFrame Value="0" KeyTime="0:0:0.5" />
+                        <DiscreteDoubleKeyFrame Value="0" KeyTime="0:0:29.5" />
+                        <LinearDoubleKeyFrame Value="1" KeyTime="0:0:30.5" />
+                        <DiscreteDoubleKeyFrame Value="1" KeyTime="0:0:59.5" />
+                        <LinearDoubleKeyFrame Value="0.5" KeyTime="0:1:0" />
+                    </DoubleAnimationUsingKeyFrames>
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+    </Page.Triggers>
+</Page>

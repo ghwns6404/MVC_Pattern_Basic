@@ -1,0 +1,8 @@
+bin\Debug\ToolStripExam.exe
+bin\Debug\ToolStripExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ToolStripExam.CopyFolderHS.bmp
+obj\Debug\ToolStripExam.CopyHS.bmp
+obj\Debug\ToolStripExam.CutHS.bmp
+obj\Debug\ToolStripExam.exe
+obj\Debug\ToolStripExam.pdb

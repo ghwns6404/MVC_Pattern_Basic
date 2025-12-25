@@ -1,0 +1,47 @@
+﻿출처: https://jeongkyun-it.tistory.com/59 [나의 과거일지]
+
+예시 1) 인자가 있는 메소드를 호출 하는 경우 (Callback 메소드 사용)
+
+delegate void fnSetTextBoxCallback(string contents); 
+private void SetTextBox(string contents) 
+{ 
+   //생성된 스레드가 아닌 다른 스레드에서 호출될 경우 true 
+   if (this.textBox.InvokeRequired) 
+   { 
+		this.Invoke(new fnSetTextBoxCallback(SetTextboxInput), 
+			new object[] { contents }); 
+   } 
+   else 
+   { 
+	this.textBox.Text = contents; 
+	} 
+
+}
+
+private void SetTextboxInput(string contents) 
+{ 
+	this.textBox.Text = contents; 
+}
+
+
+예시 2) 인자가 없는 메소드를 호출 하는 경우 (MethodInvoker 사용) 
+
+
+public static void SetTextBox(TextBox tb, string contents) 
+{ 
+	//생성된 스레드가 아닌 다른 스레드에서 호출될 경우 true 
+	if (tb.InvokeRequired) 
+	{ 
+		tb.Invoke(new MethodInvoker(delegate() 
+			{ 
+				tb.Text = contents; 
+			})); 
+	} 
+	else 
+	{ 
+		tb.Text = contents; 
+	} 
+}
+
+
+

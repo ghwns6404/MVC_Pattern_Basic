@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\0414_람다식\0414_람다식\bin\Debug\0414_람다식.exe.config
+C:\Users\user\Desktop\0414_람다식\0414_람다식\bin\Debug\0414_람다식.exe
+C:\Users\user\Desktop\0414_람다식\0414_람다식\bin\Debug\0414_람다식.pdb
+C:\Users\user\Desktop\0414_람다식\0414_람다식\obj\Debug\0414_람다식.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0414_람다식\0414_람다식\obj\Debug\0414_람다식.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\0414_람다식\0414_람다식\obj\Debug\0414_람다식.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0414_람다식\0414_람다식\obj\Debug\0414_람다식.exe
+C:\Users\user\Desktop\0414_람다식\0414_람다식\obj\Debug\0414_람다식.pdb

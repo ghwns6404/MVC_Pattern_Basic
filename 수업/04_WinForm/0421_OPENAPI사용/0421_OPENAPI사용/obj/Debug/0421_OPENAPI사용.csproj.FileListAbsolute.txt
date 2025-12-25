@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\0421_OPENAPI사용\0421_OPENAPI사용\bin\Debug\0421_OPENAPI사용.exe.config
+C:\Users\user\Desktop\C#\0421_OPENAPI사용\0421_OPENAPI사용\bin\Debug\0421_OPENAPI사용.exe
+C:\Users\user\Desktop\C#\0421_OPENAPI사용\0421_OPENAPI사용\bin\Debug\0421_OPENAPI사용.pdb
+C:\Users\user\Desktop\C#\0421_OPENAPI사용\0421_OPENAPI사용\obj\Debug\0421_OPENAPI사용.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\0421_OPENAPI사용\0421_OPENAPI사용\obj\Debug\0421_OPENAPI사용.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\0421_OPENAPI사용\0421_OPENAPI사용\obj\Debug\0421_OPENAPI사용.exe
+C:\Users\user\Desktop\C#\0421_OPENAPI사용\0421_OPENAPI사용\obj\Debug\0421_OPENAPI사용.pdb
+C:\Users\bit1\Desktop\0421_OPENAPI사용\0421_OPENAPI사용\bin\Debug\0421_OPENAPI사용.exe.config
+C:\Users\bit1\Desktop\0421_OPENAPI사용\0421_OPENAPI사용\bin\Debug\0421_OPENAPI사용.exe
+C:\Users\bit1\Desktop\0421_OPENAPI사용\0421_OPENAPI사용\bin\Debug\0421_OPENAPI사용.pdb
+C:\Users\bit1\Desktop\0421_OPENAPI사용\0421_OPENAPI사용\obj\Debug\0421_OPENAPI사용.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\0421_OPENAPI사용\0421_OPENAPI사용\obj\Debug\0421_OPENAPI사용.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\0421_OPENAPI사용\0421_OPENAPI사용\obj\Debug\0421_OPENAPI사용.exe
+C:\Users\bit1\Desktop\0421_OPENAPI사용\0421_OPENAPI사용\obj\Debug\0421_OPENAPI사용.pdb

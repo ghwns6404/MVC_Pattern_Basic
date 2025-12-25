@@ -1,0 +1,22 @@
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\SelectColorFromGrid\bin\Debug\SelectColorFromGrid.exe
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\SelectColorFromGrid\bin\Debug\SelectColorFromGrid.pdb
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\SelectColorFromGrid\obj\Debug\ResolveAssemblyReference.cache
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\SelectColorFromGrid\obj\Debug\SelectColorFromGrid.exe
+D:\!____________UPDATE\11_WPF\AppsCodeMarkup\Chapter 13\SelectColorFromGrid\obj\Debug\SelectColorFromGrid.pdb
+C:\Users\kingup\Desktop\07_리스트박스\SelectColorFromGrid\obj\Debug\SelectColorFromGrid.exe
+C:\Users\kingup\Desktop\07_리스트박스\SelectColorFromGrid\obj\Debug\SelectColorFromGrid.pdb
+C:\Users\kingup\Desktop\07_리스트박스\SelectColorFromGrid\bin\Debug\SelectColorFromGrid.exe
+C:\Users\kingup\Desktop\07_리스트박스\SelectColorFromGrid\bin\Debug\SelectColorFromGrid.pdb
+C:\Users\kingup\Desktop\07_리스트박스\SelectColorFromGrid\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\10_SelectColorFromGrid\obj\Debug\SelectColorFromGrid.exe
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\10_SelectColorFromGrid\obj\Debug\SelectColorFromGrid.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\10_SelectColorFromGrid\bin\Debug\SelectColorFromGrid.exe
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\10_SelectColorFromGrid\bin\Debug\SelectColorFromGrid.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\07_리스트박스\10_SelectColorFromGrid\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\13_리스트박스\10_SelectColorFromGrid\obj\Debug\SelectColorFromGrid.exe
+C:\Documents and Settings\woosong bit\바탕 화면\13_리스트박스\10_SelectColorFromGrid\obj\Debug\SelectColorFromGrid.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\13_리스트박스\10_SelectColorFromGrid\obj\Debug\SelectColorFromGrid.exe
+\\61.81.99.99\c#\11_WPF 발표자료\13_리스트박스\10_SelectColorFromGrid\obj\Debug\SelectColorFromGrid.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\13_리스트박스\10_SelectColorFromGrid\bin\Debug\SelectColorFromGrid.exe
+\\61.81.99.99\c#\11_WPF 발표자료\13_리스트박스\10_SelectColorFromGrid\bin\Debug\SelectColorFromGrid.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\13_리스트박스\10_SelectColorFromGrid\obj\Debug\ResolveAssemblyReference.cache

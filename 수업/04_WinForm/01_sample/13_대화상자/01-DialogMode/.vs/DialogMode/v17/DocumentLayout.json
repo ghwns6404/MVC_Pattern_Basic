@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bit1\\Desktop\\01_sample\\13_\uB300\uD654\uC0C1\uC790\\01-DialogMode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{951CA9B1-BE22-4CE1-AABC-7DAA6D8DE913}|DialogMode\\DialogMode.csproj|c:\\users\\bit1\\desktop\\01_sample\\13_\uB300\uD654\uC0C1\uC790\\01-dialogmode\\dialogmode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951CA9B1-BE22-4CE1-AABC-7DAA6D8DE913}|DialogMode\\DialogMode.csproj|solutionrelative:dialogmode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951CA9B1-BE22-4CE1-AABC-7DAA6D8DE913}|DialogMode\\DialogMode.csproj|c:\\users\\bit1\\desktop\\01_sample\\13_\uB300\uD654\uC0C1\uC790\\01-dialogmode\\dialogmode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{951CA9B1-BE22-4CE1-AABC-7DAA6D8DE913}|DialogMode\\DialogMode.csproj|solutionrelative:dialogmode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951CA9B1-BE22-4CE1-AABC-7DAA6D8DE913}|DialogMode\\DialogMode.csproj|c:\\users\\bit1\\desktop\\01_sample\\13_\uB300\uD654\uC0C1\uC790\\01-dialogmode\\dialogmode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951CA9B1-BE22-4CE1-AABC-7DAA6D8DE913}|DialogMode\\DialogMode.csproj|solutionrelative:dialogmode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951CA9B1-BE22-4CE1-AABC-7DAA6D8DE913}|DialogMode\\DialogMode.csproj|c:\\users\\bit1\\desktop\\01_sample\\13_\uB300\uD654\uC0C1\uC790\\01-dialogmode\\dialogmode\\examform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{951CA9B1-BE22-4CE1-AABC-7DAA6D8DE913}|DialogMode\\DialogMode.csproj|solutionrelative:dialogmode\\examform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\01_sample\\13_\uB300\uD654\uC0C1\uC790\\01-DialogMode\\DialogMode\\Form1.cs",
+              "RelativeDocumentMoniker": "DialogMode\\Form1.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\01_sample\\13_\uB300\uD654\uC0C1\uC790\\01-DialogMode\\DialogMode\\Form1.cs",
+              "RelativeToolTip": "DialogMode\\Form1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:23:42.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\01_sample\\13_\uB300\uD654\uC0C1\uC790\\01-DialogMode\\DialogMode\\Form1.cs",
+              "RelativeDocumentMoniker": "DialogMode\\Form1.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\01_sample\\13_\uB300\uD654\uC0C1\uC790\\01-DialogMode\\DialogMode\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "DialogMode\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:23:37.561Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\01_sample\\13_\uB300\uD654\uC0C1\uC790\\01-DialogMode\\DialogMode\\Program.cs",
+              "RelativeDocumentMoniker": "DialogMode\\Program.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\01_sample\\13_\uB300\uD654\uC0C1\uC790\\01-DialogMode\\DialogMode\\Program.cs",
+              "RelativeToolTip": "DialogMode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:23:06.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExamForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\bit1\\Desktop\\01_sample\\13_\uB300\uD654\uC0C1\uC790\\01-DialogMode\\DialogMode\\ExamForm.cs",
+              "RelativeDocumentMoniker": "DialogMode\\ExamForm.cs",
+              "ToolTip": "C:\\Users\\bit1\\Desktop\\01_sample\\13_\uB300\uD654\uC0C1\uC790\\01-DialogMode\\DialogMode\\ExamForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "DialogMode\\ExamForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:23:27.152Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

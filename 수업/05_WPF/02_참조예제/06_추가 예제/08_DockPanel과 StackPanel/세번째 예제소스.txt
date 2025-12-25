@@ -1,0 +1,114 @@
+<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    Title="Employee Directory" Height="480" Width="640"
+    >
+<Grid>
+<DockPanel LastChildFill="False">
+   <Border
+      DockPanel.Dock="Top"
+      BorderBrush="Black"
+      BorderThickness="1"
+      Height="70">
+      <Label 
+         FontFamily="Verdana"  
+         FontSize="32" 
+         HorizontalAlignment="Center">
+	ACME Software Employee Directory
+	</Label>
+   </Border>
+   <Border
+      DockPanel.Dock="Left"
+      BorderBrush="Black"
+      BorderThickness="1"
+      Width="400">
+      <StackPanel>
+      <Label 
+         FontFamily="Verdana" 
+         FontWeight="Bold" FontSize="18" 
+         HorizontalAlignment="Left"
+      >Name: Alex Horovitz</Label>
+      <Separator 
+         Height="5" 
+         Margin="2,0,40,0" 
+         Name="s1" 
+         VerticalAlignment="Bottom" 
+      />
+      <Label 
+         FontFamily="Verdana" 
+         FontSize="14" 
+         HorizontalAlignment="Left"
+      >Department: Software Engineering</Label>
+      <Label 
+         FontFamily="Verdana" 
+         FontSize="14" 
+         HorizontalAlignment="Left"
+      >Location: Acton, MA</Label>
+      <Label 
+         FontFamily="Verdana" 
+         FontSize="14" 
+         HorizontalAlignment="Left"
+      >Email: alex@alexhorovitz.com</Label>
+      <Separator 
+         Height="5" 
+         Margin="2,0,40,0" 
+         Name="s2" 
+         VerticalAlignment="Bottom" 
+      />
+      <DockPanel>
+         <Border 
+            DockPanel.Dock="Left" 
+            BorderThickness="0"
+         >
+         <Image 
+           Width="80"  
+              Source="E:\5. My File\UpdateData/Jellyfish.jpg"
+         />
+         </Border>
+         <Border DockPanel.Dock="Right" BorderThickness="0">
+            <Label 
+               FontFamily="Verdana" 
+               FontSize="14" 
+               HorizontalAlignment="Left" 
+               VerticalAlignment="Center"
+            >978 555 1111</Label>
+         </Border>
+      </DockPanel>
+      <DockPanel>
+         <Border 
+            DockPanel.Dock="Left" 
+            BorderThickness="0"
+         >
+            <Image Width="80" Source="E:\5. My File\UpdateData/Jellyfish.jpg"/>
+         </Border>
+         <Border DockPanel.Dock="Right" BorderThickness="0">
+            <Label FontFamily="Verdana" FontSize="14" HorizontalAlignment="Left" VerticalAlignment="Center">978 555 1212</Label>
+         </Border>
+      </DockPanel>
+      <DockPanel>
+         <Border DockPanel.Dock="Left" BorderThickness="0">
+            <Image Width="80" Source="E:\5. My File\UpdateData/UpdateDataChrysanthemum.jpg"/>
+         </Border>
+         <Border DockPanel.Dock="Right" BorderThickness="0">
+            <Label FontFamily="Verdana" FontSize="14" HorizontalAlignment="Left" VerticalAlignment="Center">978 555 1313</Label>
+         </Border>
+      </DockPanel>
+</StackPanel>
+    </Border>
+   <Border
+      DockPanel.Dock="Right"
+      BorderBrush="Black"
+      BorderThickness="1"
+      Width="240">
+      <StackPanel>
+      <Image Name="EmployeePicture" 
+			Margin="0,10,0,0" 
+			Height="200" 
+			HorizontalAlignment="Center" 
+			VerticalAlignment="Top" 
+			Width="200" Source=" 
+			http://www.oreilly.com/catalog/covers/059652921X_cat.gif" />
+      </StackPanel>
+   </Border>
+</DockPanel>
+</Grid>
+</Window>

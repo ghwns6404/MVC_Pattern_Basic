@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiPipe1", "MultiPipe1\MultiPipe1.vcproj", "{01E14E35-70EB-4146-A060-BFC156DCA1A4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiPipe2", "MultiPipe2\MultiPipe2.vcproj", "{FCF9BA5F-4094-4B80-9EC3-D0EA3F80B0EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E14E35-70EB-4146-A060-BFC156DCA1A4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{01E14E35-70EB-4146-A060-BFC156DCA1A4}.Debug|Win32.Build.0 = Debug|Win32
+		{01E14E35-70EB-4146-A060-BFC156DCA1A4}.Release|Win32.ActiveCfg = Release|Win32
+		{01E14E35-70EB-4146-A060-BFC156DCA1A4}.Release|Win32.Build.0 = Release|Win32
+		{FCF9BA5F-4094-4B80-9EC3-D0EA3F80B0EC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FCF9BA5F-4094-4B80-9EC3-D0EA3F80B0EC}.Debug|Win32.Build.0 = Debug|Win32
+		{FCF9BA5F-4094-4B80-9EC3-D0EA3F80B0EC}.Release|Win32.ActiveCfg = Release|Win32
+		{FCF9BA5F-4094-4B80-9EC3-D0EA3F80B0EC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

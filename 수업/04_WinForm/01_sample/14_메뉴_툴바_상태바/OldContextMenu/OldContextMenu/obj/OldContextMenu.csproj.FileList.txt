@@ -1,0 +1,5 @@
+bin\Debug\OldContextMenu.exe
+bin\Debug\OldContextMenu.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\OldContextMenu.exe
+obj\Debug\OldContextMenu.pdb

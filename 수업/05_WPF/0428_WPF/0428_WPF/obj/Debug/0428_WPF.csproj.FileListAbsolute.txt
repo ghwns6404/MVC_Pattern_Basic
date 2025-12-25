@@ -1,0 +1,7 @@
+C:\Users\bit1\Desktop\0428_WPF\0428_WPF\obj\Debug\0428_WPF.csproj.AssemblyReference.cache
+C:\Users\bit1\Desktop\0428_WPF\0428_WPF\obj\Debug\0428_WPF.csproj.CoreCompileInputs.cache
+C:\Users\bit1\Desktop\0428_WPF\0428_WPF\bin\Debug\0428_WPF.exe.config
+C:\Users\bit1\Desktop\0428_WPF\0428_WPF\bin\Debug\0428_WPF.exe
+C:\Users\bit1\Desktop\0428_WPF\0428_WPF\bin\Debug\0428_WPF.pdb
+C:\Users\bit1\Desktop\0428_WPF\0428_WPF\obj\Debug\0428_WPF.exe
+C:\Users\bit1\Desktop\0428_WPF\0428_WPF\obj\Debug\0428_WPF.pdb

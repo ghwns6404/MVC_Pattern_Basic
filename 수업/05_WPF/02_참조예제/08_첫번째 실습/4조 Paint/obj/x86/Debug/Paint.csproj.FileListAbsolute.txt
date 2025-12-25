@@ -1,0 +1,52 @@
+F:\NySHell\NySHell\12 - WPF\NySHell\2011_5_17\Paint\bin\Debug\Paint.exe
+F:\NySHell\NySHell\12 - WPF\NySHell\2011_5_17\Paint\bin\Debug\Paint.pdb
+F:\NySHell\NySHell\12 - WPF\NySHell\2011_5_17\Paint\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\NySHell\NySHell\12 - WPF\NySHell\2011_5_17\Paint\obj\x86\Debug\MainWindow.baml
+F:\NySHell\NySHell\12 - WPF\NySHell\2011_5_17\Paint\obj\x86\Debug\MainWindow.g.cs
+F:\NySHell\NySHell\12 - WPF\NySHell\2011_5_17\Paint\obj\x86\Debug\App.g.cs
+F:\NySHell\NySHell\12 - WPF\NySHell\2011_5_17\Paint\obj\x86\Debug\Paint_MarkupCompile.cache
+F:\NySHell\NySHell\12 - WPF\NySHell\2011_5_17\Paint\obj\x86\Debug\Paint.g.resources
+F:\NySHell\NySHell\12 - WPF\NySHell\2011_5_17\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+F:\NySHell\NySHell\12 - WPF\NySHell\2011_5_17\Paint\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\NySHell\NySHell\12 - WPF\NySHell\2011_5_17\Paint\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\NySHell\NySHell\12 - WPF\NySHell\2011_5_17\Paint\obj\x86\Debug\Paint.exe
+F:\NySHell\NySHell\12 - WPF\NySHell\2011_5_17\Paint\obj\x86\Debug\Paint.pdb
+\\61.81.99.99\08_첫번째 실습\4조 Paint\obj\x86\Debug\Paint.exe
+\\61.81.99.99\08_첫번째 실습\4조 Paint\obj\x86\Debug\Paint.pdb
+\\61.81.99.99\08_첫번째 실습\4조 Paint\bin\Debug\Paint.exe
+\\61.81.99.99\08_첫번째 실습\4조 Paint\bin\Debug\Paint.pdb
+\\61.81.99.99\08_첫번째 실습\4조 Paint\obj\x86\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\08_첫번째 실습\4조 Paint\obj\x86\Debug\MainWindow.baml
+\\61.81.99.99\08_첫번째 실습\4조 Paint\obj\x86\Debug\MainWindow.g.cs
+\\61.81.99.99\08_첫번째 실습\4조 Paint\obj\x86\Debug\App.g.cs
+\\61.81.99.99\08_첫번째 실습\4조 Paint\obj\x86\Debug\Paint_MarkupCompile.cache
+\\61.81.99.99\08_첫번째 실습\4조 Paint\obj\x86\Debug\Paint.g.resources
+\\61.81.99.99\08_첫번째 실습\4조 Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+\\61.81.99.99\08_첫번째 실습\4조 Paint\obj\x86\Debug\GenerateResource.read.1.tlog
+\\61.81.99.99\08_첫번째 실습\4조 Paint\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\WOOSONG13\11_WPF\08_첫번째 실습\4조 Paint\bin\Debug\Paint.exe
+D:\WOOSONG13\11_WPF\08_첫번째 실습\4조 Paint\bin\Debug\Paint.pdb
+D:\WOOSONG13\11_WPF\08_첫번째 실습\4조 Paint\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WOOSONG13\11_WPF\08_첫번째 실습\4조 Paint\obj\x86\Debug\MainWindow.baml
+D:\WOOSONG13\11_WPF\08_첫번째 실습\4조 Paint\obj\x86\Debug\MainWindow.g.cs
+D:\WOOSONG13\11_WPF\08_첫번째 실습\4조 Paint\obj\x86\Debug\App.g.cs
+D:\WOOSONG13\11_WPF\08_첫번째 실습\4조 Paint\obj\x86\Debug\Paint_MarkupCompile.cache
+D:\WOOSONG13\11_WPF\08_첫번째 실습\4조 Paint\obj\x86\Debug\Paint.g.resources
+D:\WOOSONG13\11_WPF\08_첫번째 실습\4조 Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+D:\WOOSONG13\11_WPF\08_첫번째 실습\4조 Paint\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\WOOSONG13\11_WPF\08_첫번째 실습\4조 Paint\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\WOOSONG13\11_WPF\08_첫번째 실습\4조 Paint\obj\x86\Debug\Paint.exe
+D:\WOOSONG13\11_WPF\08_첫번째 실습\4조 Paint\obj\x86\Debug\Paint.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\4조 Paint\obj\x86\Debug\Paint.exe
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\4조 Paint\obj\x86\Debug\Paint.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\4조 Paint\bin\Debug\Paint.exe
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\4조 Paint\bin\Debug\Paint.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\4조 Paint\obj\x86\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\4조 Paint\obj\x86\Debug\MainWindow.baml
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\4조 Paint\obj\x86\Debug\MainWindow.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\4조 Paint\obj\x86\Debug\App.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\4조 Paint\obj\x86\Debug\Paint_MarkupCompile.cache
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\4조 Paint\obj\x86\Debug\Paint.g.resources
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\4조 Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\4조 Paint\obj\x86\Debug\GenerateResource.read.1.tlog
+\\61.81.99.99\c#\11_WPF 발표자료\08_첫번째 실습\4조 Paint\obj\x86\Debug\GenerateResource.write.1.tlog

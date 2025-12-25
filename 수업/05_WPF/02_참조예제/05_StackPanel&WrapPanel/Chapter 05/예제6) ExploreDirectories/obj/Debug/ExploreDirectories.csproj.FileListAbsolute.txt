@@ -1,0 +1,12 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 05\ExploreDirectories\bin\Debug\ExploreDirectories.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 05\ExploreDirectories\bin\Debug\ExploreDirectories.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 05\ExploreDirectories\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 05\ExploreDirectories\obj\Debug\ExploreDirectories.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 05\ExploreDirectories\obj\Debug\ExploreDirectories.pdb
+C:\Documents and Settings\USER\바탕 화면\05장_발표\Chapter 05\예제6) ExploreDirectories\obj\Debug\ExploreDirectories.exe
+C:\Documents and Settings\USER\바탕 화면\05장_발표\Chapter 05\예제6) ExploreDirectories\obj\Debug\ExploreDirectories.pdb
+C:\Documents and Settings\USER\바탕 화면\05장_발표\Chapter 05\예제6) ExploreDirectories\bin\Debug\ExploreDirectories.exe
+C:\Documents and Settings\USER\바탕 화면\05장_발표\Chapter 05\예제6) ExploreDirectories\bin\Debug\ExploreDirectories.pdb
+C:\Documents and Settings\USER\바탕 화면\05장_발표\Chapter 05\예제6) ExploreDirectories\obj\Debug\ResolveAssemblyReference.cache
+D:\WOOSONG13\11_WPF\05장_발표\Chapter 05\예제6) ExploreDirectories\obj\Debug\ExploreDirectories.exe
+D:\WOOSONG13\11_WPF\05장_발표\Chapter 05\예제6) ExploreDirectories\obj\Debug\ExploreDirectories.pdb

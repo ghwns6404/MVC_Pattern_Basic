@@ -1,0 +1,5 @@
+bin\Debug\TabControlExam.exe
+bin\Debug\TabControlExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TabControlExam.exe
+obj\Debug\TabControlExam.pdb

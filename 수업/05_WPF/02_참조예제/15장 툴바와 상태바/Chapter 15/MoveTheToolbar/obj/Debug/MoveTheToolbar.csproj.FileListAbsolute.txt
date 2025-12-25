@@ -1,0 +1,12 @@
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 15\MoveTheToolbar\bin\Debug\MoveTheToolbar.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 15\MoveTheToolbar\bin\Debug\MoveTheToolbar.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 15\MoveTheToolbar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 15\MoveTheToolbar\obj\Debug\MoveTheToolbar.exe
+C:\Documents and Settings\woosong bit\바탕 화면\AppsCodeMarkup\Chapter 15\MoveTheToolbar\obj\Debug\MoveTheToolbar.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\15장 툴바와 상태바\Chapter 15\MoveTheToolbar\obj\Debug\MoveTheToolbar.exe
+C:\Documents and Settings\woosong bit\바탕 화면\15장 툴바와 상태바\Chapter 15\MoveTheToolbar\obj\Debug\MoveTheToolbar.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\15장 툴바와 상태바\Chapter 15\MoveTheToolbar\bin\Debug\MoveTheToolbar.exe
+C:\Documents and Settings\woosong bit\바탕 화면\15장 툴바와 상태바\Chapter 15\MoveTheToolbar\bin\Debug\MoveTheToolbar.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\15장 툴바와 상태바\Chapter 15\MoveTheToolbar\obj\Debug\ResolveAssemblyReference.cache
+D:\WOOSONG13\11_WPF\15장 툴바와 상태바\Chapter 15\MoveTheToolbar\obj\Debug\MoveTheToolbar.exe
+D:\WOOSONG13\11_WPF\15장 툴바와 상태바\Chapter 15\MoveTheToolbar\obj\Debug\MoveTheToolbar.pdb

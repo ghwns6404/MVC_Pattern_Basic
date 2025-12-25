@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogMode", "DialogMode\DialogMode.csproj", "{951CA9B1-BE22-4CE1-AABC-7DAA6D8DE913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951CA9B1-BE22-4CE1-AABC-7DAA6D8DE913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951CA9B1-BE22-4CE1-AABC-7DAA6D8DE913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951CA9B1-BE22-4CE1-AABC-7DAA6D8DE913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951CA9B1-BE22-4CE1-AABC-7DAA6D8DE913}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

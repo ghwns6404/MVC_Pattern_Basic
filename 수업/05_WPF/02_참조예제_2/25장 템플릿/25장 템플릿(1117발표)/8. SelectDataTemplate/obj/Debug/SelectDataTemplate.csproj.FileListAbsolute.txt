@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\SelectDataTemplate\bin\Debug\SelectDataTemplate.exe
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\SelectDataTemplate\bin\Debug\SelectDataTemplate.pdb
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\SelectDataTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\SelectDataTemplate\obj\Debug\SelectDataTemplate.g.cs
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\SelectDataTemplate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\SelectDataTemplate\obj\Debug\SelectDataTemplate_MarkupCompile.cache
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\SelectDataTemplate\obj\Debug\SelectDataTemplate_MarkupCompile.lref
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\SelectDataTemplate\obj\Debug\SelectDataTemplate.baml
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\SelectDataTemplate\obj\Debug\SelectDataTemplate.g.resources
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\SelectDataTemplate\obj\Debug\SelectDataTemplate.exe
+C:\Users\Administrator\Desktop\AppsCodeMarkup\Chapter 25\SelectDataTemplate\obj\Debug\SelectDataTemplate.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\8. SelectDataTemplate\obj\Debug\SelectDataTemplate.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\8. SelectDataTemplate\obj\Debug\SelectDataTemplate.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\8. SelectDataTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\8. SelectDataTemplate\obj\Debug\SelectDataTemplate.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\8. SelectDataTemplate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\8. SelectDataTemplate\obj\Debug\SelectDataTemplate_MarkupCompile.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\8. SelectDataTemplate\obj\Debug\SelectDataTemplate_MarkupCompile.lref
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\8. SelectDataTemplate\obj\Debug\SelectDataTemplate.g.resources
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\8. SelectDataTemplate\bin\Debug\SelectDataTemplate.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\8. SelectDataTemplate\bin\Debug\SelectDataTemplate.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\25장 템플릿\25장 템플릿(1117발표)\8. SelectDataTemplate\obj\Debug\SelectDataTemplate.baml

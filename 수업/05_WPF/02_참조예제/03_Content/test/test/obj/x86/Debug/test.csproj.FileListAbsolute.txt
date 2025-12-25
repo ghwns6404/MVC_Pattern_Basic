@@ -1,0 +1,69 @@
+E:\Study\프로젝트\WPF\test\test\bin\Debug\test.exe
+E:\Study\프로젝트\WPF\test\test\bin\Debug\test.pdb
+E:\Study\프로젝트\WPF\test\test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Study\프로젝트\WPF\test\test\obj\x86\Debug\MainWindow.baml
+E:\Study\프로젝트\WPF\test\test\obj\x86\Debug\MainWindow.g.cs
+E:\Study\프로젝트\WPF\test\test\obj\x86\Debug\App.g.cs
+E:\Study\프로젝트\WPF\test\test\obj\x86\Debug\test_MarkupCompile.cache
+E:\Study\프로젝트\WPF\test\test\obj\x86\Debug\test.g.resources
+E:\Study\프로젝트\WPF\test\test\obj\x86\Debug\test.Properties.Resources.resources
+E:\Study\프로젝트\WPF\test\test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Study\프로젝트\WPF\test\test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Study\프로젝트\WPF\test\test\obj\x86\Debug\test.exe
+E:\Study\프로젝트\WPF\test\test\obj\x86\Debug\test.pdb
+C:\Users\DELL\Desktop\test\test\obj\x86\Debug\test.exe
+C:\Users\DELL\Desktop\test\test\obj\x86\Debug\test.pdb
+D:\WOOSONG13\11_WPF\03_Content\test\test\obj\x86\Debug\test.exe
+D:\WOOSONG13\11_WPF\03_Content\test\test\obj\x86\Debug\test.pdb
+D:\WOOSONG13\11_WPF\03_Content\test\test\bin\Debug\test.exe
+D:\WOOSONG13\11_WPF\03_Content\test\test\bin\Debug\test.pdb
+D:\WOOSONG13\11_WPF\03_Content\test\test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WOOSONG13\11_WPF\03_Content\test\test\obj\x86\Debug\MainWindow.baml
+D:\WOOSONG13\11_WPF\03_Content\test\test\obj\x86\Debug\MainWindow.g.cs
+D:\WOOSONG13\11_WPF\03_Content\test\test\obj\x86\Debug\App.g.cs
+D:\WOOSONG13\11_WPF\03_Content\test\test\obj\x86\Debug\test_MarkupCompile.cache
+D:\WOOSONG13\11_WPF\03_Content\test\test\obj\x86\Debug\test.g.resources
+D:\WOOSONG13\11_WPF\03_Content\test\test\obj\x86\Debug\test.Properties.Resources.resources
+D:\WOOSONG13\11_WPF\03_Content\test\test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\WOOSONG13\11_WPF\03_Content\test\test\obj\x86\Debug\GenerateResource.write.1.tlog
+\\61.81.99.99\11_wpf\03_Content\test\test\obj\x86\Debug\test.exe
+\\61.81.99.99\11_wpf\03_Content\test\test\obj\x86\Debug\test.pdb
+C:\Users\Administrator\Desktop\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\test.exe
+C:\Users\Administrator\Desktop\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\test.pdb
+C:\Users\Administrator\Desktop\11_WPF 발표자료\03_Content\test\test\bin\Debug\test.exe
+C:\Users\Administrator\Desktop\11_WPF 발표자료\03_Content\test\test\bin\Debug\test.pdb
+C:\Users\Administrator\Desktop\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\test_MarkupCompile.cache
+C:\Users\Administrator\Desktop\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\test.g.resources
+C:\Users\Administrator\Desktop\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\test.Properties.Resources.resources
+C:\Users\Administrator\Desktop\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\test.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\test.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\test.exe
+\\61.81.99.99\c#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\test.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\03_Content\test\test\bin\Debug\test.exe
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\03_Content\test\test\bin\Debug\test.pdb
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\test_MarkupCompile.cache
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\test.g.resources
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\test.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\C#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\GenerateResource.write.1.tlog
+\\61.81.99.99\c#\11_WPF 발표자료\03_Content\test\test\bin\Debug\test.exe
+\\61.81.99.99\c#\11_WPF 발표자료\03_Content\test\test\bin\Debug\test.pdb
+\\61.81.99.99\c#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\ResolveAssemblyReference.cache
+\\61.81.99.99\c#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\MainWindow.baml
+\\61.81.99.99\c#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\MainWindow.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\App.g.cs
+\\61.81.99.99\c#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\test_MarkupCompile.cache
+\\61.81.99.99\c#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\test.g.resources
+\\61.81.99.99\c#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\test.Properties.Resources.resources
+\\61.81.99.99\c#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\GenerateResource.read.1.tlog
+\\61.81.99.99\c#\11_WPF 발표자료\03_Content\test\test\obj\x86\Debug\GenerateResource.write.1.tlog

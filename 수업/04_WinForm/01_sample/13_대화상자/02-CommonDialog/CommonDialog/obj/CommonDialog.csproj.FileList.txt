@@ -1,0 +1,8 @@
+bin\Debug\CommonDialog.exe
+bin\Debug\CommonDialog.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CommonDialog.Form1.resources
+obj\Debug\CommonDialog.Properties.Resources.resources
+obj\Debug\CommonDialog.csproj.GenerateResource.Cache
+obj\Debug\CommonDialog.exe
+obj\Debug\CommonDialog.pdb

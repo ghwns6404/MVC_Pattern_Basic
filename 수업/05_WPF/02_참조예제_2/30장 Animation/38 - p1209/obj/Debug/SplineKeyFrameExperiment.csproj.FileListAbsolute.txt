@@ -1,0 +1,20 @@
+F:\NySHell\NySHell\12 - WPF\강사님\AppsCodeMarkup\Chapter 30\SplineKeyFrameExperiment\bin\Debug\SplineKeyFrameExperiment.exe
+F:\NySHell\NySHell\12 - WPF\강사님\AppsCodeMarkup\Chapter 30\SplineKeyFrameExperiment\bin\Debug\SplineKeyFrameExperiment.pdb
+F:\NySHell\NySHell\12 - WPF\강사님\AppsCodeMarkup\Chapter 30\SplineKeyFrameExperiment\obj\Debug\ResolveAssemblyReference.cache
+F:\NySHell\NySHell\12 - WPF\강사님\AppsCodeMarkup\Chapter 30\SplineKeyFrameExperiment\obj\Debug\SplineKeyFrameExperiment.g.cs
+F:\NySHell\NySHell\12 - WPF\강사님\AppsCodeMarkup\Chapter 30\SplineKeyFrameExperiment\obj\Debug\SplineKeyFrameExperiment_MarkupCompile.cache
+F:\NySHell\NySHell\12 - WPF\강사님\AppsCodeMarkup\Chapter 30\SplineKeyFrameExperiment\obj\Debug\SplineKeyFrameExperiment_MarkupCompile.lref
+F:\NySHell\NySHell\12 - WPF\강사님\AppsCodeMarkup\Chapter 30\SplineKeyFrameExperiment\obj\Debug\SplineKeyFrameExperiment.baml
+F:\NySHell\NySHell\12 - WPF\강사님\AppsCodeMarkup\Chapter 30\SplineKeyFrameExperiment\obj\Debug\SplineKeyFrameExperiment.g.resources
+F:\NySHell\NySHell\12 - WPF\강사님\AppsCodeMarkup\Chapter 30\SplineKeyFrameExperiment\obj\Debug\SplineKeyFrameExperiment.exe
+F:\NySHell\NySHell\12 - WPF\강사님\AppsCodeMarkup\Chapter 30\SplineKeyFrameExperiment\obj\Debug\SplineKeyFrameExperiment.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\38 - p1209\obj\Debug\SplineKeyFrameExperiment.exe
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\38 - p1209\obj\Debug\SplineKeyFrameExperiment.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\38 - p1209\bin\Debug\SplineKeyFrameExperiment.exe
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\38 - p1209\bin\Debug\SplineKeyFrameExperiment.pdb
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\38 - p1209\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\38 - p1209\obj\Debug\SplineKeyFrameExperiment.g.cs
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\38 - p1209\obj\Debug\SplineKeyFrameExperiment_MarkupCompile.cache
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\38 - p1209\obj\Debug\SplineKeyFrameExperiment_MarkupCompile.lref
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\38 - p1209\obj\Debug\SplineKeyFrameExperiment.baml
+C:\Documents and Settings\woosong bit\바탕 화면\30장 Animation\38 - p1209\obj\Debug\SplineKeyFrameExperiment.g.resources

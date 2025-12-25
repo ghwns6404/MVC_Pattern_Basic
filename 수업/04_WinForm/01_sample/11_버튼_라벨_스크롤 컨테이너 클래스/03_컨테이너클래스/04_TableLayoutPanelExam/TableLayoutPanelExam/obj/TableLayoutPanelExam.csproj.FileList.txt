@@ -1,0 +1,8 @@
+bin\Debug\TableLayoutPanelExam.exe
+bin\Debug\TableLayoutPanelExam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TableLayoutPanelExam.Form1.resources
+obj\Debug\TableLayoutPanelExam.Properties.Resources.resources
+obj\Debug\TableLayoutPanelExam.csproj.GenerateResource.Cache
+obj\Debug\TableLayoutPanelExam.exe
+obj\Debug\TableLayoutPanelExam.pdb

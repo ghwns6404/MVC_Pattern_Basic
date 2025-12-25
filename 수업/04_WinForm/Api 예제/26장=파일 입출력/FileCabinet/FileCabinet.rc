@@ -1,0 +1,299 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_TREEIMAGE           BITMAP  DISCARDABLE     "treeimag.bmp"
+IDB_TOOLBAR             BITMAP  MOVEABLE PURE   "ToolBar.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ADDVOLUME DIALOG DISCARDABLE  0, 0, 335, 199
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "볼륨추가"
+FONT 9, "굴림"
+BEGIN
+    CONTROL         "List1",IDC_DRIVES,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | LVS_SHOWSELALWAYS | WS_BORDER | 
+                    WS_TABSTOP,5,55,140,80
+    LTEXT           "제목",IDC_STATIC,165,61,15,8
+    EDITTEXT        IDC_EDTITLE,189,55,115,14,ES_AUTOHSCROLL
+    LTEXT           "설명",IDC_STATIC,165,81,15,8
+    EDITTEXT        IDC_EDDESC,189,75,115,14,ES_AUTOHSCROLL
+    CONTROL         "꼭꼭 숨어 있는 파일도 목록 조사 대상에 포함",
+                    IDC_CHKINCHID,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,165,
+                    101,160,10
+    CONTROL         "압축 파일을 디렉토리처럼 취급하기(미완성 기능)",
+                    IDC_CHKZIPDIR,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,165,
+                    115,165,10
+    CONTROL         "알려진 파일에 대해 미리 보기 작성",IDC_CHKMAKEPREVIEW,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,165,131,165,10
+    LTEXT           "디렉토리 선택",IDC_STATIC,5,156,44,8
+    EDITTEXT        IDC_EDFOLDER,5,170,140,14,ES_AUTOHSCROLL | ES_READONLY
+    PUSHBUTTON      "찾아보기",IDC_BTNBROWSE,105,150,40,14
+    DEFPUSHBUTTON   "확인",IDOK,195,166,50,14
+    PUSHBUTTON      "취소",IDCANCEL,260,165,50,14
+    LTEXT           "작성할 볼륨을 선택하십시오. 드라이브 전체 또는 지정한 디렉토리 이하만 볼륨으로 만들 수\r\n있습니다. 제목은 트리의 루트에 보이는 문자열이며 디폴트로 드라이브 이름과 레이블로\r\n주어지나 알아보기 쉬운 이름(예:이미지 모음, 6월29일자)으로 바꿀 수 있습니다.",
+                    IDC_STATIC,5,5,305,29
+    LTEXT           "드라이브 선택",IDC_STATIC,5,45,44,8
+END
+
+IDD_DLGNEWCAB DIALOG DISCARDABLE  0, 0, 319, 159
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "캐비넷 추가"
+FONT 9, "굴림"
+BEGIN
+    LTEXT           "이름",IDC_STATIC,5,71,15,8
+    EDITTEXT        IDC_EDCABNAME,30,65,120,14,ES_AUTOHSCROLL
+    LTEXT           "설명",IDC_STATIC,5,91,15,8
+    EDITTEXT        IDC_EDCABDESC,30,85,120,14,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "확인",IDOK,100,130,50,14
+    PUSHBUTTON      "취소",IDCANCEL,160,130,50,14
+    CONTROL         "파일을 압축하여 저장하기(미완성 기능)",IDC_CHKCOMP,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,5,110,138,10
+    CONTROL         "열때 암호 물어 보기",IDC_CHKENCRYPT,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,160,65,78,10
+    LTEXT           "CD-ROM 또는 디렉토리 하나의 파일 목록을 저장하여 볼륨을 만들며 이런 볼륨들을 모아\r\n캐비넷에 저장합니다. 저장된 정보는 미디어가 없는 상태에서도 열람 및 검색할 수 있습니다. \r\n아래에 작성하고자 하는 캐비넷의 이름(예:백업CD, 다운받은 파일)과 간단한 설명을 \r\n입력하고 옵션을 선택하십시오. 하나의 캐비넷에는 무한대의 볼륨을 작성할 수 있으며\r\n여러 개의 캐비넷을 동시에 열 수도 있습니다.",
+                    IDC_STATIC,10,10,295,40
+    LTEXT           "암호",IDC_STATIC,160,90,15,8
+    EDITTEXT        IDC_EDPASSWORD,180,85,80,14,ES_PASSWORD | ES_AUTOHSCROLL
+END
+
+IDD_DLGREMARK DIALOG DISCARDABLE  0, 0, 269, 139
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "폴더 삭제 및 설명 달기"
+FONT 9, "굴림"
+BEGIN
+    LTEXT           "폴더 내부의 파일 목록을 유지할 필요가 없다면 삭제하여 용량을 줄일 수 있습니다.\r\n예를 들어 Picture 폴더안에 예쁜 그림 10만장이 있을 때 상세한 파일 정보를 유지할 필요없이 폴더 정보만 있어도 파일 목록을 파악할 수 있습니다.\r\n폴더를 지우더라도 폴더 자체와 용량, 포함된 파일 개수 등의 정보는 유지됩니다.\r\n삭제할 폴더에 별도의 설명을 작성하고 싶다면 이름 뒤에 설명을 작성하십시오.",
+                    IDC_STATIC,5,15,255,45
+    LTEXT           "폴더의 새 이름",IDC_STATIC,15,85,47,8
+    EDITTEXT        IDC_EDREMARK,70,80,190,14,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "확인",IDOK,69,115,50,14
+    PUSHBUTTON      "취소",IDCANCEL,149,115,50,14
+END
+
+IDD_DLGPASS DIALOG DISCARDABLE  0, 0, 203, 69
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "암호입력"
+FONT 9, "굴림"
+BEGIN
+    LTEXT           "캐비넷에 암호가 설정되어 있습니다. 암호를 입력하십시오.",
+                    IDC_STATIC,10,10,182,8
+    EDITTEXT        IDC_EDPASSWORD,35,25,130,14,ES_PASSWORD | ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "확인",IDOK,45,50,50,14
+    PUSHBUTTON      "취소",IDCANCEL,105,50,50,14
+END
+
+IDD_DLGABOUT DIALOG DISCARDABLE  0, 0, 269, 165
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "프로그램 소개"
+FONT 9, "굴림"
+BEGIN
+    LTEXT           "FileCabinet Ver 1.0",IDC_STATIC,100,10,62,8
+    LTEXT           "이 프로그램은 CD-ROM, DVD 등의 파일 목록을 관리하는 프로그램이다. \r\n파일 목록을 작성해 놓으면 CD-ROM을 일일이 넣지 않아도 검색할 수 있다.\r\n물론 하드 디스크의 목록도 작성할 수 있지.\r\n소스는 http://www.winapi.co.kr에 있으니 받아서 공부해 봐. 물론 공짜다.\r\n참. 버그가 보이면 그냥 참고 쓰셔. 버그 없는 프로그램이 어딨니?",
+                    IDC_STATIC,10,30,246,40
+    LTEXT           "이 프로그램은 설치 후 100년동안만 쓸 수 있는 셰어웨어다.\r\n정품과 기능 차이는 전혀 없지만 정품을 사면 메시지가 좀 공손해 지기는 하지.\r\n내가 반말 쓰는게 듣기 싫으면 돈 내고 써~~\r\n설마 진짜 기분 나쁜 건 아니겠지?",
+                    IDC_STATIC,10,80,245,40
+    DEFPUSHBUTTON   "아냐 괜찮아~ 공짠데 뭐",IDOK,10,135,105,15
+    PUSHBUTTON      "이런~ 기분 나쁘다.",IDNOOK,140,135,105,15,NOT 
+                    WS_TABSTOP
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU DISCARDABLE 
+BEGIN
+    POPUP "파일"
+    BEGIN
+        MENUITEM "종료",                        IDM_FILE_EXIT
+    END
+    POPUP "도움말"
+    BEGIN
+        MENUITEM "캐비넷 제작과 관련된 기본 명령들은 상단의 툴바에 있습니다. ", 
+                                                ID_MENUITEM40028
+        MENUITEM "최초 실행 후 다음 단계대로 실습을 진행해 보십시오.", 
+                                                ID_MENUITEM40029
+        MENUITEM "  ",                          ID_MENUITEM40030
+        MENUITEM "1.새 캐비넷 버튼을 눌러 캐비넷을 만들면 빈 캐비넷이 만들어진다.", 
+                                                ID_MENUITEM40037
+        MENUITEM "2.불륨추가 버튼을 눌러 CD-ROM 또는 임의의 폴더를 선택한다.", 
+                                                ID_MENUITEM40031
+        MENUITEM "3.트리,리스트에서 볼륨 정보가 제대로 작성되었는지 확인한다.", 
+                                                ID_MENUITEM40032
+        MENUITEM "4.검색창에서 검색식을 입력하여 파일을 찾아 본다.", 
+                                                ID_MENUITEM40033
+        MENUITEM "5.저장 버튼을 눌러 저장하고 열기 버튼으로 다시 읽어온다.", 
+                                                ID_MENUITEM40034
+        MENUITEM "  ",                          ID_MENUITEM40035
+        MENUITEM "작성된 볼륨 정보는 CD를 빼거나 디렉토리를 삭제해도 유지됩니다.", 
+                                                ID_MENUITEM40036
+        MENUITEM "트리의 캐비넷, 볼륨, 디렉토리 등에서 오른쪽 팝업 버튼을 누르면", 
+                                                ID_MENUITEM40038
+        MENUITEM "고급 명령들을 사용할 수 있습니다.", ID_MENUITEM40039
+        MENUITEM "  ",                          ID_MENUITEM40040
+        MENUITEM "이상 지금껏 아무도 시도하지 않았던 도움말 메뉴의 엽기 도움말이었습니다.", 
+                                                ID_MENUITEM40041
+        MENUITEM SEPARATOR
+        MENUITEM "프로그램 소개",               IDM_HELP_ABOUT
+    END
+END
+
+IDR_POPUP MENU DISCARDABLE 
+BEGIN
+    POPUP "빈바닥"
+    BEGIN
+        MENUITEM "새 캐비넷",                   IDM_EMPTY_NEWCABINET
+        MENUITEM "캐비넷 열기",                 IDM_EMPTY_OPENCABINET
+        MENUITEM "모두 저장",                   IDM_EMPTY_SAVEALL
+        MENUITEM "모두 닫기",                   IDM_EMPTY_CLOSEALL
+    END
+    POPUP "캐비넷"
+    BEGIN
+        MENUITEM "볼륨 추가",                   IDM_CAB_ADDVOL
+        MENUITEM "저장",                        IDM_CAB_SAVE
+        MENUITEM "새 이름으로",                 IDM_CAB_SAVEAS
+        MENUITEM "닫기",                        IDM_CAB_CLOSE
+        MENUITEM "속성 편집",                   IDM_CAB_EDIT
+    END
+    POPUP "볼륨"
+    BEGIN
+        MENUITEM "삭제",                        IDM_VOL_DELETE
+        MENUITEM "다시 작성",                   IDM_VOL_REMAKE
+    END
+    POPUP "레코드"
+    BEGIN
+        MENUITEM "삭제 및 설명으로 대체",       IDM_REC_DELETE
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ADDVOLUME, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 328
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 192
+    END
+
+    IDD_DLGNEWCAB, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 312
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 152
+    END
+
+    IDD_DLGREMARK, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 262
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 132
+    END
+
+    IDD_DLGPASS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 196
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 62
+    END
+
+    IDD_DLGABOUT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 262
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 158
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON    DISCARDABLE     "icon1.ico"
+#endif    // Korean resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

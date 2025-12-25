@@ -1,0 +1,58 @@
+// DrawingGroup에 속성값 추가 (그림 잘리기)
+<DrawingGroup ClipGeometry="M 0 -50 L 210 -50 L 210 120 L 0 250 Z">
+
+
+// DrawingGroup 하위에 추가(투명도 50%)
+<DrawingGroup Opacity="0.5">
+
+
+// DrawingGroup 하위에 추가(투명도 자세히 조절)
+<DrawingGroup.OpacityMask>
+	<RadialGradientBrush>
+		<GradientStop Offset="0" Color="White" />
+		<GradientStop Offset="1" Color="Transparent" />
+	</RadialGradientBrush>
+</DrawingGroup.OpacityMask>
+
+
+// DrawingGroup 하위에 추가(그림자 효과)
+<DrawingGroup.BitmapEffect>
+	<DropShadowBitmapEffect />
+</DrawingGroup.BitmapEffect>
+
+
+// DrawingGroup 하위에 추가(테두리에 붉은 효과)
+<DrawingGroup.BitmapEffect>
+	<OuterGlowBitmapEffect GlowColor="Red" />
+</DrawingGroup.BitmapEffect>
+
+
+// DrawingGroup 하위에 추가(흐릿하게 보여주는 효과)
+<DrawingGroup.BitmapEffect>
+	<BlurBitmapEffect />
+</DrawingGroup.BitmapEffect>
+
+
+// DrawingGroup.Transform 하위에 추가(..)
+<DrawingGroup.Transform>
+	<ScaleTransform ScaleX="0.25" ScaleY="0.25" />
+</DrawingGroup.Transform>
+
+
+// 애니메이션 효과
+<Image.RenderTransform>
+		<RotateTransform x:Name="xform" />
+	</Image.RenderTransform>
+	<Image.RenderTransformOrigin>
+		<Point X="0.5" Y="0" />
+	</Image.RenderTransformOrigin>
+	<Image.Triggers>
+		<EventTrigger RoutedEvent="Image.Loaded">
+			<BeginStoryboard>
+				<Storyboard TargetName="xform" TargetProperty="Angle">
+					<DoubleAnimation From="-10" To="10" AutoReverse="True"
+					 RepeatBehavior="Forever" AccelerationRatio="0.5" DecelerationRatio="0.5" />
+				</Storyboard>
+			</BeginStoryboard>
+		</EventTrigger>
+	</Image.Triggers>
